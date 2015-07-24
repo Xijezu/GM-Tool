@@ -1,0 +1,47 @@
+540001	Ent Card
+540002	Siren Card
+540003	White Dragon Card
+540004	Astarot Card
+540005	Red Pixie Card
+540006	Blue Pixie Card
+540009	Hawkman Card
+540010	Kentauros Card
+540011	Yeti Card
+540012	Salamander Card
+540013	Angel Card
+540014	Poultry Card
+540015	Tortus Card
+540016	Pantera Card
+540017	Young Ornitho
+540018	Skeleton Card
+540019	Orc Card
+540020	Lydian
+540021	Lydian (HV)
+540036	Cerberus Card
+540037	White Dragon Card
+540049	Mystic Koala Card<Sealing card>
+540052	Harpy Card
+540053	Wolf Card
+540055	Gnoll Card
+540057	Octopus Card
+540059	Naga Card
+540061	Genie Card
+540063	Ifrit Card
+540065	Unicorn Card
+540067	Nightmare Card
+540069	Death Tyrant Card<ep7>
+540070	Joker Card<Sealed><ep7>
+540071	Ice Maiden Card <Tamed card>
+540073	Abomination Card<tamed>
+540076	Stone Golem Card
+540079	Lydian Card
+540117	Snowman Card<Event>
+540200	[Basic] Soul Taming Card<All monsters of new basic level>
+540201	[Rare] Soul Taming Card<All monsters of new rare level>
+540202	[Special] Soul Taming Card<All monsters of new special level>
+540203	[Unique] Soul Taming Card<All monsters of new unique level>
+3800001	Baphomet Card<AP shop empty card>
+3800002	Blight Ogre Card<AP shop empty card>
+3800003	Undine Card<AP shop empty card>
+3800004	Minotaurus Card<AP Selling Empty Card>
+3800005	Drillbot Card<AP shop empty card>

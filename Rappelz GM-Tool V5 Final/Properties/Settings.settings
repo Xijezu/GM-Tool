@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Rappelz_GM_Tool_V5_Final.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="dbUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="dbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="dbDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Arcadia</Value>
+    </Setting>
+    <Setting Name="NoticeOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please enter a notice.</Value>
+    </Setting>
+    <Setting Name="NoticeTwo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">The notice will be autosaved</Value>
+    </Setting>
+    <Setting Name="NoticeThree" Type="System.String" Scope="User">
+      <Value Profile="(Default)">So you don't have to type it</Value>
+    </Setting>
+    <Setting Name="NoticeFour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Every time you start the GM-Tool.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

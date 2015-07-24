@@ -1,0 +1,1850 @@
+1001	Max HP Boost
+1002	Max MP Boost
+1003	HP Regen Boost
+1004	HP Recovery Boost
+1005	MP Regen Boost
+1006	MP Recovery Boost
+1007	P. Attack Boost
+1008	M. Power Boost
+1009	P. Defense Boost
+1010	Magical Defense Power increases
+1011	Attack Speed Boost
+1012	Cast Speed Boost
+1013	Move Speed Boost
+1014	Accuracy Boost
+1015	Evasion Boost
+1016	M. Accuracy Boost
+1017	M. Res increases
+1018	Crit Chance Boost
+1019	Crit Power Boost
+1021	Block Per Boost
+1051	Hidden Village Attack Power increases
+1052	Hidden Village Magical Power increases
+1053	Hidden Village Defense Power increases
+1054	Hidden Village Magical Defense Power increases
+1055	Hidden Village Attack Speed increases
+1056	Hidden Village Casting Speed increases
+1057	Hidden Village Move Speed Boost
+1058	Attack Power Increases<Event Only>
+1059	Magic Power Increases<Event Only>
+1060	Defense Power Increases<Event Only>
+1061	Magic Defense Power Increases<Event Only>
+1062	Attack Speed Increases<Event Only>
+1063	Casting Speed Increases<Event Only>
+1064	Move Speed Boost<Event Only>
+1065	HP Recovery
+1101	Max HP/MP Boost
+1201	Berserk
+1202	Provoke
+1301	Can't Touch This
+1302	Limitless
+1303	Deferred Death
+1501	Strength Boost
+1502	Vitality Boost
+1503	Dexterity Boost
+1504	Agility Boost
+1505	Intelligence Boost
+1506	Wisdom Boost
+1507	Luck Boost
+1508	Stop HP regen
+1509	Stop MP regen
+1510	Move Speed Boost
+1511	Defense ability increase <increase type>
+1512	Attack ability increase <increase type>
+1513	MAX HP increase <increase type>
+1514	Magical defense power increase<increase type>
+1515	Magical attack power increase <increase type>
+1516	Mass Bless Armor
+1517	Mass Bless Weapon
+1518	Mass Bless Magic Armor
+1519	Mass Bless Magic Power
+2002	Steals MP.
+2003	Absorbs HP.
+2031	Wrath Boost
+2051	Hunting Creature Card
+2501	Additional Fire Damage
+2502	Additional Water Damage
+2503	Additional Wind Damage
+2504	Additional Ground Damage
+2505	Shining Weapon
+2506	Dark Might
+2507	Shining Strike
+2508	Dark Might
+2601	Threat Level Boost
+2602	Threat Level Degrade
+2603	Light Lasting Damage
+2604	독바르기
+2605	굳건한 의기
+4001	HP Recovery Potion
+4002	MP Recovery Potion
+4003	Stamina Saver
+4004	Quick Potion
+4005	Wind Potion
+4006	Spell Potion
+4007	Defense Potion
+4008	Roasted Poultry Egg effect
+4009	Poultry Leg effect
+4010	Fried Tortus Nuggets effect
+4011	Pantera Steak effect
+4012	Barbequed Luminous effect
+4013	Messi Egg Kabob effect
+4014	Barbequed Yak Ribs effect
+4015	Wyvern Pizza effect
+4016	Pure Spring Water effect
+4017	Cold Barley Tea effect
+4018	Green Tea effect
+4019	Lemonade effect
+4020	Sweet Tea effect
+4021	Clear Soda effect
+4022	Cola Soda effect
+4023	Fresh Fruit Punch effect
+4024	Honey Bread Effect
+4025	Honey Water Effect
+4026	Attack Potion
+4027	Ice Water Effect
+4028	Gladiator's Honey Bread
+4029	Gladiator's Honey Water
+4031	Pantera Potion Lasting Effect
+4032	Poultry Potion Lasting Effect
+4033	Tortus Potion Lasting Effect
+4034	Orc Potion Lasting Effect
+4035	Yeti Potion Lasting Effect
+4036	Skeleton Potion Lasting Effect
+4037	Red Pixie Potion Lasting Effect
+4038	Blue Pixie Potion Lasting Effect
+4039	Siren Potion Lasting Effect
+4040	Salamander Potion Lasting Effect
+4041	Hawk Man Potion Lasting Effect
+4042	Kentauros Potion Lasting Effect
+4043	Angel Potion Lasting Effect
+4044	Cerberus Potion Lasting Effect
+4045	White Dragon Potion Lasting Effect
+4046	Mystic Koala Potion Lasting Effect
+4047	Harpy Potion
+4048	Wolf Potion
+4049	Gnoll Potion
+4050	Octopus Potion
+4051	Naga Potion
+4052	Genie Potion
+4053	Crisp Apple Effect
+4054	Ripe Banana Effect
+4055	Yak Farm Rice Cake Effect
+4056	Sweet Cherry Pie Effect
+4057	Crunchy Chocolate Chip Cookie Effect
+4058	Creamy Chocolate Chip Cupcake Effect
+4059	Ceriu Desert Curry Effect
+4060	Tim's Donut Effect
+4061	Crystal Valley Sushi Effect
+4062	Sushi Roll Effect
+4063	Templar's Green Tea Effect
+4064	Logger's Dog on a Stick Effect
+4065	Royale with Cheese Effect
+4066	Spicy Noodles Effect
+4067	Black Bean Noodles Effect
+4068	Lenka Lake Spicy Seafood Soup Effect
+4069	Spicy Seafood Noodles Effect
+4070	Lake Messi Kiwi Effect
+4071	Sour Kiwi Juice Effect
+4072	Smooth Latte Effect
+4073	Hot Dumplings Effect
+4074	Juicy Melon Effect
+4075	Sweet Bean Cake Effect
+4076	Cold Vichyssoise Effect
+4077	Soft Omelet Effect
+4078	Sour Orange Effect
+4079	Fresh Squeezed Orange Juice Effect
+4080	Pancakes with Maple Syrup Effect
+4081	Love Parfait Effect
+4082	Delicious Pineapple Effect
+4083	Eight Cheese Pizza Effect
+4084	Crispy Tonkatsu Effect
+4085	Ivory Tower Strawberry Cake Effect
+4086	Cheap Shrimp Sushi Effect
+4087	Cold Spaghetti<35> Effect
+4088	Wild strawberry of Lenka Lake Effect
+4089	Wild Strawberry Cupcake Effect
+4090	Soft Tiramisu Effect
+4091	Spicy Fried Rice Cake Effect
+4092	Salty Udon<40> Effect
+4093	Ifrit Potion: Lasting Effect
+4094	Moderately Smooth Latte Effect
+4095	Very Smooth Latte Effect
+4096	Moderately Salty Udon
+4097	Extremely Salty Udon
+4098	Unicorn Potion: Lasting Effect
+4099	Nightmare Potion: Lasting Effect
+4100	Death Tyrant Potion Lasting Effect<ep7>
+4101	Ice Maiden Potion
+4102	Growth Potion
+4103	Lydian Potion
+4104	Quick Potion
+4105	Wind Potion
+4106	Spell Potion
+4107	Baphomet Potion
+4108	Blight Ogre Potion
+4109	Undine Potion
+4110	성장의 물약 효과<121Lv~130Lv>
+4111	성장의 물약 효과<131Lv~140Lv>
+4112	성장의 물약 효과<141Lv~150Lv>
+4113	Super Growth Potion<level 121-150>
+4114	Minotaurus Potion
+4115	Drillbot Potion
+4116	Growth Potion Superior
+4117	Mephisto Potion Lasting Effect
+4118	Kiscia Potion Lasting Effect
+4119	Superior Potion Effect<ep9><171Lv~180Lv>
+4154	Quick Potion Lv. 3
+4155	Wind Potion Lv. 3
+4156	Spell Potion Lv. 3
+4204	Reinforced Quick Potion Lv. 4
+4205	Reinforced Wind Potion Lv. 4
+4206	Reinforced Spell Potion Lv. 4
+4207	Reinforced Quick Potion 5
+4208	Reinforced Wind Potion 5
+4209	Reinforced Spell Potion 5
+4251	Bestial Cry
+4501	Anger
+4502	Halo of Light
+4503	Frenzy
+4504	Energy Creation
+4505	Disguise <Yeti>
+4506	Disguise <Salamander>
+4507	Transformation<Rabbit>
+4508	Disguise <Crystal>
+4509	Disguise <Mineshaft>
+4510	Blessing of the Goddess
+4511	HP/MP Recovery Potion
+4512	Mark of the Criminal
+4513	Black pine tea lasting effect
+4514	Forgotten One
+4515	힘 증가<일본PP샵용_30분>
+4516	체력 증가<일본PP샵용_30분>
+4517	집중 증가<일본PP샵용_30분>
+4518	민첩 증가<일본PP샵용_30분>
+4519	지능 증가<일본PP샵용_30분>
+4520	정신 증가<일본PP샵용_30분>
+4521	행운 증가<일본PP샵용_30분>
+4522	Clean Air<Chinese Earth Day>
+4523	Clean Water<Chinese Earth Day>
+4524	Rich Soil<Chinese Earth Day>
+4525	Powerful Flame<Chinese Earth Day>
+4526	Everlasting Love<Chinese Earth Day>
+4527	Bottle of Bubbly<Event>
+4528	Disguise <Siren>
+4529	Disguise <Orc>
+4530	Disguise <Skeleton>
+4531	Disguise <Blue Pixie>
+4532	Transform<Yeti>
+4533	Transform<Avalanche>
+4534	Transform<Salamander Crescent>
+4535	Transform<Salamander King>
+4536	Transform<Siren Lady>
+4537	Transform<Siren Queen>
+4538	Transform<Orc Warrior>
+4539	Transform<Orc Lord>
+4540	Transform<Skeleton Warrior>
+4541	Transform<Skeleton Knight>
+4542	Transform<Aqua Pixie>
+4543	Transform<Ocean Fairy>
+4544	Easter Bread Effect
+4545	Easter Egg Effect
+4546	Easter Steak Effect
+4547	Easter HP Recovery Liquid Effect
+4548	Eater MP Recovery Liquid Effect
+4549	Easter Turkey Effect
+4550	Transformation <Ghost>
+4551	effect for Potion of Everlasting Life<event>
+4552	Energy of Ancient Crystal
+4553	Effect of Potion of Growth(+)<ep7.3>
+4554	Energy of Rage
+4555	Transformation<Cube>
+4556	Transformation<Crude Cube>
+4557	Transformation<Neo Cube>
+4558	HP Recovery
+4559	MP Recovery
+5001	MAX HP decreases
+5002	MAX MP decreases
+5003	Attack Power Degrade
+5004	Magical Power Degrade
+5005	Defense Power Degrade
+5006	M. Def Power Degrade
+5007	Attack Speed Degrade
+5008	Reduced Cast Spd
+5009	Move Speed Degrade
+5010	Accuracy Degrade
+5011	Evasion Degrade
+5012	M. Acc Degrade
+5013	M. Res Degrade
+5014	Crit Chance Degrade
+5015	Crit Power Degrade
+5101	Strength Degrade
+5102	Vitality Degrade
+5103	Dexterity Degrade
+5104	Agility Degrade
+5105	Int decreases
+5106	Wisdom Degrade
+5107	Luck Degrade
+5108	Light of Salvation
+5109	P. Atk. Increase
+5110	M. Atk. Increase
+5111	P. Def. Increase
+5112	M. Def. Increase
+5113	Atk. Speed Increase
+5114	Cast Speed Increase
+5115	Mov. Spd. Increase
+5116	P. Acc. Increase
+5117	Evasion Increase
+5118	M. Acc. Increase
+5119	M. Res. Increase
+5120	Crit Rate Increase
+5121	Crit Power Increase
+5122	Block Rate Increase
+5123	HV P. Atk. Increase
+5124	HV M. Atk. Increase
+5125	HV P. Def. Increase
+5126	HV M. Def. Increase
+5127	HV Atk. Speed Increase
+5128	HV Cast Speed Increase
+5129	HV Mov. Spd. Increase
+5130	P. Atk. increase<Event>
+5131	M. Atk. increase<Event>
+5132	P. Def. increase<Event>
+5133	M. Def. increase<Event>
+5134	Atk. speed increase<Event>
+5135	Cast speed increase<Event>
+5136	Movement speed increase<Event>
+5137	HP recovery
+5138	MAX HP/MP increase
+5139	Domination: Crit I<20%>
+5140	Domination: Crit II<30%>
+5141	Domination: Crit Pow I<20%>
+5142	Domination: Crit Pow II<30%>
+5143	Domination: HP Recov I<20%>
+5144	Domination: HP Recov II<30%>
+5145	Domination: HP/MP I<20%>
+5146	Domination: HP/MP II<30%>
+5501	Block Per Degrade
+5997	Wrath<For Auto>
+5998	Weight Penalty
+5999	Wrath
+6001	HP Regeneration Stopped
+6002	MP Regeneration Stopped
+6003	Poisoned
+6004	Bleeding
+6005	Sleep
+6006	Stun
+6007	Hold
+6008	Fear
+6009	Freezing
+6010	Illusion
+6011	Berserk
+6012	Petrify
+6013	Silent
+6014	Blindness
+6015	Deadly Poison
+6016	Hiding
+6017	Decrease of attack speed
+6018	Sealing
+6019	Petrifaction <Able to attack>
+6020	Enchant Earth Weapon: Poisoned
+6021	Piercing Arrow
+6022	Deadly Poison<Poison shot only>
+6500	Slow
+6501	Recklessness of Water Damage
+6502	Water manipulation skill<System>
+6503	Lightning manipulation skill<System>
+6504	Earth manipulation skill<System>
+6505	Strength of Darkness<System>
+6506	Thunderbolt Arrow<System>
+6507	Godly Protection<System>
+6508	Burning Style<System>
+6509	Crit Chance Boost
+6510	Efreet's Riot <system>
+6511	Anger of Spirit<System>
+6512	Might of the Underworld<system>
+6513	Harmony of Life<system>
+6514	Move Speed Degrade
+6515	Poisoned<System>
+6516	Berserk<System>
+6517	Sharp Claw<System>
+6518	Wound Lick<System>
+6519	Shuddering Cantata<System>
+6520	Agile Style<System>
+6521	Enchant Water Weapon: MP Recovery Amount<System>
+6522	Soul Harmony<System>
+7001	Low-level Ornitho Speed
+7002	Mid-level Ornitho Speed
+7003	High-level Ornitho Speed
+7004	Low-level Ornitho Speed<Hidden village rental only>
+7005	Mid-level Ornitho Speed<Hidden village rental only>
+7006	High-level Ornitho Speed<Hidden village rental only>
+7007	Low Level Lydian Riding <Hidden village rental only>
+7008	Mid Level Lydian Riding <Hidden village rental only>
+7009	High Level Lydian Riding <Hidden village rental only>
+7010	Ornitho Speed<Event Only>
+7011	Same Level Ornitho Riding <Event Only>
+7012	Lydian Riding <Event Only>
+7013	Lydian Riding <Event Only>
+7014	High Level Qilin Riding <Hidden village rental only>
+7015	Lydian Riding
+7016	Ornitho Riding for Item Shop
+7017	Ornitho Riding for Item Shop
+7018	Lydian Riding <Item Shop>
+7019	Lydian Riding <Item Shop>
+7020	Lydian Riding <Item Shop>
+7021	Lydian Riding <Item Shop>
+7022	White Tiger
+7050	Small Snowball
+7051	Large Snowball
+9001	Falling Injury
+9002	Illumination
+9003	VGG's Aura
+9004	Travel Pass to Hidden Village
+9005	Rappelz PC Room
+9006	Fragmental Power Charge
+9007	Carelessness
+9901	Force Chip
+9902	Soul Chip
+9903	Luna Chip
+9904	Pieces of Strength
+9905	Pieces of Vitality
+9906	Pieces of Dexterity
+9907	Pieces of Agility
+9908	Pieces of Intelligence
+9909	Piece of Wisdom
+9910	Altered Pieces of Strength
+9911	Altered Pieces of Vitality
+9912	Altered Pieces of Dexterity
+9913	Altered Pieces of Agility
+9914	Altered Pieces of Intelligence
+9915	Altered Pieces of Wisdom
+9916	Altered Pieces of Strength<For Quest>
+9917	Altered pieces of Vitality<quest only>
+9918	Altered pieces of Dexterity<quest only>
+9919	Altered pieces of Agility<quest only>
+9920	Altered pieces of intelligence<quest only>
+9921	Altered pieces of wisdom<quest only>
+9922	Lucky Potion
+9923	Animal Cracker
+9924	Animal Cracker <Apply penalty according to creature level>
+9925	Combined Pieces of Strength <Combined item>
+9926	Combined Pieces of Vitality <Combined item>
+9927	Combined Pieces of Dexterity <Combined item>
+9928	Combined Pieces of Agility <Combined item>
+9929	Combined Pieces of Intelligence <Combined item>
+9930	Combined Pieces of Wisdom <Combined item>
+9931	Healthy Altered Pieces
+9932	Spiritual Altered Pieces
+9933	Rapid Altered Pieces
+9934	Sturdy Altered Pieces
+9935	Eager Altered Pieces
+9936	Armored Altered Pieces
+9937	Devoted Altered Pieces
+9938	Savage Altered Pieces
+9939	Resilient Altered Pieces
+9940	Forceful Altered Pieces
+9941	Fiendish Altered Pieces
+9942	Polished Altered Pieces
+9943	변조된 통찰의 조각
+9944	Impact Amplifier<1Hour>
+9945	Mirror Amplifier<1Hour>
+9946	Song of Battle
+9947	Four-Leafed Clover
+9948	World Blessing
+9949	Battle Arena: Crystal Of Power
+9950	Gladiator's Crystal of Vitality
+9951	Gladiator's Crystal of Dexterity
+9952	Gladiator's Crystal of Agility
+9953	Gladiator's Crystal of Intelligence
+9954	Gladiator's Crystal of Wisdom
+9955	<Test>Creature Reduction
+12018	Shield Smash
+12020	Offense Breaker
+12021	Defense Breaker
+12022	Mental Breaker
+12044	Log Split
+12045	Wind Cut
+12046	Zephyr Strike
+12061	Dual Strike
+12063	Physical Breaker
+12064	Soul Breaker
+12076	Shadow Wound
+12311	Arrow of Delay
+12312	Heat Shot
+12501	Double Impact
+12502	Assassin Impact
+12503	Hunter Impact
+12504	Assassin's Hands
+12505	Proper Move of Quickness
+12506	Thunderbolt Blade
+12507	Phantasm
+12601	Deep Evasion
+12602	Mental Concentration
+12611	Active Guard
+12615	Godly Protection
+12620	Defect Aiming
+12622	Quick Pace
+12624	Oblivion
+12626	Drain Arrow
+12630	Sudden Rush
+12635	Provocation
+12636	Provocation
+12655	Essence of Fire
+12656	Essence of Thunder
+12661	Essence of Invulnerability
+12662	Snare of Corrosion
+12664	Vision of Prey
+12668	Mysterious Energy
+12671	Dusk Style
+12672	Agile Style
+12673	Burning Style
+12674	Burning Style: Hide
+12676	Subtle Enmity
+12678	Cry of Arrows
+12679	Thunderbolt Arrow
+12681	Essence of Steel
+12682	Dual Summoning Control
+12683	Cry of Arrows: P. Atk
+12684	Celestial Protection<invincible>
+12685	Blessing of Protection
+13003	Frozen Snare
+13005	Acid Spray
+13006	Tectonic Quake
+13007	Tectonic Blaze
+13012	Fireball
+13013	Flame Burn
+13021	Scorching Flame
+13022	Chainsickle Wind
+13023	Shackle of the Ground
+13024	Bleak Squall
+13035	Stench of Armistice
+13037	Cold Bolt
+13151	Explosion of Petrification
+13155	Water Blast 
+13181	Root of Mother Nature
+13182	Rain of Ice
+13204	Clear Poison
+13210	Restoration
+13211	Lucid Dream : MP Recovery
+13212	Lucid Dream : HP Recovery
+13222	Restoring Purified Water
+13224	Essence of Life
+13401	Divine Cluster
+13411	Darkness Saver
+13423	Speed of the Wind
+13424	Rock Energy
+13425	Force of Sacred Fire
+13426	Enchanted Fire Skill
+13427	Enchanted Water Skill
+13428	Enchanted Air Skill
+13429	Enchanted Earth Skill
+13430	Fireshield
+13431	Support of Gust
+13432	Rock Torch
+13433	Circle of Magic 
+13434	Guardian Orb
+13435	Neutralize Magic
+13442	Support of Blaze
+13451	Bless Armor Plus
+13452	Bless Weapon Plus
+13458	Magic Skin
+13460	Heed of the Conjuror
+13461	Haste of Conjuror
+13467	Panoply of the Ground
+13471	Supplement of Sacred Fire 
+13472	Tears of Gaia
+13492	Holy Aura
+13493	Holy Ground
+13494	Holy Ground
+13601	Nightmare
+13602	Windy Shackle
+13604	Neutralization of Darkness
+13608	Mind Crisis
+13613	Stench of Frailty
+13614	Wide Windy Shackles
+13621	Creature Dispell
+13622	Seal of Gaia
+13750	Shadow Atrophia
+13752	Gravity Amplification
+13754	Yak Advent
+13815	Hate Aura
+14012	Pass Damage
+14402	Mental Support
+14412	Power Support
+14413	Combat Support
+14426	Vital Support Plus
+14430	Power Support Plus
+14432	Speed Reinforcement Aura
+14433	제압의 오라
+14614	Lion's Claw
+15000	레스토레이션<프랍용>
+23492	Holy Aura <System>
+23493	Holy Ground
+23494	Holy Aura<Lasting damage>
+110011	Gaia's Special Spiracle Mastery <Warrior>
+111011	Gaia's Special Spiracle Mastery <Archer>
+112011	Increase MP Recovery <Druid>
+113011	Increase MP Recovery <Battle Kahuna>
+114011	Raging Demon Beast <Evoker>
+114012	Power of Demon Beast King <Evoker>
+114013	Heartless Force Fairy <Evoker>
+114014	Power of Tearing Pain <Evoker>
+140518	Angel's Kiss
+140519	Breakthrough: Magic Training
+145001	Threatening Essence
+145002	Tease
+145003	Survival Instinct
+145004	Feral Instinct
+145005	Mana Injection
+145006	Equivalent Exchange
+145007	Escape the Crisis
+145008	Oblivion
+145009	Animal Instinct
+145010	Organism Transplant
+145011	Shadow Illusion
+145012	Dark Field
+145013	Starvation
+145014	Demon's Trick
+145015	Earth Tremor
+145016	Manifestation of Power
+145017	Dragon's Roar
+145109	Painful Noise
+145110	Flame Slayer
+145111	Explosive Roar
+145201	Bloody Crush
+145202	Poultry Crow
+145203	Angry Shell
+145204	Focus Slash
+145205	Focused Blow
+145206	Chaos Crash
+145207	Pixie Fireball
+145208	Celestial Prayer
+145209	Lyrics of Frustration
+145210	Flame Blow
+145211	Power Slash
+145212	Kentauros Strike
+145213	Light of Punishment
+145214	Outrageous Blow
+145215	Ice Arrow
+145216	Crippling Arrow
+145217	Gouging Bite
+145218	Reflecting Shield
+145219	Bloodthirst
+145220	Falling Stone
+145221	Sonic Sight
+145222	Wind Seed
+145223	Wind Seed
+145224	Soothing Zephyr
+145225	Wind Aura
+145226	Resurrection Light
+145227	Vital Blessing
+145228	Exposure Awareness
+145229	Majestic Horn
+145230	Decaying Flesh<ep7>
+145231	Curse of the Dead Spirits<ep7>
+145232	Freezing Blast
+145233	Curse of Impurity
+145234	Buster Beam Enhancement
+145235	Tissue Recovery Enhancement
+145236	Tissue Activation
+145237	Weakness Analysis
+145238	Immersed in Battle
+145239	Weakness Analysis
+145240	Wind Cutter Blade
+145241	Harmonious Wind Seed
+145409	Painful Aria
+145501	Fatal Storm
+145502	Curse of Garuda
+145504	Overrunning Slash
+145507	Fire Bird
+145509	Opera of Ruin
+145510	Flame Storm
+145511	Storm of Ruin
+145512	Storm of Light
+145513	Hawkman Special
+145514	Dark Storm
+145515	Ice Breath
+145516	Blood Rain
+145517	Rampage
+145518	Surging Storm
+145519	Rising Stone
+145521	Mystic Effect
+145522	Master Devotion
+145523	Master Devotion<Creature>
+145524	Infernal Magma
+145525	Physical Awakening<ep7>
+145526	Wisdom Awakening<ep7>
+145527	Frost Queen's Vengeance
+145601	Unity: Pantera
+145602	Unity: Poultry
+145603	Unity: Tortus
+145604	Unity: Orc
+145605	Unity: Yeti
+145606	Unity: Skeleton
+145607	Unity: Red Pixie
+145608	Unity: Blue Pixie
+145609	Unity: Siren
+145610	Unity: Salamander
+145611	Unity: Hawkman
+145612	Unity: Angel
+145613	Unity: Kentauros
+145614	Unity: Cerberus
+145615	Unity: White Dragon
+145616	Unity: Mystic Koala
+145617	Unity: Harpy
+145618	Unity: Wolf
+145619	Unity: Gnoll
+145620	Unity: Octopus
+145621	Unity: Naga
+145622	Unity: Genie
+145623	Unity: Ifrit
+145624	Unity: Unicorn
+145625	Unity: Nightmare
+145626	Unity: Death Tyrant<ep7>
+145627	Unity: Ice Maiden
+145628	Unity: Cube
+145629	Unity: Lydian
+145650	Unity: Tortus Relic<HP+p.def>
+145651	Unity: Cube Relic<strength+M.def up>
+145652	Unity: Gnoll Relic<p.def+M.def up>
+145653	Unity: Yeti Relic<HP+regen>
+145654	Unity: Dark Soul Relic<atk up+HP>
+145655	Unity: Orc Relic<atk up+p.def>
+145656	Unity: Wolf Relic<atk up+dodge>
+145657	Unity: Kentauros Relic<strength>
+145658	Unity: Pantera Relic<physical power>
+145659	Unity: Death Tyrant's Relic<Physical Attack+Attack Speed>
+145660	Unity: Wind Song Relic<attacking speed>
+145661	Unity: Pick Relic<evasion>
+145662	Unity: Seirene Relic<M.atk up+magic accuracy>
+145663	Unity: Frost Queen Relic<M.atk up+casting speed>
+145664	Unity: Ifrit Relic<M.atk up+M.def up>
+145665	Unity: Unicorn Relic<Magic Attack+Vitality>
+145666	Unity: Tafari Relic<M.atk up>
+145667	Unity: Blue Pixie Relic<p.def+M.regen>
+145668	Unity: Baphomet's Relic<M. Res+M.regen>
+145669	Unity: Undine's Relic<Wisdom+casting speed>
+145701	Encouragement: Strength
+145705	Encouragement: Agility
+145709	Encouragement: Vitality
+145713	Encouragement: Intelligence
+145717	Encouragement: Dexterity
+145720	Gigantic
+145721	Encouragement: Strength, Intelligence
+145725	Encouragement: Vitality, Intelligence
+145729	Encouragement: Strength, Vitality
+145733	Encouragement: Intelligence, Wisdom
+145740	Encouragement: Dexterity, Wisdom
+145741	Fortune Clover
+145742	Encouragement: Strength, Agility
+145751	Fighting Spirit Inspiration: Physical Defense
+145752	Encouragement: Evasion
+145753	Fighting Spirit Inspiration: Physical Attack
+145754	Fighting Spirit Inspiration: Critical Chance
+145755	Fighting Spirit Inspiration: Attack Speed
+145756	Fighting Spirit Inspiration: Magical Resistance
+145757	Fighting Spirit Inspiration: Casting Speed
+145758	Encouragement: Wisdom
+145759	Fighting Spirit Inspiration: Magic Attack
+145760	fighting spirit inspiration: MP Regen..
+146001	Wound Lick
+146002	Blessing of Firmness
+146007	Vampiric Rage
+146008	Fairy Queen's Blessing
+146009	Blessing of Light
+147001	Selfless Defense<Tortus ><ep7>
+147002	Apport<Poultry><ep7>
+147003	Strong Spirit<Orc><ep7>
+147004	Battle Cry<Orc><ep7>
+147005	Molten Skin<Red Pixie><ep7>
+147006	Molten Skin<Red Pixie><ep7>
+147007	Favoritism<Blue Pixie><ep7>
+147008	Healthy Blood<Blue Pixie><ep7>
+147009	Kiss of the Goddess<Siren><ep7>
+147010	Eruption of the Wild<Wolf><ep7>
+147011	Infested<Octopus><ep7>
+147012	Drunken Mastery<Hawkman><ep7>
+147013	Incarnation of Flame<Salamander><ep7>
+147014	Unbearable Pain<Dark Soul><ep7>
+147015	Timing Atk.<Kentauros><ep7>
+147016	Sulphurous Air<Cerberus><ep7>
+147017	Wind Lash<Genie><ep7>
+147018	Mana Shield<White Dragon><ep7>
+147019	Sphere of Recovery<White Unicorn><ep7>
+147020	Sandblasted<Mistique Jinni><ep7>
+147021	Bug Rampage<Octopus><ep7>
+147022	Murderous Intent<Gnoll><ep7>
+147023	Abominable Howl<Yeti><ep7>
+147024	Aura of Ice
+147025	Energy Charge<Cube>
+147026	Spiritual Awakening<Cube><ep.7.3>
+147027	Immersed in Battle<Cube><ep.7.3>
+147028	Weakness Analysis: Explosion<Wolf>
+147029	Pulse Strike: Recovery<Yeti>
+147101	Infusion of Life<baphomet>
+147102	Pulse Strike<baphomet>
+147103	Unity: Baphomet<baphomet>
+147104	Spiritual Innervation<baphomet>
+147105	Tome Mastery<baphomet>
+147106	Refreshing Tide<baphomet>
+147107	Flowing Form<baphomet>
+147108	Tranquil Form<baphomet>
+147109	Hymn of Tranquility<baphomet HP recover>
+147110	Hymn of Tranquility<baphomet MP recover>
+147121	Nightmarish Plague<blight ogre>
+147122	Touch of Death<blight ogre>
+147123	Dark Fury<Blight ogre>
+147124	Unity: Blight Ogre<blight ogre>
+147125	Feed on Corruption<blight ogre>
+147126	Reckless Frenzy<Blight ogre>
+147127	Rune of Decay<Blight Ogre>
+147128	Diseased Strike<Blight Ogre>
+147129	Crippling Blow<blight ogre>
+147130	Ogre's Fury<blight ogre>
+147141	Crushing Blow<Undine>
+147142	Unity: Undine<undine>
+147144	Last Defense<undine>
+147161	Pillar Crush<minotaurus>
+147162	Unity: Minotaurus<Minotaurus>
+147163	Ancestral Force<Minotaurus>
+147164	Soul Harvest<Minotaurus>
+147165	Gamma Exposure<drillbot>
+147166	Unity: Drillbot<drillbot>
+147167	Refill<drillbot>
+147168	Alpha Pulse<drillbot buff stacks Alpha Radiation>
+147169	Alpha Radiation<drillbot stacking buff increases vit and wis>
+147170	Alpha Pulse<creates Alpha Charge resource buff for drillbot>
+147171	Alpha Charge<resource buff for drillbot>
+147172	Beta Pulse<drillbot buff stacks Beta Radiation>
+147173	Beta Radiation<drillbot stacking buff increases p. atk. and m. atk.>
+147174	Beta Pulse<creates Beta Charge resource buff for drillbot>
+147175	Beta Charge<resource buff for drillbot>
+147176	Gamma Pulse<drillbot buff stacks Gamma Radiation>
+147177	Gamma Radiation<drillbot stacking buff increases mp recov and hp recov>
+147178	Gamma Pulse<creates Gamma Charge resource buff for drillbot>
+147179	Gamma Charge<resource buff for drillbot>
+147180	Megapulse<creates Overcharge for drillbot>
+147181	Overcharged
+147182	Unity: Iron Knight<Iron Knight>
+147183	Blessed Body<Iron Knight>
+147184	Blessed Soul<Iron Knight>
+147185	Sanctified Body<Iron Knight>
+147186	Sanctified Soul<Iron Knight>
+147187	방어구 파괴<강철 기사단장>
+147188	Demonic Transfusion
+147189	Flaming Destiny
+147190	Unity: Mephisto
+147191	Unity of Coagulated Blood
+147192	Unity of Coagulated Blood: Weakness
+147193	Demon Space
+147194	Invincible Blood
+147195	Focused Declaration
+147196	Immortal Proclamation
+147197	Flames of Revenge
+147198	Magic Thorns
+147199	Charming Flame<Lasting damage>
+147200	Unity: Kiscia
+147201	Fantastic Energy
+147202	Mental Collapse
+147203	Charming Flame
+147204	Immortal Blessing
+147205	Blazing Spirit
+162001	Shield Blow
+162005	Wild Stream
+162010	Thunderbolt Wind Cut
+162304	Cursed Arrow
+162501	Barbarian Rage
+163002	Frost Spear
+163006	Fire Storm
+163011	Judgment of the Goddess
+163013	Earthquake
+163016	Huge Volcanic Eruption
+163201	Eternal Lifeguard
+163205	Touch of the Goddess
+163402	Deflecting Shield
+163403	Shield of Revenge
+163404	Blessing of Vitality
+163405	Blessing of Intelligence
+163406	Blessing of Wisdom
+163407	Blessing of Strength
+163408	블레싱 오브 마스터
+163409	Divine Shield
+163410	Strength Support
+163411	Vitality Support
+163412	Intelligence Support
+163413	Organic Resistance
+163414	Inorganic Resistance
+163415	Spirit Resistance
+163416	Elemental Resistance
+163417	Divine Claw
+163418	Poison Arrow
+163419	Recklessness of Fire
+163420	Recklessness of Thunder
+163421	Recklessness of Earth
+163422	Recklessness of Water
+163423	Unity of Force
+163424	Unity of Vitality
+163425	Unity of Mentality
+163426	Unity of Intelligence
+163427	Anger of the Wild
+163428	Spirit of Fire
+163429	Wind Weapon
+163430	Spirit Support
+163431	Magic Support
+163432	Light Speed
+163433	Shining Armor
+163434	Mass HP Regeneration
+163435	Mass MP Regeneration
+163436	Defense Mastery
+163437	Empowering Scent
+163438	새도우 스트라이크
+163439	Zeal
+163440	Rally
+163441	Reflection of the Soul
+163442	Gale of Reflection
+163443	Paragon of Anger
+163444	Strength of Darkness
+163445	Shield of Nightmare
+163446	Hymn of Focus
+163447	매스 블레스 리제너레이션 마스터
+163448	Angel's Force
+163449	Protector's Force
+163450	Fervor
+163601	Acid Swamp
+163605	Corruption
+163701	Radiant Flare
+163702	Dazzled
+163703	Roar of Healing
+163704	Roar of Power
+163705	Frostbite
+163706	Frigid Disorientation
+163707	Tempest
+163801	Explosion Trap
+164001	Harmony of Life
+164002	Beast Disguise
+164003	Soul Harmony
+164202	Soothe Creature
+164204	Creature Restoration
+164205	Soothed
+164401	Strength Boost
+164402	Vitality Boost
+164403	Intelligence Boost
+164404	Wisdom Boost
+164405	Blood Aura
+164406	Spirit Aura
+164407	Aura of Halisha
+164408	Trait Mastery
+164409	Aura of Inspiration
+164410	Creature for all: Fortune Clover
+164411	Aura of Inspiration
+164801	Anger of Spirit
+164804	Blood of the Underworld
+164805	Might of the Underworld
+200001	Bear's Power <ursa dungeon>
+200002	Fox's Mystique <ursa dungeon>
+200003	Turtle's Defense <ursa dungeon>
+200004	Hawk's Swiftness <Ursa dungeon>
+200005	Lot's Flight <ursa dungeon>
+200006	Cheetah's Speed <ursa dungeon>
+200007	Eagle's Eye <ursa dungeon>
+200008	Monkey's Agility <ursa dungeon>
+200009	Flame bomb
+201001	Life Cut<monster>
+201002	Sever Spirit<monster>
+201003	Cripple<monster>
+201004	Dulled Mind<monster>
+201005	Reduced Defense
+201006	Reduced Defense
+201007	Mind Crush<monster>
+201008	Lethargy<monster>
+201009	Mental Lethargy<monster>
+201010	Sluggishness<monster>
+201011	Dizziness<monster>
+201012	Leaded Feet<monster>
+201013	Wandering Mind<monster>
+201014	Conductive<monster>
+201015	Unlucky<monster>
+201016	Hesitation<monster>
+201017	Strength Down<monster>
+201018	Vitality Down<monster>
+201019	Dexterity Down<monster>
+201020	Agility Down<monster>
+201021	Intelligence Down<monster>
+201022	Wisdom Down<monster>
+201023	Luck Down<monster>
+201024	Block Rate Down<Monster>
+201025	Wrath<For Auto><Monster Status Anomaly>
+201026	Weight Penalty<Monster State Anomoly >
+201027	Wrath<Monster Status Anomaly>
+201028	Frozen Blood<monster>
+201029	Brainfreeze<monster>
+201030	Poisoned<Monster Status Anomaly>
+201031	Bleed Effect
+201032	Sleep<Monster Status Anomaly>
+201033	Stun<Monster Status Anomaly>
+201034	Hold<Monster Status Anomaly>
+201035	Fear<Monster State Anomoly >
+201036	Freezing<Monster Status Anomaly>
+201037	Illusion<Monster Status Anomaly>
+201038	Berserk<Monster Status Anomaly>
+201039	Petrify<Monster Status Anomaly>
+201040	Silence<Monster Status Anomaly>
+201041	Blind<Monster Status Anomaly>
+201042	Deadly Poison<Monster Status Anomaly>
+201043	Hiding<Monster Status Anomaly>
+201044	Broken Arms<Monster State Anomoly >
+201045	Seal<Monster State Anomoly >
+201046	Slow<Monster State Anomoly >
+201047	Recklessness of Water<Monster Status Anomaly>
+201048	Solid<Buff for Monster>
+201049	Explosion of Fury<Buff for Monster and Abomination Pet>
+201050	Impure of the madness <For Monster>
+201051	Reduced Attack Speed<Kyu In Hwa debuff>
+201052	Stun<Kyu In Hwa debuff>
+201053	Poisoned<Kyu In Hwa debuff>
+201054	Bleeding<Kyu In Hwa debuff>
+201055	Reduced Cast Spd<Kyu In Hwa debuff>
+201056	Increase Evasion<Exclusive for Medium Boss>
+201057	Increase M. Res.<Exclusive for Medium Boss>
+201058	Mangled Mind<champion monsteR>
+201059	Mangled Legs<champion monster>
+201060	Mangled Arms<champion monster>
+201061	지속 레드 포션 LV 2<데스매치 전용>
+201062	Bloody Potion of Mending<Death Match Exclusive>
+201063	지속 블루 포션 LV 2<데스매치 전용>
+201064	Bloody Potion of Spirit<Death Match Exclusive>
+201065	공격력 증가<증가형><데스매치 전용>
+201066	마력 증가<증가형><데스매치 전용>
+201067	방어력 증가<증가형><데스매치 전용>
+201068	공격속도 증가<증가형><데스매치 전용>
+201069	시전속도 증가<증가형><데스매치 전용>
+201070	이동속도 증가<증가형><데스매치 전용>
+201071	명중 증가<증가형><데스매치 전용>
+201072	회피 증가<증가형><데스매치 전용>
+201073	Wolverine's Ferocity<Death Match Exclusive>
+201074	Dragon's Power<Death Match Exclusive>
+201075	Tortus Armor<Death Match Exclusive>
+201076	Snake's Haste<Death Match Exclusive>
+201077	Pegasus Wings<Death Match Exclusive>
+201078	Cheetah's Quickness<Death Match Exclusive>
+201079	Eagle's Precision<Death Match Exclusive>
+201080	Wolf's Agility<Death Match Exclusive>
+201081	Vampiric Grip<Death Match Exclusive>
+201082	Warrior's Counter<Death Match Exclusive>
+201083	Heightened Senses<Death Match Exclusive>
+201084	Shadow's Guile<Death Match Exclusive>
+201085	Aura of Protection<Death Match Exclusive>
+201086	Aura of Heroes<Death Match Exclusive>
+201087	Blessed by the Gods<Death Match Exclusive>
+201088	Great Haste<Death Match Exclusive>
+202000	Poison <Monster Status Anomaly > <Additional Monster Skill>
+202001	Acid Swamp <Additional Monster Skill>
+202002	Defense Down <Monster Status Anomaly > <Increasing> <Additional Monster Skill>
+202003	ATK Down <Monster Status Anomaly> <Additional Monster Skill>
+202004	Attack Speed Down<Monster Status Anomaly> <Additional Monster Skill>
+202005	MP Regen Stop <Monster Status Anomaly> <Additional Monster Skill>
+203001	Fighter's Shouting: Enchant<Hidden Dungeon Monster_Fighter>
+203003	Destroyed Resonance Lasting Effect<Hidden Dungeon Monster Helper>
+203005	Resonance of Magic Curse: Magic attack decrease <Hidden Dungeon Monster Helper>
+203006	Battle Healing <Hidden Dungeon Monster Healer>
+203008	Pillar of Light Lasting Effect <Hidden Dungeon Monster Healer>
+210011	Holy Aura <Knight>
+211011	Holy Aura <Warrior>
+212011	Increase MP Recovery <Druid>
+213011	Increase MP Recovery <Druid>
+214011	Dual Summoning Control <Soul Breeder>
+307001	Sterling Haste
+307002	Ancient's Aegis
+307003	Voidwarp Focus
+307004	Sandspike Celerity
+307005	Desperate Deflection
+307006	Frantic Defense
+307007	Reckless Vivacity
+310011	Requiem Assassin<Assassin>
+311001	Increase P. Def
+311002	Increase P. Atk
+311003	Berserk <Atk Up/ Def Down>
+311004	Increase M. Atk
+311005	Increase MP Recovery
+311006	Acquired Magic
+311007	Drained Magic
+311011	Drain Arrow <Ranger>
+312001	Deva Race Specific <Race Specific> <Special Effect Unique Necklace>
+312011	Haste of Conjuror <Chaos Magician>
+312101	Asura Race Specific <Race Specific> <Special Effect Unique Necklace>
+312201	Gaia Race Specific <Race Specific> <Special Effect Unique Necklace>
+313001	Deva Warrior Specific <Job Specific> <Special Effect Unique Item>
+313002	Deva Mage Specific <Job Specific> <Special Effect Unique Item>
+313003	Deva Summoner Specific <Job Specific> <Special Effect Unique Item>
+313011	Ultimate Hazard <Dark Magician>
+313101	Asura Warrior Specific <Job Specific> <Special Effect Unique Item>
+313102	아수라 헌터 전용<직업자 전용><특수 성능 고유 아이템>
+313103	Asura Mage Specific <Job Specific> <Special Effect Unique Item>
+313104	Asura Summoner Specific <Job Specific> <Special Effect Unique Item>
+313201	Gaia Warrior Specific <Job Specific> <Special Effect Unique Item>
+313202	Gaia Hunter Specific <Job Specific> <Special Effect Unique Item>
+313203	Gaia Mage Specific <Job Specific> <Special Effect Unique Item>
+313204	Gaia Summoner Specific <Job Specific> <Special Effect Unique Item>
+313205	Decrease Mov Spd <Unique Penalty for Forcibly Exiting Ursa Caverns>
+314011	Dual Summoning Control <Battle Summoner>
+314012	Summon Mastery
+314015	Immortality
+314016	Divine Purpose
+314017	Asuran Haste
+314018	Gaian Strength
+314019	Rapture
+314020	Divine Recovery
+314021	Onslaught
+314022	Remorseless
+314023	Immortality: Fatal Bind
+314024	Refreshing Triumph
+314025	Arctic Blast
+314026	Brisk Reprisal
+314027	Harmonious Protection
+314028	Harmonious Brilliance
+314029	Spiritual Destruction
+314030	Mind Maul
+314031	Atk Spd, Cast Spd increase
+314032	Grim Desire
+314033	Adrenaline
+314034	Pact With Darkness
+314035	Envenomed Weapons
+314036	Abyssal Attunement
+314037	React
+314038	Bodkin Arrows
+314039	Demonic Howl
+314040	Spirit Bleed
+314041	Feline Haste
+314042	Crushing Shadows
+314043	Soul Plague
+314044	Magician's Dark Power
+314045	Putrefy
+314046	Void Swarm
+314047	Stroke of Genius
+314049	Insight
+314050	Miraculous Healing
+314051	Miraculous Spirit
+314052	Desperate Blow
+314053	Order of Alacrity
+314054	Steel Presence: Threat
+314055	Steel Presence: Vitality
+314056	Final Defense
+314057	Shield Barrier
+314058	Hysteric Speed
+314059	Hysteric Casting
+314060	Hysteric Speed
+314061	Hysteric Casting
+314062	Endless Energy
+314063	Endless Attack
+314064	Victory Cheer
+314065	Endless Luck
+314066	Exhilaration
+314067	Beast's Wrath
+314068	Lacerate
+314069	Impaling Power
+314070	Blessings of Salvation
+314071	Exalted Protection
+314072	Invigorating Essence
+314073	Invigorated Threat
+314074	Deathblow
+314075	Restrain
+314076	Angel's Deception
+314077	Heaven's Blessing<7%>
+314078	Heaven's Blessing<8%>
+314079	Heaven's Blessing<9%>
+314080	Hell's Curse<4%>
+314081	Hell's Curse<5%>
+314082	Hell's Curse<6%>
+314083	Veteran Senses
+314084	Guardian Angel
+314085	Miracle of Life
+314086	Grim Attrition
+314087	Heavenly Restoration
+314088	Murderous Intent
+314089	Stinging Eyes
+314090	Debilitated
+314091	Critical Frost Arrow
+314092	Frost Arrow
+314093	Frozen Legs
+314094	Chilled
+314095	Minor Restoration
+314096	Unbalanced
+314097	Critical Resonance
+314098	Rend and Tear
+314099	Howl at the Moon
+314100	Bloody Aftermath
+314101	Grace
+314102	Savage Frenzy
+314103	Maimed
+314104	Earth Shatter
+314105	Fireball <New Rank6 Armor>
+314106	Provoke <New Rank5 Armor>
+314107	Accuracy increase <New Rank4 Armor>
+314108	Magic Accuracy increase <New Rank4 Armor>
+314110	Atk Spd Increase<Slaughter Sword>
+314111	Bleeding<Lath's bleeding sword>
+314112	Burn<Fire Spear>
+314113	Freezing<Kainens Blessing>
+314114	Mov Spd Decrease<Top Mark>
+314115	Seal<Ivory Tower Staff>
+314116	Damage Reflection<1000 year Shield>
+314117	Def Increase Aura<Pillar of Horizon>
+314118	Def Increase<Pillar of Horizon>
+314119	Accuracy Increase<Death's Unknown Bow>
+314120	Silent<Anti-Magic>
+314121	P. Atk Increase<The moon of Blood>
+314122	Critical Rate Increase<My Lord>
+314123	Critical Power Increase<Royal Straight Flush>
+314124	P. Damage Increase<Glory of Leon>
+314125	HP Recover Aura<World of Hecktor>
+314126	HP Recovery Increase<Wall of Hecktor>
+314127	P. Atk Increase<Poinsettia>
+314128	Mov Spd Decrease<Dragon Catcher>
+314129	Def Increase<Celina's Blessing>
+314130	Atk Spd Decrease<Legend Marduka>
+314131	Fear Immunity<Legend Marduka>
+314132	Block Def Increase<Laksy's Door>
+314133	Double Attack<Rolling Stones>
+314134	Creature EXP Gain Increase<Learning>
+314135	Devil's Restoration
+320004	Mana Thirst
+320005	Diseased
+320006	Giant Growth
+320007	Girl Bears 4 Leaf Clover
+320008	Vampiric Sucker of Aurumis
+320009	Cold Breath
+320010	Reflective Shield
+320011	Military Discipline
+321001	Quick Thinking
+321002	Magic Attunement
+321003	Time Shift
+41102017	Lightning Step <65-100><when attacking, being attacked>
+41102018	Diamond Skin <65-100><when attacking, being attacked>
+41102019	Lightning Hands <65-100><when attacking, being attacked>
+41102020	Bolstered Shield <65-100><when attacking, being attacked>
+41102021	Pinpoint Blows <65-100><when attacking, being attacked>
+41102022	Devastating Strikes <65-100><when attacking, being attacked>
+41102023	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102024	Mighty Arms <65-100><when attacking, being attacked>
+41102025	Magnified Spells <65-100><when attacking, being attacked>
+41102026	Impenetrable Mind <65-100><when attacking, being attacked>
+41102027	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102028	Lightning Step <65-100><when attacking, being attacked>
+41102029	Diamond Skin <65-100><when attacking, being attacked>
+41102030	Lightning Hands <65-100><when attacking, being attacked>
+41102031	Bolstered Shield <65-100><when attacking, being attacked>
+41102032	Pinpoint Blows <65-100><when attacking, being attacked>
+41102033	Devastating Strikes <65-100><when attacking, being attacked>
+41102034	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102035	Mighty Arms <65-100><when attacking, being attacked>
+41102036	Magnified Spells <65-100><when attacking, being attacked>
+41102037	Impenetrable Mind <65-100><when attacking, being attacked>
+41102038	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102039	Lightning Step <65-100><when attacking, being attacked>
+41102040	Diamond Skin <65-100><when attacking, being attacked>
+41102041	Lightning Hands <65-100><when attacking, being attacked>
+41102042	Bolstered Shield <65-100><when attacking, being attacked>
+41102043	Pinpoint Blows <65-100><when attacking, being attacked>
+41102044	Devastating Strikes <65-100><when attacking, being attacked>
+41102045	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102046	Mighty Arms <65-100><when attacking, being attacked>
+41102047	Magnified Spells <65-100><when attacking, being attacked>
+41102048	Impenetrable Mind <65-100><when attacking, being attacked>
+41102049	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102050	Lightning Step <65-100><when attacking, being attacked>
+41102051	Diamond Skin <65-100><when attacking, being attacked>
+41102052	Lightning Hands <65-100><when attacking, being attacked>
+41102053	Bolstered Shield <65-100><when attacking, being attacked>
+41102054	Pinpoint Blows <65-100><when attacking, being attacked>
+41102055	Devastating Strikes <65-100><when attacking, being attacked>
+41102056	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102057	Mighty Arms <65-100><when attacking, being attacked>
+41102058	Magnified Spells <65-100><when attacking, being attacked>
+41102059	Impenetrable Mind <65-100><when attacking, being attacked>
+41102060	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102061	Lightning Step <65-100><when attacking, being attacked>
+41102062	Diamond Skin <65-100><when attacking, being attacked>
+41102063	Lightning Hands <65-100><when attacking, being attacked>
+41102064	Bolstered Shield <65-100><when attacking, being attacked>
+41102065	Pinpoint Blows <65-100><when attacking, being attacked>
+41102066	Devastating Strikes <65-100><when attacking, being attacked>
+41102067	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102068	Mighty Arms <65-100><when attacking, being attacked>
+41102069	Magnified Spells <65-100><when attacking, being attacked>
+41102070	Impenetrable Mind <65-100><when attacking, being attacked>
+41102071	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102072	Lightning Step <65-100><when attacking, being attacked>
+41102073	Diamond Skin <65-100><when attacking, being attacked>
+41102074	Lightning Hands <65-100><when attacking, being attacked>
+41102075	Bolstered Shield <65-100><when attacking, being attacked>
+41102076	Pinpoint Blows <65-100><when attacking, being attacked>
+41102077	Devastating Strikes <65-100><when attacking, being attacked>
+41102078	Rejuvenating Mana <65-100><when attacking, being attacked>
+41102079	Mighty Arms <65-100><when attacking, being attacked>
+41102080	Magnified Spells <65-100><when attacking, being attacked>
+41102081	Impenetrable Mind <65-100><when attacking, being attacked>
+41102082	Hunting Weaknesses <65-100><when attacking, being attacked>
+41102215	Bullet Step <35-65><when attacking, being attacked>
+41102216	Platinum Skin <35-65><when attacking, being attacked>
+41102217	Bullet Hands <35-65><when attacking, being attacked>
+41102218	Hardened Shield <35-65><when attacking, being attacked>
+41102219	Focused Blows <35-65><when attacking, being attacked>
+41102220	Power Strikes <35-65><when attacking, being attacked>
+41102221	Replenishing Mana <35-65><when attacking, being attacked>
+41102222	Vigorous Arms <35-65><when attacking, being attacked>
+41102223	Amplified Spells <35-65><when attacking, being attacked>
+41102224	Guarded Mind <35-65><when attacking, being attacked>
+41102225	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102226	Bullet Step <35-65><when attacking, being attacked>
+41102227	Platinum Skin <35-65><when attacking, being attacked>
+41102228	Bullet Hands <35-65><when attacking, being attacked>
+41102229	Hardened Shield <35-65><when attacking, being attacked>
+41102230	Focused Blows <35-65><when attacking, being attacked>
+41102231	Power Strikes <35-65><when attacking, being attacked>
+41102232	Replenishing Mana <35-65><when attacking, being attacked>
+41102233	Vigorous Arms <35-65><when attacking, being attacked>
+41102234	Amplified Spells <35-65><when attacking, being attacked>
+41102235	Guarded Mind <35-65><when attacking, being attacked>
+41102236	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102237	Bullet Step <35-65><when attacking, being attacked>
+41102238	Platinum Skin <35-65><when attacking, being attacked>
+41102239	Bullet Hands <35-65><when attacking, being attacked>
+41102240	Hardened Shield <35-65><when attacking, being attacked>
+41102241	Focused Blows <35-65><when attacking, being attacked>
+41102242	Power Strikes <35-65><when attacking, being attacked>
+41102243	Replenishing Mana <35-65><when attacking, being attacked>
+41102244	Vigorous Arms <35-65><when attacking, being attacked>
+41102245	Amplified Spells <35-65><when attacking, being attacked>
+41102246	Guarded Mind <35-65><when attacking, being attacked>
+41102247	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102248	Bullet Step <35-65><when attacking, being attacked>
+41102249	Platinum Skin <35-65><when attacking, being attacked>
+41102250	Bullet Hands <35-65><when attacking, being attacked>
+41102251	Hardened Shield <35-65><when attacking, being attacked>
+41102252	Focused Blows <35-65><when attacking, being attacked>
+41102253	Power Strikes <35-65><when attacking, being attacked>
+41102254	Replenishing Mana <35-65><when attacking, being attacked>
+41102255	Vigorous Arms <35-65><when attacking, being attacked>
+41102256	Amplified Spells <35-65><when attacking, being attacked>
+41102257	Guarded Mind <35-65><when attacking, being attacked>
+41102258	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102259	Bullet Step <35-65><when attacking, being attacked>
+41102260	Platinum Skin <35-65><when attacking, being attacked>
+41102261	Bullet Hands <35-65><when attacking, being attacked>
+41102262	Hardened Shield <35-65><when attacking, being attacked>
+41102263	Focused Blows <35-65><when attacking, being attacked>
+41102264	Power Strikes <35-65><when attacking, being attacked>
+41102265	Replenishing Mana <35-65><when attacking, being attacked>
+41102266	Vigorous Arms <35-65><when attacking, being attacked>
+41102267	Amplified Spells <35-65><when attacking, being attacked>
+41102268	Guarded Mind <35-65><when attacking, being attacked>
+41102269	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102270	Bullet Step <35-65><when attacking, being attacked>
+41102271	Platinum Skin <35-65><when attacking, being attacked>
+41102272	Bullet Hands <35-65><when attacking, being attacked>
+41102273	Hardened Shield <35-65><when attacking, being attacked>
+41102274	Focused Blows <35-65><when attacking, being attacked>
+41102275	Power Strikes <35-65><when attacking, being attacked>
+41102276	Replenishing Mana <35-65><when attacking, being attacked>
+41102277	Vigorous Arms <35-65><when attacking, being attacked>
+41102278	Amplified Spells <35-65><when attacking, being attacked>
+41102279	Guarded Mind <35-65><when attacking, being attacked>
+41102280	Detecting Weaknesses <35-65><when attacking, being attacked>
+41102347	Quick Step <1-35><when attacking, being attacked>
+41102348	Steel Skin <1-35><when attacking, being attacked>
+41102349	Quick Hands <1-35><when attacking, being attacked>
+41102350	Thickened Shield <1-35><when attacking, being attacked>
+41102351	Accurate Blows <1-35><when attacking, being attacked>
+41102352	Strengthened Strikes <1-35><when attacking, being attacked>
+41102353	Charging Mana <1-35><when attacking, being attacked>
+41102354	Strong Arms <1-35><when attacking, being attacked>
+41102355	Boosted Spells <1-35><when attacking, being attacked>
+41102356	Protected Mind <1-35><when attacking, being attacked>
+41102357	Seeking Weaknesses <1-35><when attacking, being attacked>
+41102369	Quick Step <1-35><when attacking, being attacked>
+41102370	Steel Skin <1-35><when attacking, being attacked>
+41102371	Quick Hands <1-35><when attacking, being attacked>
+41102372	Thickened Shield <1-35><when attacking, being attacked>
+41102373	Accurate Blows <1-35><when attacking, being attacked>
+41102374	Strengthened Strikes <1-35><when attacking, being attacked>
+41102375	Charging Mana <1-35><when attacking, being attacked>
+41102376	Strong Arms <1-35><when attacking, being attacked>
+41102377	Boosted Spells <1-35><when attacking, being attacked>
+41102378	Protected Mind <1-35><when attacking, being attacked>
+41102379	Seeking Weaknesses <1-35><when attacking, being attacked>
+41102393	Rampant Regeneration<attack><% of HP recovery>
+41102394	Mana Surge<attack><% of MP recovery>
+41102395	Intense Authority
+41102396	Intense Aura
+41102397	Warm Authority
+41102398	Warm Aura
+41102399	Wrath<For monster>
+41102400	Wrath<For Boss card>
+41102401	Aura of Sylarion
+41102402	Determination of Sylarion
+41102403	Aura of Selaim
+41102404	Frame of Selaim
+41102405	Aura of Breeze<Self>
+41102406	Lyric of Breeze<Self>
+41102407	Calm Aura<Self>
+41102408	Calm Magic<Self>
+41102409	Band of Marbas
+41102410	Band of Anessa
+41102411	Band of Argoth
+41102412	Salam's Set
+41102413	Argoth's Set
+41102414	Rudra's Set
+41102415	Band of Endairon
+41102416	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102417	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102418	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102419	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102420	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102421	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102422	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102423	Master Helmet's Boon Lv 1<120% effect><1-35><Attack, Being attacked>
+41102424	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102425	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102426	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102427	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102428	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102429	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102430	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102431	Master Helmet's Boon Lv 2<160% effect><35-65><Attack, Being attacked>
+41102432	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102433	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102434	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102435	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102436	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102437	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102438	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102439	Master Helmet's Boon Lv 3<200% effect><65-100><Attack, Being attacked>
+41102440	Agoraphobia
+41102441	Olympic Blessing
+41102442	Vital Mana Scroll
+41102443	Vital Regeneration Scroll
+41102444	Miracle Scroll
+41102445	Turtle Pizza
+41102446	Dungeon Ownership: EXP Boost
+41102447	Dungeon Ownership: Stat Boost
+41102448	Blessing of the Angelic Council
+41102451	Phantom Qilin Riding
+41102452	Phantom Tiger Riding
+41102453	Phantom Lydian Riding
+41102455	Black Dragon Riding
+41102456	Red Dragon Riding
+41102457	Blessing of Olympia
+41102460	Movement Speed Decrease<Shoulder deco Ramias wing>
+41102461	Blessing of Civilization<jetpack>
+41102462	Curse of God<jetpack>
+41102463	Blessing of the Guardians
+41102464	Blessing of the Heavens: Stun Resist
+41102465	Blessing of the Heavens: Petrifaction Resist
+41102466	Blessing of the Heavens: Hold Resist
+41102467	Heavenly Dragon
+41102468	Announcement of the Declaration of Independence
+41102469	Hail to the Heroes!
+41102500	Rudolph's Sadness<2012 Christmas Event>
+41102501	Rudolph's Agony<2012 Christmas Event>
+41102502	Rudolph's Solitude<2012 Christmas Event>
+41102503	Rudolph's Despair<2012 Christmas Event>
+41102504	Rice Cake Soup
+41102505	Fortune
+41102506	Bee drink
+41102507	Fresh Tomato 1
+41102508	Fresh Tomato 2
+41102509	Fresh Tomato 3
+41102510	Fresh Tomato 4
+41102511	Fresh Tomato 5
+41102512	Power of Attack
+41102513	Aura of Attack
+41102514	Power of Defense
+41102515	Aura of Defense
+41102516	국화
+41102517	질소 과자
+41102518	Pluto's Malice<2013 Pluto event><(version:8.2)>
+41102519	Pluto's Greed<2013 Pluto event><(version:8.2)>
+41102520	Pluto's Fame<2013 Pluto event><(version:8.2)>
+41102521	Pluto's Shame<2013 Pluto event><(version:8.2)>
+41102522	Pluto's Malice<2013 Pluto event><(version:8.2)><No stats>
+41102523	Pluto's Greed<2013 Pluto event><(version:8.2)><No stats>
+41102524	Pluto's Fame<2013 Pluto event><(version:8.2)><No stats>
+41102525	Pluto's Shame<2013 Pluto event><(version:8.2)><No stats>
+41102526	Effect of Double Headed Coin<2013 Pluto event><(version:8.2)>
+41102527	Spirit of the Bear Mother
+41102528	Mother Bear Blessing<2013 Christmas Event>
+41102529	희망 찬 버프<신년맞이 버프 이벤트>
+41102530	행복한 버프<신년맞이 버프 이벤트>
+41102531	더블 plus PC방 전용 버프<2014 PC방 이벤트>
+41102532	Toy of Bear Mother
+41102533	Gold medal blessing<2014_Winter_olympic>
+41102534	Silver medal blessing<2014_Winter_olympic>
+41102535	Bronze medal blessing<2014_Winter_olympic>
+41102536	Guardian of Gaia
+41102537	Priestess Blessing
+41102538	화이트 데이 별 사탕<2014_화이트데이_이벤트>
+41102539	Blue Egg Buff<2014_Easter_Event>
+41102540	Green Egg Buff<2014_Easter_Event>
+41102541	White Egg Buff<2014_Easter_Event>
+41102542	Pink Egg Buff<2014_Easter_Event>
+41102543	Yellow Egg Buff<2014_Easter_Event>
+41103001	Unity of Protection Aura
+41103002	Unity of Protection
+41103003	Sharp Blade Aura
+41103004	Sharp Blade
+41103005	Silent Spirit Aura<Self>
+41103006	Silent Spirit<Self>
+41103007	Whispering Winds Aura<Self>
+41103008	Whispering Winds<Self>
+41103009	Fiery Veil
+41103010	Provoke
+41103011	Accuracy Increased
+41103012	Magical Accuracy Increased
+41103013	Infernal Relief
+41103014	Red Spider Flair Lv. 1
+41103015	Red Spider Flair Lv. 2
+41103016	Red Spider Flair Lv. 3
+41103017	Red Spider Flair Lv. 4
+41103018	Red Spider Flair Lv. 5
+41103019	Infernal Reviviscence
+41103020	Red Spider Deception Lv. 1
+41103021	Red Spider Deception Lv. 2
+41103022	Red Spider Deception Lv. 3
+41103023	Red Spider Deception Lv. 4
+41103024	Red Spider Deception Lv. 5
+41103025	Magical Inspiration
+41103026	Red Pageant
+41103027	Energy of Fire<Requested by MENA>
+41103028	Energy of Wind<Requested by MENA>
+41103029	Energy of Water<Requested by MENA>
+41103030	Energy of Gold 1<Requested by MENA>
+41103031	Energy of Gold 2<Requested by MENA>
+41103032	Energy of Gold 3<Requested by MENA>
+41103033	Energy of Gold 4<Requested by MENA>
+41103034	Energy of Gold 5<Requested by MENA>
+41103035	Holiday Energy <2014 Golden week event>
+41103036	Ship of the Desert
+41103037	슈르바<2014_라마단_이벤트1>
+41103038	케밥<2014_라마단_이벤트1>
+41103039	마흐쉬<2014_라마단_이벤트1>
+41103040	쿱타<2014_라마단_이벤트1>
+41103041	펠라펠<2014_라마단_이벤트1>
+41103042	타불리<2014_라마단_이벤트1>
+41103043	파테<2014_라마단_이벤트1>
+41103044	Dark Spirit: Stun Resistance
+41103045	Dark Spirit: Petrifaction Resistance
+41103046	Dark Spirit: Hold Resistance
+41103047	Crystal of Attack<2014_9.1_Update>
+41103048	Crystal of Nirvana<2014_9.1_Update>
+41103049	Crystal of High Speed<2014_9.1_Update>
+41103050	Crystal of Luck<2014_9.1_Update>
+41103051	Crystal of Experience<2014_9.1_Update>
+41103052	Mercy of Attack<2014_9.1_Update>
+41103053	Mercy of Nirvana<2014_9.1_Update>
+41103054	Mercy of High Speed<2014_9.1_Update>
+41103055	Mercy of Luck<2014_9.1_Update>
+41103056	Mercy of Experience<2014_9.1_Update>
+41103057	흰 낙타 라이딩
+41103058	Angel's Blessing<2014_Ramadan2_Event><(version:8.3)>
+41103059	Emperor's Blessing<2014_Ramadan2_Event><(version:8.3)>
+41103060	Master's Blessing<2014_Ramadan2_Event><(version:8.3)>
+41103061	Angel’s Gift<2014_Ramadan2_Event><(version:8.3)>
+41103062	Emperor’s Gift<2014_Ramadan2_Event><(version:8.3)>
+41103063	Expert of Donation<2014_Ramadan2_Event><(version:8.3)>
+41103064	Zombie Medicine<2014_Halloween_event>
+41103065	Brain Medicine<2014_Halloween_event>
+41103066	Unity juice<2014_Christmas_Event>
+41103067	Guard pigeon<2014_Christmas_Event>
+41103068	Ripped drum<2014_Christmas_Event>
+41103069	A bird singing a lullaby<2014_Christmas_Event>
+41103070	Red Sheep Riding
+41103071	Blue Sheep Riding
+41103072	식혜<2015_구정맞이_공기놀이_이벤트>
+41103073	Hope Broth<2015 New Year_Marble play_Event>
+41103074	Best Wishes<2015 New Year_Marble play_Event>
+41103075	강함의 기운<2015 중동 6주년 이벤트>
+41103076	협력의 기운<2015 중동 6주년 이벤트>
+41103077	절망의 영혼<2015 중동 6주년 이벤트>
+41103078	수면의 영혼<2015 중동 6주년 이벤트>
+41110000	Faded Blue Egg Effect<2015 Easter event><(version:9.1)>
+41110001	Faded Green Egg Effect<2015 Easter event><(version:9.1)>
+41110002	Faded White Egg Effect<2015 Easter event><(version:9.1)>
+41110003	Faded Pink Egg Effect<2015 Easter event><(version:9.1)>
+41110004	Faded Yellow Egg Effect<2015 Easter event><(version:9.1)>
+41110005	경험치 프로텍터<하드코어서버용>
+41110006	Golden Week Event Buff<2015 Golden week event>
+42102017	Quick Step <1-35><when attacking, being attacked>
+42102018	Steel Skin <1-35><when attacking, being attacked>
+42102019	Quick Hands <1-35><when attacking, being attacked>
+42102020	Thickened Shield <1-35><when attacking, being attacked>
+42102021	Accurate Blows <1-35><when attacking, being attacked>
+42102022	Strengthened Strikes <1-35><when attacking, being attacked>
+42102023	Charging Mana <1-35><when attacking, being attacked>
+42102024	Strong Arms <1-35><when attacking, being attacked>
+42102025	Boosted Spells <1-35><when attacking, being attacked>
+42102026	Protected Mind <1-35><when attacking, being attacked>
+42102027	Seeking Weaknesses <1-35><when attacking, being attacked>
+42102028	Quick Step <1-35><when attacking, being attacked>
+42102029	Steel Skin <1-35><when attacking, being attacked>
+42102030	Quick Hands <1-35><when attacking, being attacked>
+42102031	Thickened Shield <1-35><when attacking, being attacked>
+42102032	Accurate Blows <1-35><when attacking, being attacked>
+42102033	Strengthened Strikes <1-35><when attacking, being attacked>
+42102034	Charging Mana <1-35><when attacking, being attacked>
+42102035	Strong Arms <1-35><when attacking, being attacked>
+42102036	Boosted Spells <1-35><when attacking, being attacked>
+42102037	Protected Mind <1-35><when attacking, being attacked>
+42102038	Seeking Weaknesses <1-35><when attacking, being attacked>
+42102039	Quick Step <1-35><when attacking, being attacked>
+42102040	Steel Skin <1-35><when attacking, being attacked>
+42102041	Quick Hands <1-35><when attacking, being attacked>
+42102042	Thickened Shield <1-35><when attacking, being attacked>
+42102043	Accurate Blows <1-35><when attacking, being attacked>
+42102044	Strengthened Strikes <1-35><when attacking, being attacked>
+42102045	Charging Mana <1-35><when attacking, being attacked>
+42102046	Strong Arms <1-35><when attacking, being attacked>
+42102047	Boosted Spells <1-35><when attacking, being attacked>
+42102048	Protected Mind <1-35><Attack, being attacked>
+42102049	Seeking Weaknesses <1-35><Attack, being attacked>
+42102050	Quick Step <1-35><Attack, being attacked>
+42102051	Steel Skin <1-35><Attack, being attacked>
+42102052	Quick Hands <1-35><Attack, being attacked>
+42102053	Thickened Shield <1-35><Attack, being attacked>
+42102054	Accurate Blows <1-35><Attack, being attacked>
+42102055	Strengthened Strikes <1-35><Attack, being attacked>
+42102056	Charging Mana <1-35><Attack, being attacked>
+42102057	Strong Arms <1-35><Attack, being attacked>
+42102058	Boosted Spells <1-35><Attack, being attacked>
+42102059	Protected Mind <1-35><Attack, being attacked>
+42102060	Seeking Weaknesses <1-35><Attack, being attacked>
+42102061	Quick Step <65-100><Attack, being attacked>
+42102062	Steel Skin <65-100><Attack, being attacked>
+42102063	Quick Hands <65-100><Attack, being attacked>
+42102064	Thickened Shield <65-100><Attack, being attacked>
+42102065	Accurate Blows <65-100><Attack, being attacked>
+42102066	Strengthened Strikes <65-100><Attack, being attacked>
+42102067	Charging Mana <65-100><Attack, being attacked>
+42102068	Strong Arms <65-100><Attack, being attacked>
+42102069	Boosted Spells <65-100><Attack, being attacked>
+42102070	Protected Mind <65-100><Attack, being attacked>
+42102071	Seeking Weaknesses <65-100><Attack, being attacked>
+42102072	Quick Step <65-100><Attack, being attacked>
+42102073	Steel Skin <65-100><Attack, being attacked>
+42102074	Quick Hands <65-100><Attack, being attacked>
+42102075	Thickened Shield <65-100><Attack, being attacked>
+42102076	Accurate Blows <65-100><Attack, being attacked>
+42102077	Strengthened Strikes <65-100><Attack, being attacked>
+42102078	Charging Mana <65-100><Attack, being attacked>
+42102079	Strong Arms <65-100><Attack, being attacked>
+42102080	Boosted Spells <65-100><Attack, being attacked>
+42102081	Protected Mind <65-100><Attack, being attacked>
+42102082	Seeking Weaknesses <65-100><Attack, being attacked>
+42102215	Quick Step <65-100><Attack, being attacked>
+42102216	Steel Skin <65-100><Attack, being attacked>
+42102217	Quick Hands <65-100><Attack, being attacked>
+42102218	Thickened Shield <65-100><Attack, being attacked>
+42102219	Accurate Blows <65-100><Attack, being attacked>
+42102220	Strengthened Strikes <65-100><Attack, being attacked>
+42102221	Charging Mana <65-100><Attack, being attacked>
+42102222	Strong Arms <65-100><Attack, being attacked>
+42102223	Boosted Spells <65-100><Attack, being attacked>
+42102224	Protected Mind <65-100><Attack, being attacked>
+42102225	Seeking Weaknesses <65-100><Attack, being attacked>
+42102226	Quick Step <65-100><Attack, being attacked>
+42102227	Steel Skin <65-100><Attack, being attacked>
+42102228	Quick Hands <65-100><Attack, being attacked>
+42102229	Thickened Shield <65-100><Attack, being attacked>
+42102230	Accurate Blows <65-100><Attack, being attacked>
+42102231	Strengthened Strikes <65-100><Attack, being attacked>
+42102232	Charging Mana <65-100><Attack, being attacked>
+42102233	Strong Arms <65-100><Attack, being attacked>
+42102234	Boosted Spells <65-100><Attack, being attacked>
+42102235	Protected Mind <65-100><Attack, being attacked>
+42102236	Seeking Weaknesses <65-100><Attack, being attacked>
+42102237	Quick Step <65-100><Attack, being attacked>
+42102238	Steel Skin <65-100><Attack, being attacked>
+42102239	Quick Hands <65-100><Attack, being attacked>
+42102240	Thickened Shield <65-100><Attack, being attacked>
+42102241	Accurate Blows <65-100><Attack, being attacked>
+42102242	Strengthened Strikes <65-100><Attack, being attacked>
+42102243	Charging Mana <65-100><Attack, being attacked>
+42102244	Strong Arms <65-100><Attack, being attacked>
+42102245	Boosted Spells <65-100><Attack, being attacked>
+42102246	Protected Mind <65-100><Attack, being attacked>
+42102247	Seeking Weaknesses <65-100><Attack, being attacked>
+42102248	Quick Step <65-100><Attack, being attacked>
+42102249	Steel Skin <65-100><Attack, being attacked>
+42102250	Quick Hands <65-100><Attack, being attacked>
+42102251	Thickened Shield <65-100><Attack, being attacked>
+42102252	Accurate Blows <65-100><Attack, being attacked>
+42102253	Strengthened Strikes <65-100><Attack, being attacked>
+42102254	Charging Mana <65-100><Attack, being attacked>
+42102255	Strong Arms <65-100><Attack, being attacked>
+42102256	Boosted Spells <65-100><Attack, being attacked>
+42102257	Protected Mind <65-100><Attack, being attacked>
+42102258	Seeking Weaknesses <65-100><Attack, being attacked>
+42102259	Bullet Step <35-65><Attack, being attacked>
+42102260	Platinum Skin <35-65><Attack, being attacked>
+42102261	Bullet Hands <35-65><Attack, being attacked>
+42102262	Hardened Shield <35-65><Attack, being attacked>
+42102263	Focused Blows <35-65><Attack, being attacked>
+42102264	Power Strikes <35-65><Attack, being attacked>
+42102265	Replenishing Mana <35-65><Attack, being attacked>
+42102266	Vigorous Arms <35-65><Attack, being attacked>
+42102267	Amplified Spells <35-65><Attack, being attacked>
+42102268	Guarded Mind <35-65><Attack, being attacked>
+42102269	Detecting Weaknesses <35-65><Attack, being attacked>
+42102270	Bullet Step <35-65><Attack, being attacked>
+42102271	Platinum Skin <35-65><Attack, being attacked>
+42102272	Bullet Hands <35-65><Attack, being attacked>
+42102273	Hardened Shield <35-65><Attack, being attacked>
+42102274	Focused Blows <35-65><Attack, being attacked>
+42102275	Power Strikes <35-65><Attack, being attacked>
+42102276	Replenishing Mana <35-65><Attack, being attacked>
+42102277	Vigorous Arms <35-65><Attack, being attacked>
+42102278	Amplified Spells <35-65><Attack, being attacked>
+42102279	Guarded Mind <35-65><Attack, being attacked>
+42102280	Detecting Weaknesses <35-65><Attack, being attacked>
+42102369	Bullet Step <35-65><Attack, being attacked>
+42102370	Platinum Skin <35-65><Attack, being attacked>
+42102371	Bullet Hands <35-65><Attack, being attacked>
+42102372	Hardened Shield <35-65><Attack, being attacked>
+42102373	Focused Blows <35-65><Attack, being attacked>
+42102374	Power Strikes <35-65><Attack, being attacked>
+42102375	Replenishing Mana <35-65><Attack, being attacked>
+42102376	Vigorous Arms <35-65><Attack, being attacked>
+42102377	Amplified Spells <35-65><Attack, being attacked>
+42102378	Guarded Mind <35-65><Attack, being attacked>
+42102379	Detecting Weaknesses <35-65><Attack, being attacked>
+43102017	Bullet Step <35-65><Attack, being attacked>
+43102018	Platinum Skin <35-65><Attack, being attacked>
+43102019	Bullet Hands <35-65><Attack, being attacked>
+43102020	Hardened Shield <35-65><Attack, being attacked>
+43102021	Focused Blows <35-65><Attack, being attacked>
+43102022	Power Strikes <35-65><Attack, being attacked>
+43102023	Replenishing Mana <35-65><Attack, being attacked>
+43102024	Vigorous Arms <35-65><Attack, being attacked>
+43102025	Amplified Spells <35-65><Attack, being attacked>
+43102026	Guarded Mind <35-65><Attack, being attacked>
+43102027	Detecting Weaknesses <35-65><Attack, being attacked>
+43102028	Bullet Step <35-65><Attack, being attacked>
+43102029	Platinum Skin <35-65><Attack, being attacked>
+43102030	Bullet Hands <35-65><Attack, being attacked>
+43102031	Hardened Shield <35-65><Attack, being attacked>
+43102032	Focused Blows <35-65><Attack, being attacked>
+43102033	Power Strikes <35-65><Attack, being attacked>
+43102034	Replenishing Mana <35-65><Attack, being attacked>
+43102035	Vigorous Arms <35-65><Attack, being attacked>
+43102036	Amplified Spells <35-65><Attack, being attacked>
+43102037	Guarded Mind <35-65><Attack, being attacked>
+43102038	Detecting Weaknesses <35-65><Attack, being attacked>
+43102039	Bullet Step <35-65><Attack, being attacked>
+43102040	Platinum Skin <35-65><Attack, being attacked>
+43102041	Bullet Hands <35-65><Attack, being attacked>
+43102042	Hardened Shield <35-65><Attack, being attacked>
+43102043	Focused Blows <35-65><Attack, being attacked>
+43102044	Power Strikes <35-65><Attack, being attacked>
+43102045	Replenishing Mana <35-65><Attack, being attacked>
+43102046	Vigorous Arms <35-65><Attack, being attacked>
+43102047	Amplified Spells <35-65><Attack, being attacked>
+43102048	Guarded Mind <35-65><Attack, being attacked>
+43102049	Detecting Weaknesses <35-65><Attack, being attacked>
+43102050	Lightning Step <1-35><Attack, being attacked>
+43102051	Diamond Skin <1-35><Attack, being attacked>
+43102052	Lightning Hands <1-35><Attack, being attacked>
+43102053	Bolstered Shield <1-35><Attack, being attacked>
+43102054	Pinpoint Blows <1-35><Attack, being attacked>
+43102055	Devastating Strikes <1-35><Attack, being attacked>
+43102056	Rejuvenating Mana <1-35><Attack, being attacked>
+43102057	Mighty Arms <1-35><Attack, being attacked>
+43102058	Magnified Spells <1-35><Attack, being attacked>
+43102059	Impenetrable Mind <1-35><Attack, being attacked>
+43102060	Hunting Weaknesses <1-35><Attack, being attacked>
+43102061	Lightning Step <1-35><Attack, being attacked>
+43102062	Diamond Skin <1-35><Attack, being attacked>
+43102063	Lightning Hands <1-35><Attack, being attacked>
+43102064	Bolstered Shield <1-35><Attack, being attacked>
+43102065	Pinpoint Blows <1-35><Attack, being attacked>
+43102066	Devastating Strikes <1-35><Attack, being attacked>
+43102067	Rejuvenating Mana <1-35><Attack, being attacked>
+43102068	Mighty Arms <1-35><Attack, being attacked>
+43102069	Magnified Spells <1-35><Attack, being attacked>
+43102070	Impenetrable Mind <1-35><Attack, being attacked>
+43102071	Hunting Weaknesses <1-35><Attack, being attacked>
+43102072	Lightning Step <1-35><Attack, being attacked>
+43102073	Diamond Skin <1-35><Attack, being attacked>
+43102074	Lightning Hands <1-35><Attack, being attacked>
+43102075	Bolstered Shield <1-35><Attack, being attacked>
+43102076	Pinpoint Blows <1-35><Attack, being attacked>
+43102077	Devastating Strikes <1-35><Attack, being attacked>
+43102078	Rejuvenating Mana <1-35><Attack, being attacked>
+43102079	Mighty Arms <1-35><Attack, being attacked>
+43102080	Magnified Spells <1-35><Attack, being attacked>
+43102081	Impenetrable Mind <1-35><Attack, being attacked>
+43102082	Hunting Weaknesses <1-35><Attack, being attacked>
+43102215	Lightning Step <1-35><Attack, being attacked>
+43102216	Diamond Skin <1-35><Attack, being attacked>
+43102217	Lightning Hands <1-35><Attack, being attacked>
+43102218	Bolstered Shield <1-35><Attack, being attacked>
+43102219	Pinpoint Blows <1-35><Attack, being attacked>
+43102220	Devastating Strikes <1-35><Attack, being attacked>
+43102221	Rejuvenating Mana <1-35><Attack, being attacked>
+43102222	Mighty Arms <1-35><Attack, being attacked>
+43102223	Magnified Spells <1-35><Attack, being attacked>
+43102224	Impenetrable Mind <1-35><Attack, being attacked>
+43102225	Hunting Weaknesses <1-35><Attack, being attacked>
+43102226	Lightning Step <1-35><Attack, being attacked>
+43102227	Diamond Skin <1-35><Attack, being attacked>
+43102228	Lightning Hands <1-35><Attack, being attacked>
+43102229	Bolstered Shield <1-35><Attack, being attacked>
+43102230	Pinpoint Blows <1-35><Attack, being attacked>
+43102231	Devastating Strikes <1-35><Attack, being attacked>
+43102232	Rejuvenating Mana <1-35><Attack, being attacked>
+43102233	Mighty Arms <1-35><Attack, being attacked>
+43102234	Magnified Spells <1-35><Attack, being attacked>
+43102235	Impenetrable Mind <1-35><Attack, being attacked>
+43102236	Hunting Weaknesses <1-35><Attack, being attacked>
+43102237	Lightning Step <1-35><Attack, being attacked>
+43102238	Diamond Skin <1-35><Attack, being attacked>
+43102239	Lightning Hands <1-35><Attack, being attacked>
+43102240	Bolstered Shield <1-35><Attack, being attacked>
+43102241	Pinpoint Blows <1-35><Attack, being attacked>
+43102242	Devastating Strikes <1-35><Attack, being attacked>
+43102243	Rejuvenating Mana <1-35><Attack, being attacked>
+43102244	Mighty Arms <1-35><Attack, being attacked>
+43102245	Magnified Spells <1-35><Attack, being attacked>
+43102246	Impenetrable Mind <1-35><Attack, being attacked>
+43102247	Hunting Weaknesses <1-35><Attack, being attacked>
+43102248	Wounded Legs<Attack, being attacked>
+43102249	Weakened Defense<Attack, being attacked>
+43102250	Slowed Attacks<Attack, being attacked>
+43102251	Broken Shield<Attack, being attacked>
+43102252	Scattered Focus<Attack, being attacked>
+43102253	Dampened Critical Strikes<Attack, being attacked>
+43102254	Diminished Spirit<Attack, being attacked>
+43102255	Crippled Arms<Attack, being attacked>
+43102256	Weakened Spells<Attack, being attacked>
+43102257	Withered Mind<Attack, being attacked>
+43102258	Unlucky Strikes<Attack, being attacked>
+43102259	Wounded Legs<Attack, being attacked>
+43102260	Weakened Defense<Attack, being attacked>
+43102261	Slowed Attacks<Attack, being attacked>
+43102262	Broken Shield<Attack, being attacked>
+43102263	Scattered Focus<Attack, being attacked>
+43102264	Dampened Critical Strikes<Attack, being attacked>
+43102265	Diminished Spirit<Attack, being attacked>
+43102266	Crippled Arms<Attack, being attacked>
+43102267	Weakened Spells<Attack, being attacked>
+43102268	Withered Mind<Attack, being attacked>
+43102269	Unlucky Strikes<Attack, being attacked>
+43102270	Wounded Legs<Attack, being attacked>
+43102271	Weakened Defense<Attack, being attacked>
+43102272	Slowed Attacks<Attack, being attacked>
+43102273	Broken Shield<Attack, being attacked>
+43102274	Scattered Focus<Attack, being attacked>
+43102275	Dampened Critical Strikes<Attack, being attacked>
+43102276	Diminished Spirit<Attack, being attacked>
+43102277	Crippled Arms<Attack, being attacked>
+43102278	Weakened Spells<Attack, being attacked>
+43102279	Withered Mind<Attack, being attacked>
+43102280	Unlucky Strikes<Attack, being attacked>
