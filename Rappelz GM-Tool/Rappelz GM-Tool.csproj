@@ -47,12 +47,6 @@
     <AssemblyOriginatorKeyFile>
     </AssemblyOriginatorKeyFile>
   </PropertyGroup>
-  <PropertyGroup>
-    <ManifestCertificateThumbprint>E9A0EC86D8AD0B6202F3671F0DC0CBAE0CE776BD</ManifestCertificateThumbprint>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ManifestKeyFile>xijezu.pfx</ManifestKeyFile>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
