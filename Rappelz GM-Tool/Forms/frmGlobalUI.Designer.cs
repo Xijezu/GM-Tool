@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGlobalUI));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -44,8 +43,9 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGlobalUI));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pbLogo = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btn_Window_Minimize = new System.Windows.Forms.Button();
             this.btn_Window_Resize = new System.Windows.Forms.Button();
@@ -181,7 +181,7 @@
             this.lbAbout = new System.Windows.Forms.Label();
             this.pbMX = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).BeginInit();
             this.mainMenu.SuspendLayout();
             this.tpGeneral.SuspendLayout();
             this.tpCharacter.SuspendLayout();
@@ -219,7 +219,7 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Controls.Add(this.pbLogo);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.btn_Window_Minimize);
             this.panel1.Controls.Add(this.btn_Window_Resize);
@@ -231,15 +231,16 @@
             this.panel1.TabIndex = 0;
             this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MouseMove_Window);
             // 
-            // pictureBox1
+            // pbLogo
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(25, 25);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
+            this.pbLogo.Image = global::GM_Tool_V5.Properties.Resources.logo_white;
+            this.pbLogo.InitialImage = null;
+            this.pbLogo.Location = new System.Drawing.Point(3, 2);
+            this.pbLogo.Name = "pbLogo";
+            this.pbLogo.Size = new System.Drawing.Size(28, 25);
+            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbLogo.TabIndex = 1;
+            this.pbLogo.TabStop = false;
             // 
             // label1
             // 
@@ -2470,7 +2471,7 @@
             // 
             // pbMX
             // 
-            this.pbMX.Image = ((System.Drawing.Image)(resources.GetObject("pbMX.Image")));
+            this.pbMX.Image = global::GM_Tool_V5.Properties.Resources.logo_white;
             this.pbMX.Location = new System.Drawing.Point(25, 25);
             this.pbMX.Name = "pbMX";
             this.pbMX.Size = new System.Drawing.Size(250, 250);
@@ -2504,7 +2505,7 @@
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmGlobalGUI_Closed);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).EndInit();
             this.mainMenu.ResumeLayout(false);
             this.mainMenu.PerformLayout();
             this.tpGeneral.ResumeLayout(false);
@@ -2563,7 +2564,7 @@
         private System.Windows.Forms.Button btn_Window_Resize;
         private System.Windows.Forms.Button btn_Window_Close;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pbLogo;
         private System.Windows.Forms.MenuStrip mainMenu;
         private System.Windows.Forms.ToolStripMenuItem fILEToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmiImportList;
