@@ -8,24 +8,30 @@ using System.Collections.Generic;
 
 // Static Function Manager class
 
-namespace GM_Tool_V5 {
-    static public class SFM {
+namespace GM_Tool_V5
+{
+    static public class SFM
+    {
         #region Global variables
         static public string APP_FOLDER = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Xijezu/GM-Tool/");
         #endregion
 
         #region OnApplicationStartup
-        static public void OnApplicationStartup() {
+        static public void OnApplicationStartup()
+        {
             if (!Directory.Exists(APP_FOLDER))
                 Directory.CreateDirectory(APP_FOLDER);
 
             string[] pszFiles = { "buffs.txt", "items.txt", "characters.txt", "monster.txt", "pets.txt", "warplist.txt" };
-            foreach (string szFile in pszFiles) {
-                if (!File.Exists(APP_FOLDER + szFile)) {
+            foreach (string szFile in pszFiles)
+            {
+                if (!File.Exists(APP_FOLDER + szFile))
+                {
                     var assembly = Assembly.GetExecutingAssembly();
                     var resourceName = "GM_Tool_V5.Resources." + szFile;
                     using (Stream stream = assembly.GetManifestResourceStream(resourceName))
-                    using (StreamReader reader = new StreamReader(stream)) {
+                    using (StreamReader reader = new StreamReader(stream))
+                    {
                         File.WriteAllText(APP_FOLDER + szFile, reader.ReadToEnd());
                     }
                 }
@@ -34,11 +40,14 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region Read functions
-        static public List<ListInterface> ReadFile(string file, DataGridView pDgv) {
+        static public List<ListInterface> ReadFile(string file, DataGridView pDgv)
+        {
             List<ListInterface> pList = new List<ListInterface>();
-            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true)) {
+            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true))
+            {
                 string s = String.Empty;
-                while ((s = sr.ReadLine()) != null) {
+                while ((s = sr.ReadLine()) != null)
+                {
                     ListInterface l = new ListInterface(s.Split('\t'));
                     pList.Add(l);
                 }
@@ -48,11 +57,14 @@ namespace GM_Tool_V5 {
         }
 
 
-        static public BindingList<WarpInterface> ReadWarpFile(string file, DataGridView dgv) {
+        static public BindingList<WarpInterface> ReadWarpFile(string file, DataGridView dgv)
+        {
             BindingList<WarpInterface> pList = new BindingList<WarpInterface>(); ;
-            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true)) {
+            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true))
+            {
                 string s = String.Empty;
-                while ((s = sr.ReadLine()) != null) {
+                while ((s = sr.ReadLine()) != null)
+                {
                     WarpInterface l = new WarpInterface(s.Split('\t'));
                     pList.Add(l);
                 }
@@ -61,11 +73,14 @@ namespace GM_Tool_V5 {
             return pList;
         }
 
-        static public BindingList<string> ReadCharacter(string file) {
+        static public BindingList<string> ReadCharacter(string file)
+        {
             BindingList<string> pList = new BindingList<string>();
-            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true)) {
+            using (StreamReader sr = new StreamReader(APP_FOLDER + file, Encoding.Default, true))
+            {
                 string s = String.Empty;
-                while ((s = sr.ReadLine()) != null) {
+                while ((s = sr.ReadLine()) != null)
+                {
                     pList.Add(s);
                 }
             }
@@ -74,22 +89,28 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region Save functions
-        static public void SafeFile(List<ListInterface> pList, string szFile) {
-            using (TextWriter tr = new StreamWriter(APP_FOLDER + szFile, false)) {
+        static public void SafeFile(List<ListInterface> pList, string szFile)
+        {
+            using (TextWriter tr = new StreamWriter(APP_FOLDER + szFile, false))
+            {
                 foreach (ListInterface lInterface in pList)
                     tr.WriteLine(string.Format("{0}\t{1}", lInterface.ID, lInterface.Name));
             }
         }
 
-        static public void UpdateCharacterList(List<string> lCharacter) {
-            using (TextWriter tr = new StreamWriter(APP_FOLDER + "characters.txt", false)) {
+        static public void UpdateCharacterList(List<string> lCharacter)
+        {
+            using (TextWriter tr = new StreamWriter(APP_FOLDER + "characters.txt", false))
+            {
                 foreach (string s in lCharacter)
                     tr.WriteLine(s);
             }
         }
 
-        static public void UpdateWarpList(List<WarpInterface> lWarps) {
-            using (TextWriter tr = new StreamWriter(APP_FOLDER + "warplist.txt", false)) {
+        static public void UpdateWarpList(List<WarpInterface> lWarps)
+        {
+            using (TextWriter tr = new StreamWriter(APP_FOLDER + "warplist.txt", false))
+            {
                 foreach (WarpInterface s in lWarps)
                     tr.WriteLine(string.Format("{0}\t{1}\t{2}", s.X, s.Y, s.Name));
             }
@@ -97,53 +118,72 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region Import and Export
-        static public void ImportList(string szFilename, string szType, DataGridView dgv) {
-            try {
-                if (File.Exists(APP_FOLDER + szType)) {
+        static public void ImportList(string szFilename, string szType, DataGridView dgv)
+        {
+            try
+            {
+                if (File.Exists(APP_FOLDER + szType))
+                {
                     File.Delete(APP_FOLDER + szType);
                 }
                 File.Copy(szFilename, APP_FOLDER + szType);
-                if (szType.Equals("warplist.txt")) {
+                if (szType.Equals("warplist.txt"))
+                {
                     ReadWarpFile(szType, dgv);
-                } else {
+                }
+                else
+                {
                     ReadFile(szType, dgv);
                 }
-            } catch (Exception e) {
+            }
+            catch (Exception e)
+            {
                 MessageBox.Show(e.ToString());
             }
         }
 
-        static public void ExportList(string szLocation, string szType) {
-            try {
-                if (File.Exists(szLocation)) {
+        static public void ExportList(string szLocation, string szType)
+        {
+            try
+            {
+                if (File.Exists(szLocation))
+                {
                     File.Delete(szLocation);
                 }
                 File.Copy(APP_FOLDER + szType, szLocation);
-            } catch (Exception ex) {
+            }
+            catch (Exception ex)
+            {
                 MessageBox.Show(ex.Message);
             }
         }
         #endregion
 
         #region Clipboard functions
-        static public void CopyToClipboard(string form, params object[] val) {
+        static public void CopyToClipboard(string form, params object[] val)
+        {
             Clipboard.SetText(string.Format(form, val), TextDataFormat.UnicodeText);
         }
 
-        static public void CopyToClipboard(string szValue) {
+        static public void CopyToClipboard(string szValue)
+        {
             Clipboard.SetText(szValue, TextDataFormat.Text);
         }
         #endregion
 
         #region GUI Enhancements
-        public static int GetJobID(string szJob) {
-            switch (szJob) {
+        public static int GetJobID(string szJob)
+        {
+            switch (szJob)
+            {
                 case "Rogue":
                     return 100;
                 case "Fighter":
                     return 101;
-                case "Spell Singer":
+                case "Kahuna":
                     return 102;
+                case "Spell Singer":
+                    return 103;
                 case "Champion":
                     return 110;
                 case "Archer":
@@ -156,7 +196,7 @@ namespace GM_Tool_V5 {
                     return 114;
                 case "Berserker":
                     return 120;
-                case "Master Archer":
+                case "Marksman":
                     return 121;
                 case "Magus":
                     return 122;
@@ -182,7 +222,7 @@ namespace GM_Tool_V5 {
                     return 213;
                 case "Soul Breeder":
                     return 214;
-                case "Crusader":
+                case "Templar":
                     return 220;
                 case "Mercenary":
                     return 221;
@@ -225,12 +265,15 @@ namespace GM_Tool_V5 {
             }
         }
 
-        static public long GetTimeValue(ListBox lb, TextBox tb) {
-            try {
+        static public long GetTimeValue(ListBox lb, TextBox tb)
+        {
+            try
+            {
                 long num2 = 0, num3 = 0;
                 long.TryParse(tb.Text, out num2);
 
-                switch (lb.SelectedItem.ToString()) {
+                switch (lb.SelectedItem.ToString())
+                {
                     case "Seconds":
                         num3 = (long)(num2 * 100);
                         break;
@@ -254,32 +297,59 @@ namespace GM_Tool_V5 {
                         break;
                 }
                 return num3;
-            } catch {
+            }
+            catch
+            {
                 return 0;
             }
         }
 
-        static public int GetSelection(DataGridView pView) {
-            try {
+        static public bool IsInt(object val) {
+            int i = 0;
+            return int.TryParse( val.ToString(), out i );
+        }
+        
+        static public bool IsNullOrEmpty(string val) {
+
+            if ( string.IsNullOrEmpty( val ) ) {
+                return true;
+            }
+
+            if(val == "0") {
+                return true;
+            }
+
+            return false;
+        }
+
+        static public int GetSelection(DataGridView pView)
+        {
+            try
+            {
                 string szVal = pView.Rows[pView.Rows.GetFirstRow(DataGridViewElementStates.Selected)].Cells[0].Value.ToString();
                 int i = 0;
-                if (int.TryParse(szVal, out i)) {
+                if (int.TryParse(szVal, out i))
+                {
                     return i;
                 }
                 return 0;
-            } catch {
+            }
+            catch
+            {
                 return 0;
             }
         }
 
-        static public void UpdateDataGridView(DataGridView dgv, List<ListInterface> pList) {
+        static public void UpdateDataGridView(DataGridView dgv, List<ListInterface> pList)
+        {
             dgv.ColumnHeadersVisible = false;
             dgv.DataSource = pList;
             dgv.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             dgv.ColumnHeadersVisible = true;
         }
 
-        static public void UpdateDataGridView(DataGridView dgv, BindingList<WarpInterface> pList) {
+        static public void UpdateDataGridView(DataGridView dgv, BindingList<WarpInterface> pList)
+        {
             dgv.ColumnHeadersVisible = false;
             dgv.DataSource = pList;
             dgv.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
@@ -288,27 +358,32 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region Structs
-        public class ListInterface {
+        public class ListInterface
+        {
             public string ID { get; set; }
             public string Name { get; set; }
 
-            public ListInterface(string key, string value) {
+            public ListInterface(string key, string value)
+            {
                 ID = key;
                 Name = value;
             }
 
-            public ListInterface(string[] value) {
+            public ListInterface(string[] value)
+            {
                 ID = value[0];
                 Name = value[1];
             }
         }
 
-        public class WarpInterface {
+        public class WarpInterface
+        {
             public string X { get; set; }
             public string Y { get; set; }
             public string Name { get; set; }
 
-            public WarpInterface(string[] value) {
+            public WarpInterface(string[] value)
+            {
                 X = value[0];
                 Y = value[1];
                 Name = value[2];
