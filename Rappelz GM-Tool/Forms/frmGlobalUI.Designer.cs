@@ -66,6 +66,8 @@
             this.tsmiExportMonster = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiExportPets = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiExportWarp = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.useOldPetListToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lbBenchmark = new System.Windows.Forms.Label();
             this.lbCharacter = new System.Windows.Forms.ListBox();
             this.tbCharacter = new GM_Tool_V5.XTextBox();
@@ -151,12 +153,17 @@
             this.dgvMonster = new System.Windows.Forms.DataGridView();
             this.tpPets = new System.Windows.Forms.TabPage();
             this.xPanel15 = new GM_Tool_V5.XPanel();
+            this.btnPetsResetList = new GM_Tool_V5.XButton();
+            this.btnPetsSearch = new GM_Tool_V5.XButton();
+            this.tbPetsSearch = new GM_Tool_V5.XTextBox();
             this.btnPetsShifter = new GM_Tool_V5.XButton();
             this.btnPetsFragment = new GM_Tool_V5.XButton();
             this.btnPetsCataclyst = new GM_Tool_V5.XButton();
             this.xPanel14 = new GM_Tool_V5.XPanel();
-            this.cbPetsTamed = new System.Windows.Forms.CheckBox();
+            this.btnPetsEnhance = new GM_Tool_V5.XButton();
             this.cbPetsStage = new GM_Tool_V5.XComboBox();
+            this.cbPetsTamed = new System.Windows.Forms.CheckBox();
+            this.cbPetsSlot = new GM_Tool_V5.XComboBox();
             this.lbPets = new System.Windows.Forms.Label();
             this.btnPetsAdd = new GM_Tool_V5.XButton();
             this.xPanel5 = new GM_Tool_V5.XPanel();
@@ -233,12 +240,13 @@
             // 
             // pbLogo
             // 
-            this.pbLogo.Image = global::GM_Tool_V5.Properties.Resources.logo_white;
+            this.pbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.pbLogo.Image = global::GM_Tool_V5.Properties.Resources.logo_fitting;
             this.pbLogo.InitialImage = null;
             this.pbLogo.Location = new System.Drawing.Point(3, 2);
             this.pbLogo.Name = "pbLogo";
-            this.pbLogo.Size = new System.Drawing.Size(28, 25);
-            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbLogo.Size = new System.Drawing.Size(26, 26);
+            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbLogo.TabIndex = 1;
             this.pbLogo.TabStop = false;
             // 
@@ -250,7 +258,7 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.label1.Location = new System.Drawing.Point(37, 6);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 15);
+            this.label1.Size = new System.Drawing.Size(121, 15);
             this.label1.TabIndex = 4;
             this.label1.Text = "Xijezu\'s GM-Tool V5.2";
             this.label1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MouseMove_Window);
@@ -332,7 +340,9 @@
             this.tsmiImportList,
             this.tsmiDatabase,
             this.tssOptions,
-            this.tsmiExportList});
+            this.tsmiExportList,
+            this.toolStripSeparator1,
+            this.useOldPetListToolStripMenuItem});
             this.fILEToolStripMenuItem.Font = new System.Drawing.Font("Arial", 9F);
             this.fILEToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.fILEToolStripMenuItem.Name = "fILEToolStripMenuItem";
@@ -460,6 +470,20 @@
             this.tsmiExportWarp.Size = new System.Drawing.Size(134, 22);
             this.tsmiExportWarp.Text = "Warplist";
             this.tsmiExportWarp.Click += new System.EventHandler(this.tsmiExportListClicked);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(179, 6);
+            // 
+            // useOldPetListToolStripMenuItem
+            // 
+            this.useOldPetListToolStripMenuItem.CheckOnClick = true;
+            this.useOldPetListToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.useOldPetListToolStripMenuItem.Name = "useOldPetListToolStripMenuItem";
+            this.useOldPetListToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.useOldPetListToolStripMenuItem.Text = "Use old pet list";
+            this.useOldPetListToolStripMenuItem.CheckStateChanged += new System.EventHandler(this.useOldPetListToolStripMenuItem_CheckStateChanged);
             // 
             // lbBenchmark
             // 
@@ -1018,47 +1042,48 @@
             this.cbChangeJob.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbChangeJob.FormattingEnabled = true;
             this.cbChangeJob.Items.AddRange(new object[] {
-            "Archer",
-            "Assassin",
-            "Battle Kahuna",
-            "Battle Summoner",
-            "Beast Master",
-            "Berserker",
-            "Bishop",
-            "Breeder",
-            "Cardinal",
-            "Champion",
-            "Chaos Magician",
-            "Cleric",
-            "Corruptor",
-            "Dark Magician",
-            "Deadeye",
-            "Druid",
-            "Evoker",
+            "Rogue",
             "Fighter",
+            "Kahuna",
+            "Spell Singer",
+            "Champion",
+            "Archer",
+            "Druid",
+            "Battle Kahuna",
+            "Evoker",
+            "Berserker",
+            "Marksman",
+            "Magus",
+            "War Kahuna",
+            "Beast Master",
             "Guide",
             "Holy Warrior",
+            "Cleric",
+            "Breeder",
             "Knight",
-            "Magus",
-            "Master Archer",
-            "Master Breeder",
-            "Mercenary",
-            "Oracle",
-            "Overlord",
-            "Priest",
-            "Rogue",
-            "Shadow Hunter",
-            "Slayer",
             "Soldier",
-            "Sorcerer",
+            "Bishop",
+            "Priest",
             "Soul Breeder",
-            "Spell Singer",
+            "Templar",
+            "Mercenary",
+            "Cardinal",
+            "Oracle",
+            "Master Breeder",
             "Stepper",
             "Strider",
-            "Templar",
+            "Dark Magician",
+            "Sorcerer",
+            "Assassin",
+            "Shadow Hunter",
+            "Chaos Magician",
+            "Warlock",
+            "Battle Summoner",
+            "Slayer",
+            "Deadeye",
             "Void Mage",
-            "War Kahuna",
-            "Warlock"});
+            "Corruptor",
+            "Overlord"});
             this.cbChangeJob.Location = new System.Drawing.Point(18, 165);
             this.cbChangeJob.Name = "cbChangeJob";
             this.cbChangeJob.Size = new System.Drawing.Size(124, 21);
@@ -1956,6 +1981,9 @@
             // xPanel15
             // 
             this.xPanel15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel15.Controls.Add(this.btnPetsResetList);
+            this.xPanel15.Controls.Add(this.btnPetsSearch);
+            this.xPanel15.Controls.Add(this.tbPetsSearch);
             this.xPanel15.Controls.Add(this.btnPetsShifter);
             this.xPanel15.Controls.Add(this.btnPetsFragment);
             this.xPanel15.Controls.Add(this.btnPetsCataclyst);
@@ -1964,6 +1992,55 @@
             this.xPanel15.Name = "xPanel15";
             this.xPanel15.Size = new System.Drawing.Size(369, 133);
             this.xPanel15.TabIndex = 10;
+            // 
+            // btnPetsResetList
+            // 
+            this.btnPetsResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnPetsResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnPetsResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPetsResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnPetsResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnPetsResetList.Location = new System.Drawing.Point(216, 98);
+            this.btnPetsResetList.Name = "btnPetsResetList";
+            this.btnPetsResetList.Size = new System.Drawing.Size(75, 23);
+            this.btnPetsResetList.TabIndex = 5;
+            this.btnPetsResetList.Text = "Reset List";
+            this.btnPetsResetList.UseVisualStyleBackColor = false;
+            this.btnPetsResetList.Click += new System.EventHandler(this.ResetGridView);
+            // 
+            // btnPetsSearch
+            // 
+            this.btnPetsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnPetsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsSearch.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnPetsSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPetsSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnPetsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnPetsSearch.Location = new System.Drawing.Point(135, 98);
+            this.btnPetsSearch.Name = "btnPetsSearch";
+            this.btnPetsSearch.Size = new System.Drawing.Size(75, 23);
+            this.btnPetsSearch.TabIndex = 4;
+            this.btnPetsSearch.Text = "Search";
+            this.btnPetsSearch.UseVisualStyleBackColor = false;
+            this.btnPetsSearch.Click += new System.EventHandler(this.SearchGridView);
+            // 
+            // tbPetsSearch
+            // 
+            this.tbPetsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbPetsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbPetsSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbPetsSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.tbPetsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbPetsSearch.Location = new System.Drawing.Point(11, 100);
+            this.tbPetsSearch.Name = "tbPetsSearch";
+            this.tbPetsSearch.NumericTextBox = false;
+            this.tbPetsSearch.Size = new System.Drawing.Size(118, 22);
+            this.tbPetsSearch.TabIndex = 3;
             // 
             // btnPetsShifter
             // 
@@ -1975,7 +2052,7 @@
             this.btnPetsShifter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsShifter.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsShifter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsShifter.Location = new System.Drawing.Point(12, 87);
+            this.btnPetsShifter.Location = new System.Drawing.Point(12, 71);
             this.btnPetsShifter.Name = "btnPetsShifter";
             this.btnPetsShifter.Size = new System.Drawing.Size(118, 23);
             this.btnPetsShifter.TabIndex = 2;
@@ -1993,7 +2070,7 @@
             this.btnPetsFragment.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsFragment.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsFragment.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsFragment.Location = new System.Drawing.Point(12, 52);
+            this.btnPetsFragment.Location = new System.Drawing.Point(12, 42);
             this.btnPetsFragment.Name = "btnPetsFragment";
             this.btnPetsFragment.Size = new System.Drawing.Size(118, 23);
             this.btnPetsFragment.TabIndex = 1;
@@ -2011,7 +2088,7 @@
             this.btnPetsCataclyst.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsCataclyst.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsCataclyst.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsCataclyst.Location = new System.Drawing.Point(12, 17);
+            this.btnPetsCataclyst.Location = new System.Drawing.Point(12, 13);
             this.btnPetsCataclyst.Name = "btnPetsCataclyst";
             this.btnPetsCataclyst.Size = new System.Drawing.Size(118, 23);
             this.btnPetsCataclyst.TabIndex = 0;
@@ -2023,8 +2100,10 @@
             // 
             this.xPanel14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.xPanel14.Controls.Add(this.cbPetsTamed);
+            this.xPanel14.Controls.Add(this.btnPetsEnhance);
             this.xPanel14.Controls.Add(this.cbPetsStage);
+            this.xPanel14.Controls.Add(this.cbPetsTamed);
+            this.xPanel14.Controls.Add(this.cbPetsSlot);
             this.xPanel14.Controls.Add(this.lbPets);
             this.xPanel14.Controls.Add(this.btnPetsAdd);
             this.xPanel14.Font = new System.Drawing.Font("Segoe UI", 8.25F);
@@ -2033,18 +2112,23 @@
             this.xPanel14.Size = new System.Drawing.Size(369, 169);
             this.xPanel14.TabIndex = 4;
             // 
-            // cbPetsTamed
+            // btnPetsEnhance
             // 
-            this.cbPetsTamed.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.cbPetsTamed.AutoSize = true;
-            this.cbPetsTamed.Checked = true;
-            this.cbPetsTamed.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.cbPetsTamed.Location = new System.Drawing.Point(134, 55);
-            this.cbPetsTamed.Name = "cbPetsTamed";
-            this.cbPetsTamed.Size = new System.Drawing.Size(59, 17);
-            this.cbPetsTamed.TabIndex = 1;
-            this.cbPetsTamed.Text = "Tamed";
-            this.cbPetsTamed.UseVisualStyleBackColor = true;
+            this.btnPetsEnhance.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnPetsEnhance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsEnhance.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsEnhance.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnPetsEnhance.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnPetsEnhance.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPetsEnhance.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnPetsEnhance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnPetsEnhance.Location = new System.Drawing.Point(136, 66);
+            this.btnPetsEnhance.Name = "btnPetsEnhance";
+            this.btnPetsEnhance.Size = new System.Drawing.Size(75, 23);
+            this.btnPetsEnhance.TabIndex = 6;
+            this.btnPetsEnhance.Text = "Stage Pet";
+            this.btnPetsEnhance.UseVisualStyleBackColor = false;
+            this.btnPetsEnhance.Click += new System.EventHandler(this.SetStage);
             // 
             // cbPetsStage
             // 
@@ -2063,22 +2147,58 @@
             "3",
             "4",
             "5"});
-            this.cbPetsStage.Location = new System.Drawing.Point(12, 53);
+            this.cbPetsStage.Location = new System.Drawing.Point(74, 68);
             this.cbPetsStage.Name = "cbPetsStage";
-            this.cbPetsStage.Size = new System.Drawing.Size(118, 21);
-            this.cbPetsStage.TabIndex = 0;
-            this.cbPetsStage.Text = "0";
+            this.cbPetsStage.Size = new System.Drawing.Size(56, 21);
+            this.cbPetsStage.TabIndex = 5;
+            this.cbPetsStage.Text = "Stage";
+            // 
+            // cbPetsTamed
+            // 
+            this.cbPetsTamed.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.cbPetsTamed.AutoSize = true;
+            this.cbPetsTamed.Checked = true;
+            this.cbPetsTamed.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.cbPetsTamed.Location = new System.Drawing.Point(136, 43);
+            this.cbPetsTamed.Name = "cbPetsTamed";
+            this.cbPetsTamed.Size = new System.Drawing.Size(58, 17);
+            this.cbPetsTamed.TabIndex = 1;
+            this.cbPetsTamed.Text = "Tamed";
+            this.cbPetsTamed.UseVisualStyleBackColor = true;
+            this.cbPetsTamed.Visible = false;
+            // 
+            // cbPetsSlot
+            // 
+            this.cbPetsSlot.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.cbPetsSlot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.cbPetsSlot.BorderColor = System.Drawing.Color.Black;
+            this.cbPetsSlot.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
+            this.cbPetsSlot.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbPetsSlot.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.cbPetsSlot.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.cbPetsSlot.FormattingEnabled = true;
+            this.cbPetsSlot.Items.AddRange(new object[] {
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"});
+            this.cbPetsSlot.Location = new System.Drawing.Point(12, 68);
+            this.cbPetsSlot.Name = "cbPetsSlot";
+            this.cbPetsSlot.Size = new System.Drawing.Size(56, 21);
+            this.cbPetsSlot.TabIndex = 0;
+            this.cbPetsSlot.Text = "Slot";
             // 
             // lbPets
             // 
             this.lbPets.AutoSize = true;
             this.lbPets.Location = new System.Drawing.Point(12, 4);
             this.lbPets.Name = "lbPets";
-            this.lbPets.Size = new System.Drawing.Size(382, 39);
+            this.lbPets.Size = new System.Drawing.Size(309, 26);
             this.lbPets.TabIndex = 4;
-            this.lbPets.Text = "Add some mighty uber pets! If you add a staged pet it will be added with\r\n0 durab" +
-    "ility, you have to repair it. Don\'t go above Stage 5, it will crash\r\nthe gameser" +
-    "ver!";
+            this.lbPets.Text = "Add some mighty uber pets! Don\'t go above stage 5 when \r\nchanging the stage of a " +
+    "pet, it will crash the gameserver!";
             // 
             // btnPetsAdd
             // 
@@ -2090,7 +2210,7 @@
             this.btnPetsAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsAdd.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsAdd.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsAdd.Location = new System.Drawing.Point(12, 81);
+            this.btnPetsAdd.Location = new System.Drawing.Point(12, 39);
             this.btnPetsAdd.Name = "btnPetsAdd";
             this.btnPetsAdd.Size = new System.Drawing.Size(118, 23);
             this.btnPetsAdd.TabIndex = 2;
@@ -2471,10 +2591,11 @@
             // 
             // pbMX
             // 
-            this.pbMX.Image = global::GM_Tool_V5.Properties.Resources.logo_white;
+            this.pbMX.Image = global::GM_Tool_V5.Properties.Resources.logo_fitting;
             this.pbMX.Location = new System.Drawing.Point(25, 25);
             this.pbMX.Name = "pbMX";
             this.pbMX.Size = new System.Drawing.Size(250, 250);
+            this.pbMX.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbMX.TabIndex = 0;
             this.pbMX.TabStop = false;
             // 
@@ -2538,6 +2659,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvMonster)).EndInit();
             this.tpPets.ResumeLayout(false);
             this.xPanel15.ResumeLayout(false);
+            this.xPanel15.PerformLayout();
             this.xPanel14.ResumeLayout(false);
             this.xPanel14.PerformLayout();
             this.xPanel5.ResumeLayout(false);
@@ -2654,7 +2776,6 @@
         private System.Windows.Forms.Label lbPets;
         private XButton btnPetsAdd;
         private System.Windows.Forms.CheckBox cbPetsTamed;
-        private XComboBox cbPetsStage;
         private XPanel xPanel15;
         private XButton btnPetsCataclyst;
         private XButton btnPetsShifter;
@@ -2695,6 +2816,14 @@
         private XTextBox tbHuntaholicPoints;
         private System.Windows.Forms.Label lbAbout;
         private System.Windows.Forms.PictureBox pbMX;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        public System.Windows.Forms.ToolStripMenuItem useOldPetListToolStripMenuItem;
+        private XButton btnPetsResetList;
+        private XButton btnPetsSearch;
+        private XTextBox tbPetsSearch;
+        private XButton btnPetsEnhance;
+        private XComboBox cbPetsStage;
+        private XComboBox cbPetsSlot;
     }
 }
 

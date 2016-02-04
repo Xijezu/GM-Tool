@@ -13,9 +13,9 @@ namespace GM_Tool_V5 {
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
 
-        [DllImportAttribute("user32.dll")]
+        [DllImportAttribute( "user32.dll" )]
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
-        [DllImportAttribute("user32.dll")]
+        [DllImportAttribute( "user32.dll" )]
         public static extern bool ReleaseCapture();
 
         /*
@@ -46,10 +46,10 @@ namespace GM_Tool_V5 {
 
             const int RESIZE_HANDLE_SIZE = 10;
             bool handled = false;
-            if (m.Msg == WM_NCHITTEST || m.Msg == WM_MOUSEMOVE) {
+            if ( m.Msg == WM_NCHITTEST || m.Msg == WM_MOUSEMOVE ) {
                 Size formSize = this.Size;
-                Point screenPoint = new Point(m.LParam.ToInt32());
-                Point clientPoint = this.PointToClient(screenPoint);
+                Point screenPoint = new Point( m.LParam.ToInt32() );
+                Point clientPoint = this.PointToClient( screenPoint );
 
                 Dictionary<UInt32, Rectangle> boxes = new Dictionary<UInt32, Rectangle>() {
             {HTBOTTOMLEFT, new Rectangle(0, formSize.Height - RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE)},
@@ -62,8 +62,8 @@ namespace GM_Tool_V5 {
             {HTLEFT, new Rectangle(0, RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE, formSize.Height - 2*RESIZE_HANDLE_SIZE) }
         };
 
-                foreach (KeyValuePair<UInt32, Rectangle> hitBox in boxes) {
-                    if (hitBox.Value.Contains(clientPoint)) {
+                foreach ( KeyValuePair<UInt32, Rectangle> hitBox in boxes ) {
+                    if ( hitBox.Value.Contains( clientPoint ) ) {
                         m.Result = (IntPtr)hitBox.Key;
                         handled = true;
                         break;
@@ -71,14 +71,14 @@ namespace GM_Tool_V5 {
                 }
             }
 
-            if (!handled)
-                base.WndProc(ref m);
+            if ( !handled )
+                base.WndProc( ref m );
         }
 
         private void MouseMove_Window(object sender, MouseEventArgs e) {
-            if (e.Button == MouseButtons.Left) {
+            if ( e.Button == MouseButtons.Left ) {
                 ReleaseCapture();
-                SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
+                SendMessage( Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0 );
             }
         }
 
@@ -106,11 +106,10 @@ namespace GM_Tool_V5 {
             tbSendNotice3.Text = Properties.Settings.Default.NoticeThree;
             tbSendNotice4.Text = Properties.Settings.Default.NoticeFour;
             mainMenu.Renderer = new ToolStripColors();
-            Benchmark(Initiation, 1);
+            Benchmark( Initiation, 1 );
         }
 
-        public void Initiation()
-        {
+        public void Initiation() {
             SFM.OnApplicationStartup();
             LoadLists();
         }
@@ -119,20 +118,20 @@ namespace GM_Tool_V5 {
             GC.Collect();
             //act.Invoke(); // run once outside of loop to avoid initialization costs
             Stopwatch sw = Stopwatch.StartNew();
-            for (int i = 0; i < iterations; i++) {
+            for ( int i = 0; i < iterations; i++ ) {
                 act.Invoke();
             }
             sw.Stop();
-            lbBenchmark.Text += string.Format("Loaded in {0}ms!", (sw.ElapsedMilliseconds / iterations).ToString());
+            lbBenchmark.Text += string.Format( "Loaded in {0}ms!", ( sw.ElapsedMilliseconds / iterations ).ToString() );
         }
 
         public void LoadLists() {
-            pListItems = SFM.ReadFile("items.txt", dgvItems);
-            pListBuffs = SFM.ReadFile("buffs.txt", dgvBuffs);
-            pListPets = SFM.ReadFile("pets.txt", dgvPets);
-            pListMonster = SFM.ReadFile("monster.txt", dgvMonster);
-            pListWarps = SFM.ReadWarpFile("warplist.txt", dgvWarps);
-            pListCharacters = SFM.ReadCharacter("characters.txt");
+            pListItems = SFM.ReadFile( "items.txt", dgvItems );
+            pListBuffs = SFM.ReadFile( "buffs.txt", dgvBuffs );
+            pListPets = SFM.ReadFile( "pets.txt", dgvPets );
+            pListMonster = SFM.ReadFile( "monster.txt", dgvMonster );
+            pListWarps = SFM.ReadWarpFile( "warplist.txt", dgvWarps );
+            pListCharacters = SFM.ReadCharacter( "characters.txt" );
             lbCharacter.DataSource = pListCharacters;
         }
         #endregion
@@ -142,31 +141,39 @@ namespace GM_Tool_V5 {
             List<SFM.ListInterface> pList = null;
             DataGridView dgv = null;
             string search = "";
-            if (sender.Equals(btnSearchItems)) {
+            if ( sender.Equals( btnSearchItems ) ) {
                 pList = pListItems;
                 dgv = dgvItems;
                 search = tbItemsSearch.Text;
-            } else if (sender.Equals(btnBuffsSearch)) {
+            }
+            else if ( sender.Equals( btnBuffsSearch ) ) {
                 pList = pListBuffs;
                 dgv = dgvBuffs;
                 search = tbBuffsSearch.Text;
-            } else if (sender.Equals(btnMonsterSearch)) {
+            }
+            else if ( sender.Equals( btnMonsterSearch ) ) {
                 pList = pListMonster;
                 dgv = dgvMonster;
                 search = tbMonsterSearch.Text;
             }
-            var pSearch = pList.FindAll(i => i.Name.ToLower().Contains(search.ToLower()));
-            SFM.UpdateDataGridView(dgv, pSearch);
+            else if ( sender.Equals( btnPetsSearch ) ) {
+                pList = pListPets;
+                dgv = dgvPets;
+                search = tbPetsSearch.Text;
+            }
+            var pSearch = pList.FindAll( i => i.Name.ToLower().Contains( search.ToLower() ) );
+            SFM.UpdateDataGridView( dgv, pSearch );
         }
 
         private void ResetGridView(object sender, EventArgs e) {
-            if (sender.Equals(btnItemsResetList))
-                SFM.UpdateDataGridView(dgvItems, pListItems);
-            else if (sender.Equals(btnBuffsResetList))
-                SFM.UpdateDataGridView(dgvBuffs, pListBuffs);
-            else if (sender.Equals(btnMonsterResetList))
-                SFM.UpdateDataGridView(dgvMonster, pListMonster);
-            else
+            if ( sender.Equals( btnItemsResetList ) )
+                SFM.UpdateDataGridView( dgvItems, pListItems );
+            else if ( sender.Equals( btnBuffsResetList ) )
+                SFM.UpdateDataGridView( dgvBuffs, pListBuffs );
+            else if ( sender.Equals( btnMonsterResetList ) )
+                SFM.UpdateDataGridView( dgvMonster, pListMonster );
+            else if ( sender.Equals( btnPetsResetList ) )
+                SFM.UpdateDataGridView( dgvPets, pListPets );
                 return;
         }
 
@@ -174,24 +181,25 @@ namespace GM_Tool_V5 {
 
         #region Sidebar character
         private void AddCharacter(object sender, EventArgs e) {
-            if (tbCharacter.Text != string.Empty) {
-                pListCharacters.Add(tbCharacter.Text);
-                SFM.UpdateCharacterList(pListCharacters.ToList<string>());
+            if ( tbCharacter.Text != string.Empty ) {
+                pListCharacters.Add( tbCharacter.Text );
+                SFM.UpdateCharacterList( pListCharacters.ToList<string>() );
                 tbCharacter.Text = String.Empty;
             }
         }
 
         private void DeleteCharacter(object sender, EventArgs e) {
             try {
-                pListCharacters.RemoveAt(lbCharacter.SelectedIndex);
-                SFM.UpdateCharacterList(pListCharacters.ToList<string>());
-            } catch { }
+                pListCharacters.RemoveAt( lbCharacter.SelectedIndex );
+                SFM.UpdateCharacterList( pListCharacters.ToList<string>() );
+            }
+            catch { }
         }
         #endregion
 
         #region GUI-Events
         private void tsmiDatabase_Click(object sender, EventArgs e) {
-            frmDatabase dbForm = new frmDatabase(this);
+            frmDatabase dbForm = new frmDatabase( this );
             dbForm.ShowDialog();
         }
 
@@ -200,64 +208,74 @@ namespace GM_Tool_V5 {
             openDialog.Filter = "Text Files (.txt)|*.txt";
             openDialog.Multiselect = false;
             DialogResult diaResult = openDialog.ShowDialog();
-            if (diaResult != System.Windows.Forms.DialogResult.OK) {
+            if ( diaResult != System.Windows.Forms.DialogResult.OK ) {
                 return;
             }
 
             string szFilename = String.Empty;
             DataGridView dgv = null;
 
-            if (sender.Equals(tsmiListItem)) {
+            if ( sender.Equals( tsmiListItem ) ) {
                 szFilename = "items.txt";
                 dgv = dgvItems;
-            } else if (sender.Equals(tsmiListBuffs)) {
+            }
+            else if ( sender.Equals( tsmiListBuffs ) ) {
                 szFilename = "buffs.txt";
                 dgv = dgvBuffs;
-            } else if (sender.Equals(tsmiListMonster)) {
+            }
+            else if ( sender.Equals( tsmiListMonster ) ) {
                 szFilename = "monster.txt";
                 dgv = dgvMonster;
-            } else if (sender.Equals(tsmiListPets)) {
+            }
+            else if ( sender.Equals( tsmiListPets ) ) {
                 szFilename = "pets.txt";
                 dgv = dgvPets;
-            } else if (sender.Equals(tsmiListWarps)) {
+            }
+            else if ( sender.Equals( tsmiListWarps ) ) {
                 szFilename = "warplist.txt";
                 dgv = dgvWarps;
-            } else {
+            }
+            else {
                 return;
             }
 
-            if(szFilename == string.Empty){
+            if ( szFilename == string.Empty ) {
                 return;
             }
 
-            SFM.ImportList(openDialog.FileName, szFilename, dgv);
+            SFM.ImportList( openDialog.FileName, szFilename, dgv );
         }
 
         private void tsmiExportListClicked(object sender, EventArgs e) {
             SaveFileDialog saveDialog = new SaveFileDialog();
             saveDialog.Filter = "Text Files (.txt)|*.txt";
-            DialogResult diaResult =saveDialog.ShowDialog();
-            if (diaResult != System.Windows.Forms.DialogResult.OK) {
+            DialogResult diaResult = saveDialog.ShowDialog();
+            if ( diaResult != System.Windows.Forms.DialogResult.OK ) {
                 return;
             }
 
             string szFilename = string.Empty;
 
-            if (sender.Equals(tsmiExportItem)) {
+            if ( sender.Equals( tsmiExportItem ) ) {
                 szFilename = "items.txt";
-            } else if (sender.Equals(tsmiExportBuff)) {
+            }
+            else if ( sender.Equals( tsmiExportBuff ) ) {
                 szFilename = "buffs.txt";
-            } else if (sender.Equals(tsmiExportMonster)) {
+            }
+            else if ( sender.Equals( tsmiExportMonster ) ) {
                 szFilename = "monster.txt";
-            } else if (sender.Equals(tsmiExportPets)) {
+            }
+            else if ( sender.Equals( tsmiExportPets ) ) {
                 szFilename = "pets.txt";
-            } else if (sender.Equals(tsmiExportWarp)) {
+            }
+            else if ( sender.Equals( tsmiExportWarp ) ) {
                 szFilename = "warplist.txt";
-            } else {
+            }
+            else {
                 return;
             }
 
-            SFM.ExportList(saveDialog.FileName, szFilename);
+            SFM.ExportList( saveDialog.FileName, szFilename );
         }
 
         private void frmGlobalGUI_Closed(object sender, FormClosedEventArgs e) {
@@ -269,7 +287,23 @@ namespace GM_Tool_V5 {
         }
 
         private void CopyrightClicked(object sender, EventArgs e) {
-            Process.Start("http://xijezu.com/");
+            Process.Start( "http://xijezu.com/" );
+        }
+
+        private void useOldPetListToolStripMenuItem_CheckStateChanged(object sender, EventArgs e) {
+            MessageBox.Show( "You might have to load a new list into the tool when it's using the wrong one.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information );
+            if ( useOldPetListToolStripMenuItem.Checked ) {
+                cbPetsTamed.Show();
+                tbPetsSearch.Hide();
+                btnPetsResetList.Hide();
+                btnPetsSearch.Hide();
+            }
+            else {
+                cbPetsTamed.Hide();
+                tbPetsSearch.Show();
+                btnPetsResetList.Show();
+                btnPetsSearch.Show();
+            }
         }
         #endregion
     }
