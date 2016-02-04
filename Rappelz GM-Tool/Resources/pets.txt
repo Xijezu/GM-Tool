@@ -1,47 +1,1040 @@
-540001	Ent Card
-540002	Siren Card
-540003	White Dragon Card
-540004	Astarot Card
-540005	Red Pixie Card
-540006	Blue Pixie Card
-540009	Hawkman Card
-540010	Kentauros Card
-540011	Yeti Card
-540012	Salamander Card
-540013	Angel Card
-540014	Poultry Card
-540015	Tortus Card
-540016	Pantera Card
-540017	Young Ornitho
-540018	Skeleton Card
-540019	Orc Card
-540020	Lydian
-540021	Lydian (HV)
-540036	Cerberus Card
-540037	White Dragon Card
-540049	Mystic Koala Card<Sealing card>
-540052	Harpy Card
-540053	Wolf Card
-540055	Gnoll Card
-540057	Octopus Card
-540059	Naga Card
-540061	Genie Card
-540063	Ifrit Card
-540065	Unicorn Card
-540067	Nightmare Card
-540069	Death Tyrant Card<ep7>
-540070	Joker Card<Sealed><ep7>
-540071	Ice Maiden Card <Tamed card>
-540073	Abomination Card<tamed>
-540076	Stone Golem Card
-540079	Lydian Card
-540117	Snowman Card<Event>
-540200	[Basic] Soul Taming Card<All monsters of new basic level>
-540201	[Rare] Soul Taming Card<All monsters of new rare level>
-540202	[Special] Soul Taming Card<All monsters of new special level>
-540203	[Unique] Soul Taming Card<All monsters of new unique level>
-3800001	Baphomet Card<AP shop empty card>
-3800002	Blight Ogre Card<AP shop empty card>
-3800003	Undine Card<AP shop empty card>
-3800004	Minotaurus Card<AP Selling Empty Card>
-3800005	Drillbot Card<AP shop empty card>
+60	Creature test01
+61	Creature test02
+62	Creature test03
+63	Creature test04
+64	Creature test05
+65	Creature test06
+1001	Ornitho<For rent only>
+1002	Lydian<Hidden Village>
+1003	Ornitho<Hidden Village>
+1004	Purple Ornitho
+1005	Red Ornitho
+1006	Red Lydian
+1007	Blue Lydian
+1008	Red Lydian<event>
+1009	Blue Lydian<event>
+1010	White Tiger
+1011	Fiery Pixie
+1021	Water Pixie
+1201	Hawkman
+1301	Siren Child
+1401	Ent
+1501	White Dragon
+1601	Astarot
+1701	Junior Kenta
+1801	Yeti Thoth
+1901	Petite Salamander
+2001	Purity Angel
+2101	Bloody Poultry
+2201	Solid Tortus
+2301	Pantera Junior
+2401	Skeleton Fighter
+2501	Orc Junior
+2601	Lydian
+2701	White Dragon Hatchling
+2704	Nightfury Hatchling
+2704	Nightfury Hatchling
+2704	Nightfury Hatchling
+2801	Dark Mutt
+2901	Wolf Pup
+3201	Koala
+3301	Harpy
+3401	Gnoll
+3501	Octopus
+3601	Naga
+3701	Genie
+3801	Ifrit
+3901	Unicorn
+4001	Nightmare
+4101	<ep7>Living Armor
+4201	<ep7>Joker
+4301	Arctic Damsel
+4401	Abomination
+4501	Proto Golem
+4601	Lydian Kitten
+4701	Young Baphomet
+4801	Young Blight Ogre
+4901	Young Undine
+5002	Phantom Tiger
+5008	Young Iron Knight
+5101	Young Minotaurus
+5201	New Drillbot
+5404	Snowman
+6001	Tough Ent<Grade2>
+6004	Stone Fist Ent<Grade2>
+6007	Healing Ent<Grade2>
+6011	Demonic Defender Imp<grade2>
+6014	Demonic Assault Imp<grade2>
+6017	Demonic Healer Imp<grade2>
+6021	Stone Scale Wyvern<Grade2>
+6024	Stone Claw Wyvern<Grade2>
+6027	Unholy Stone Wyvern<Grade2>
+6031	Dark Tribe Defender Goblin<grade 2>
+6034	Dark Tribe Assault Goblin<grade 2>
+6037	Dark Tribe Healer Goblin<grade 2>
+6041	Defender Green Goblin<grade2>
+6044	Assault Green Goblin<grade2>
+6047	Healer Green Goblin<grade2>
+6051	Desert Tribe Defender Goblin<grade 2>
+6054	Desert Tribe Assault Goblin<grade 2>
+6057	Desert Tribe Healer Goblin<grade 2>
+6061	Demonic Defender Goblin<grade3>
+6064	Demonic Assault Goblin<grade3>
+6067	Demonic Healer Goblin<grade3>
+6071	Fog Clan Defender Goblin<grade 2>
+6074	Fog Clan Assault Goblin<grade 2>
+6077	Fog Clan Healer Goblin<grade 2>
+6081	Defender Hobgoblin<Grade2>
+6084	Assault Hobgoblin<Grade2>
+6087	Healer Hobgoblin<Grade2>
+6091	Bog Tribe Defender Goblin<grade 2>
+6094	Bog Tribe Assault Goblin<grade 2>
+6097	Bog Tribe Healer Goblin<grade 2>
+6101	Stone Beak Silver Luminous<grade 2>
+6104	Stone Claw Silver Luminous<grade 2>
+6107	Healer Wing Silver Luminous<grade 2>
+6111	Stone Beak Golden Luminous<grade 2>
+6114	Stone Claw Golden Luminous<grade 2>
+6117	Healer Wing Golden Luminous<grade 2>
+6121	Stone Beak Phoenix<Grade3>
+6124	Stone Claw Phoenix<Grade3>
+6127	Healer Wing Phoenix<Grade3>
+6131	Stone Beak Blue Luminous<grade 2>
+6134	Stone Claw Blue Luminous<grade 2>
+6137	Healer Wing Blue Luminous<grade 2>
+6141	Stone Beak Free Luminous<grade 3>
+6144	Stone Claw Free Luminous<grade 3>
+6147	Healer Wing Free Luminous<grade 3>
+6151	Stone Beak Purple Luminous<grade 2>
+6154	Stone Claw Purple Luminous<grade 2>
+6157	Healer Wing Purple Luminous<grade 2>
+6161	Stone Beak Forest Luminous<grade 2>
+6164	Stone Claw Forest Luminous<grade 2>
+6167	Healer Wing Forest Luminous<grade 2>
+6171	Stone Beak Desert Luminous<grade 3>
+6174	Stone Claw Desert Luminous<grade 3>
+6177	Healer Wing Desert Luminous<grade 3>
+6181	Red Stone Scale Wampee<grade2>
+6184	Red Stone Tooth Wampee<grade2>
+6187	Unholy Red Stone Wampee<Grade2>
+6191	Blue Stone Scale Wampee<grade2>
+6194	Blue Stone Tooth Wampee<grade2>
+6197	Unholy Blue Stone Wampee<Grade2>
+6201	Corrupted Stone Scale Wampee<grade3>
+6204	Corrupted Stone Tooth Wampee<grade3>
+6207	Unholy Corrupted Stone Wampee<grade3>
+6211	White Stone Scale Wampee<grade3>
+6214	White Stone Tooth Wampee<grade3>
+6217	Unholy White Stone Wampee<grade3>
+6221	Cursed Stone Scale Wampee<grade 3>
+6224	Cursed Stone Tooth wampee<grade 3>
+6227	Unholy Stone Wampee<grade3>
+6231	Golden Stone Scale Wampee<grade2>
+6234	Golden Stone Tooth Wampee<grade2>
+6237	Unholy Golden Stine Wampee<grade2>
+6241	Gray Tribe Lapika Defender<grade 2>
+6244	Gray Tribe Lapika Assault<grade 2>
+6247	Gray Tribe Lapika Healer<grade 2>
+6251	Hell Gate Lapika Defender<grade 2>
+6254	Hell Gate Lapika Assault<grade 2>
+6257	Hell Gate Lapika Healer<grade 2>
+6261	Vaelin Lapika Defender<grade 2>
+6264	Vaelin Lapika Assault<grade 2>
+6267	Vaelin Lapika Healer<grade 2>
+6271	Eternal Lapika Defender<grade 2>
+6274	Eternal Lapika Assault<grade 2>
+6277	Eternal Lapika Healer<grade 2>
+6281	Scarlet Lapika Defender<grade2>
+6284	Scarlet Lapika Assault<grade2>
+6287	Scarlet Lapika Healer<grade2>
+6291	Fog Clan Lapika Defender<grade 2>
+6294	Fog Clan Lapika Assault<grade 2>
+6297	Fog Clan Lapika Healer<grade 2>
+6301	Stone Scale Magma Anatema<grade 2>
+6304	Stone Tooth Magma Anatema<grade 2>
+6307	Unholy Stone Magma Anatema<grade 2>
+6311	Stone Scale Blizzard Anatema<grade 2>
+6314	Stone Tooth Blizzard Anatema<grade 2>
+6317	Unholy Stone Blizzard Anatema<grade 2>
+6321	Stone Scale Toxic Anatema<grade 2>
+6324	Stone Tooth Toxic Anatema<grade 2>
+6327	Unholy Stone Toxic Anatema<grade 2>
+6331	Stone Scale Blood Anatema<grade 2>
+6334	Stone Tooth Blood Anatema<grade 2>
+6337	Unholy Stone Blood Anatema<grade 2>
+6341	Stone Scale Infesting Anatema<grade 2>
+6344	Stone Tooth Infesting Anatema<grade 2>
+6347	Unholy Stone Infesting Anatema<grade 2>
+6351	Stone Scale Brood Anatema<grade 3>
+6354	Stone Tooth Brood Anatema<grade 3>
+6357	Unholy Stone Brood Anatema<grade 3>
+6361	Stone Scale Golden Anatema<grade 2>
+6364	Stone Tooth Golden Anatema<grade 2>
+6367	Unholy Stone Golden Anatema<grade2>
+6371	Stone Scale Shadow Anatema<grade 3>
+6374	Stone Tooth Shadow Anatema<grade 3>
+6377	Unholy Stone Shadow Anatema<grade 3>
+6381	Stone Scale Ghost Anatema<grade 2>
+6384	Stone Tooth Ghost Anatema<grade 2>
+6387	Unholy Stone Ghost Anatema<grade 2>
+6391	Stone Scale Scarlet Basilisk<grade 2>
+6394	Stone Tooth Scarlet Basilisk<grade 2>
+6397	Unholy Stone Scarlet Basilisk<grade2>
+6401	Stone Scale Blue Basilisk<grade 2>
+6404	Stone Tooth Blue Basilisk<grade 2>
+6407	Unholy Stone Blue Basilisk<grade2>
+6411	Stone Scale Ebony Basilisk<grade 3>
+6414	Stone Tooth Ebony Basilisk<grade 3>
+6417	Unholy Stone Ebony Basilisk<grade 3>
+6421	Stone Scale Lump Orc Basilisk<grade 2>
+6424	Stone Tooth Lump Orc Basilisk<grade 2>
+6427	Unholy Stone Lump Orc Basilisk<grade2>
+6431	Defender Zombie<Grade2>
+6434	Assault Zombie<Grade2>
+6437	Healer Zombie<Grade2>
+6441	Defender Blood Zombie<grade2>
+6444	Assault Blood Zombie<grade2>
+6447	Healer Blood Zombie<grade2>
+6451	Defender Diseased Zombie<grade2>
+6454	Assault Diseased Zombie<grade2>
+6457	Healer Diseased Zombie<grade2>
+6461	Defender Green Lizardman<grade2>
+6464	Assault Green Lizardman<grade2>
+6467	Healer Green Lizardman<grade2>
+6471	Defender Red Lizardman<grade 2>
+6474	Assault Red Lizardman<grade 2>
+6477	Healer Red Lizardman<grade 2>
+6481	Defender Blue Lizardman<grade2>
+6484	Assault Blue Lizardman<grade2>
+6487	Healer Blue Lizardman<grade2>
+6491	Defender Dark Lizardman<grade2>
+6494	Assault Dark Lizardman<grade2>
+6497	Healer Dark Lizardman<grade2>
+6501	Defender Cruel Lizardman<grade2>
+6504	Assault Cruel Lizardman<grade2>
+6507	Healer Cruel Lizardman<grade2>
+6511	Defender Obscura Lump Orc<grade 2>
+6514	Assault Obscura Lump Orc<grade 2>
+6517	Healer Obscura Lump Orc<grade 2>
+6521	Defender Boneclaw Lump Orc<grade 2>
+6524	Assault Boneclaw Lump Orc<grade 2>
+6527	Healer Boneclaw Lump Orc<grade 2>
+6531	Defender Bloodclaw Lump Orc<grade 2>
+6534	Assault Bloodclaw Lump Orc<grade 2>
+6537	Healer Bloodclaw Lump Orc<grade 2>
+6541	Defender Darkclaw Lump Orc<grade 3>
+6544	Assault Darkclaw Lump Orc<grade 3>
+6547	Healer Darkclaw Lump Orc<grade3>
+6551	Defender Nightclaw Lump Orc<grade 2>
+6554	Assault Nightclaw Lump Orc<grade 2>
+6557	Healer Nightclaw Lump Orc<grade 2>
+6561	Defender Frostclaw Lump Orc<grade 2>
+6564	Assault Frostclaw Lump Orc<grade 2>
+6567	Healer Frostclaw Lump Orc<grade 2>
+6571	Defender Granite Stone Cold<grade 2>
+6574	Assault Granite Stone Cold<grade 2>
+6577	Healer Granite Stone Cold<grade 2>
+6581	Defender Ruby Stone Cold<grade 2>
+6584	Assault Ruby Stone Cold<grade 2>
+6587	Healer Ruby Stone Cold<grade 2>
+6591	Defender Ebony Stone Cold<grade 3>
+6594	Assault Ebony Stone Cold<grade 3>
+6597	Healer Ebony Stone Cold<grade3>
+6601	Defender Jasper Stone Cold<grade 2>
+6604	Assault Jasper Stone Cold<grade 2>
+6607	Healer Jasper Stone Cold<grade2>
+6611	Defender Quartz Stone Cold<grade 2>
+6614	Assault Quartz Stone Cold<grade 2>
+6617	Healer Quartz Stone Cold<grade 2>
+6621	Defender Crystal Stone Cold<grade 2>
+6624	Assault Crystal Stone Cold<grade 2>
+6627	Healer Crystal Stone Cold<grade2>
+6631	Defender Marble Stone Cold<grade 2>
+6634	Assault Marble Stone Cold<grade 2>
+6637	Healer Marble Stone Cold<grade2>
+6641	Defender Jade Stone Cold<grade 3>
+6644	Assault Jade Stone Cold<grade 3>
+6647	Healer Jade Stone Cold<grade3>
+6651	Defender Ghost Stone Cold<grade 3>
+6654	Assault Ghost Stone Cold<grade 3>
+6657	Healer Ghost Stone Cold<grade 3>
+6661	Aged Blue Eye<Grade2>
+6664	Sorcerer Blue Eye<Grade2>
+6667	Baleful Blue Eye<Grade2>
+6671	Aged Orange Eye<grade2>
+6674	Sorcerer Orange Eye<Grade2>
+6677	Baleful Orange Eye<Grade2>
+6681	Aged Green Eye<Grade2>
+6684	Sorcerer Green Eye<Grade2>
+6687	Baleful Green Eye<Grade2>
+6691	Aged Purple Eye<Grade2>
+6694	Sorcerer Purple Eye<Grade2>
+6697	Baleful Purple Eye<Grade2>
+6701	Aged Black Eye<Grade3>
+6704	Sorcerer Black Eye<Grade3>
+6707	Baleful Black Eye<Grade3>
+6711	Aged Ghost Eye<grade3>
+6714	Sorcerer Ghost Eye<Grade3>
+6717	Baleful Ghost Eye<Grade3>
+6721	Demonic Defender Imp<grade3>
+6724	Demonic Assault Imp<grade3>
+6727	Demonic Healer Imp<grade3>
+6731	Stone Scale Chimera<Grade2>
+6734	Stone Claw Chimera<Grade2>
+6737	Unholy Stone Chimera<Grade2>
+6741	Stone Scale Wakeu<Grade3>
+6744	Stone Claw Wakeu<Grade3>
+6747	Unholy Stone Wakeu<Grade3>
+6751	Defender Raging Bullock<grade2>
+6754	Assault Raging Bullock<grade2>
+6757	Healer Raging Bullock<grade2>
+6761	Defender Charging Bullock<grade 2>
+6764	Assault Charging Bullock<grade2>
+6767	Healer Charging Bullock<grade 2>
+6771	Defender Stomping Bullock<grade 2>
+6774	Assault Stomping Bullock<grade 2>
+6777	Healer Stomping Bullock<grade2>
+6781	Defender Raging Bullock<grade 3>
+6784	Assault Raging Bullock<grade 3>
+6787	Healer Raging Bullock<grade 3>
+6791	Defender Charging Bullock<grade 3>
+6794	Assault Charging Bullock<grade 3>
+6797	Healer Charging Bullock<grade 3>
+6801	Defender Stomping Bullock<grade 3>
+6804	Assault Stomping Bullock<grade 3>
+6807	Healer Stomping Bullock<grade 3>
+6811	Defender Green Finnedman<grade2>
+6814	Assault Green Finnedman<grade2>
+6817	Healer Green Finnedman<grade2>
+6821	Defender Golden Finnedman<grade2>
+6824	Assault Golden Finnedman<grade2>
+6827	Healer Golden Finnedman<grade2>
+6831	Defender Aquatic Finnedman<grade2>
+6834	Assault Aquatic Finnedman<grade2>
+6837	Healer Aquatic Finnedman<grade2>
+6841	Defender Shadowy Finnedman<grade3>
+6844	Assault Shadowy Finnedman<grade3>
+6847	Healer Shadowy Finnedman<grade3>
+6851	Defender Hybrid Finnedman<grade2>
+6854	Assault Hybrid Finnedman<grade2>
+6857	Healer Hybrid Finnedman<grade2>
+6861	Aged Bronze Finnedman<grade 2>
+6864	Assault Bronze Finnedman<grade2>
+6867	Baleful Bronze Finnedman<grade2>
+6871	Aged Steel Finnedman<grade2>
+6874	Assault Steel Finnedman<grade2>
+6877	Baleful Steel Finnedman<Grade2>
+6881	Aged Obsidian Finnedman<grade 3>
+6884	Assault Obsidian Finnedman<grade3>
+6887	Baleful Obsidian Finnedman<grade3>
+6891	Aged Bloodworn Finnedman<grade 3>
+6894	Assault Bloodworn Finnedman<grade3>
+6897	Baleful Bloodworn Finnedman<grade3>
+6901	Aged Golden Finnedman<grade 2>
+6904	Assault Golden Finnedman<grade2>
+6907	Baleful Golden Finnedman<grade2>
+6911	Aged Platinum Finnedman<grade 2>
+6914	Assault Platinum Finnedman<grade2>
+6917	Baleful Platinum Finnedman<grade2>
+6921	Aged Desert Fox<grade2>
+6924	Stone Claw Desert Fox<grade2>
+6927	Baleful Desert Fox<Grade2>
+6931	Aged Spotted Fox<grade2>
+6934	Stone Claw Spotted Fox<grade2>
+6937	Baleful Spotted Fox<Grade2>
+6941	Aged Red Fox<grade2>
+6944	Stone Claw Red Fox<grade2>
+6947	Baleful Red Fox<Grade2>
+6951	Aged Bloody Moth<grade2>
+6954	Stone Claw Bloody Moth<grade2>
+6957	Baleful Bloody Moth<Grade2>
+6961	Aged Zlata<Grade2>
+6964	Stone Tooth Zlata<Grade2>
+6967	Baleful Zlata<Grade2>
+6971	Aged Mud Beast<grade2>
+6974	Sorcerer Mud Beast<grade2>
+6977	Baleful Mud Beast<Grade2>
+6981	Aged Dinosaur<grade2>
+6984	Sorcerer Dinosaur<Grade2>
+6987	Baleful Dinosaur<Grade2>
+6991	Aged Green Frog<Grade2>
+6994	Sorcerer Green Frog<Grade2>
+6997	Baleful Green Frog<Grade2>
+7001	Aged Clay Frog<Grade2>
+7004	Sorcerer Clay Frog<Grade2>
+7007	Baleful Clay Frog<Grade2>
+7011	Aged Volcanic Frog<grade2>
+7014	Sorcerer Volcanic Frog<Grade2>
+7017	Baleful Volcanic Frog<Grade2>
+7021	Marduka Sunset Defender<grade 2>
+7024	Marduka Sunset Assault<grade 2>
+7027	Marduka Autumn Defender<grade 2>
+7031	Marduka Autumn Assault<grade 2>
+7034	Marduka Fog Clan Defender<grade 2>
+7037	Marduka Fog Clan Assault<grade 2>
+7041	Marduka Goldclaw Defender<grade 2>
+7044	Marduka Goldclaw Assault<grade 2>
+7047	Marduka Bloodclaw Defender<grade 2>
+7051	Marduka Bloodclaw Assault<grade 2>
+7054	Marduka Darkclaw Defender<grade 2>
+7057	Marduka Darkclaw Assault<grade 2>
+7061	Marduka Dawn's Blade Shaman<grade 2>
+7064	Marduka Dawn's Blade Healer<grade 2>
+7067	Marduka Lotus Clan Shaman<grade 2>
+7071	Marduka Lotus Clan Healer<grade 2>
+7074	Marduka Leaf Clan Shaman<grade 2>
+7077	Marduka Leaf Clan Healer<grade 2>
+7081	Marduka Leaf Clan Shaman<grade 2>
+7084	Marduka Leaf Clan Healer<grade 2>
+7087	Marduka Thunderer Shaman<grade 2>
+7091	Marduka Thunderer Healer<grade 2>
+7094	Marduka Lotus Clan Shaman<grade 2>
+7097	Marduka Lotus Clan Healer<grade 2>
+7101	Marduka All-Father Defender<grade 3>
+7104	Marduka All-Father Assault<grade 3>
+7107	Marduka All-Father Healer<grade 3>
+7111	Defender Horror Man<Grade3>
+7114	Assault Horror Man<Grade3>
+7117	Healer Horror Man<Grade3>
+7121	Aged Bear<Grade3>
+7124	Stone Claw Bear<Grade3>
+7127	Baleful Bear<Grade3>
+7131	Defender Naga<Grade3>
+7134	Shaman Naga<Grade3>
+7137	Healer Naga<Grade3>
+7141	Zombie Pirate Crew<Grade3>
+7144	Zombie Pirate Buccaneer<Grade3>
+7147	Zombie Pirate Shaman<Grade3>
+7151	Zombie Pirate Healer<Grade3>
+7154	Zombie Knight Defender<Grade3>
+7157	Zombie Knight Commando<Grade3>
+7161	Thrower Pumpkin Head<Grade3>
+7164	Shaman Pumpkin Head<Grade3>
+7167	Evil Pumpkin Head<Grade3>
+7171	Aged Ice Hornet<grade2>
+7174	Stone Stinger Ice Hornet<grade2>
+7177	Horrible Ice Hornet<grade2>
+7181	Golden Defender Pixie<grade2>
+7184	Golden Shaman Pixie<grade2>
+7187	Golden Healer Pixie<grade2>
+7191	Scarlet Shaman<Grade3>
+7194	Scarlet Healer<Grade3>
+7197	Storm Shaman<Grade3>
+7201	Storm Healer<Grade3>
+7204	Flash Shaman<Grade3>
+7207	Flash Healer<Grade3>
+7211	Accursed Shaman<Grade3>
+7214	Accursed Healer<Grade3>
+7217	Glorious Defender<grade3>
+7221	Glorious Assault<grade3>
+7224	Catastrophic Defender<grade3>
+7227	Catastrophic Assault<grade3>
+7231	Aged Blood Hornet<grade3>
+7234	Stone Stinger Blood Hornet<grade3>
+7237	Horrible Blood Hornet<Grade3>
+7241	Aged Toxic Hornet<grade3>
+7244	Stone Stinger Toxic Hornet<grade3>
+7247	Horrible Toxic Hornet<grade3>
+7251	Aged Magma Hornet<grade3>
+7254	Stone Stinger Magma Hornet<grade3>
+7257	Horrible Magma Hornet<grade3>
+7261	Bloody Dual Weapon Naga<grade3>
+7264	Bloody Great Sword Laminez<grade3>
+7267	Divine Moth<Grade3>
+7271	Demonic Aurumis<Grade3>
+7274	Ballistic Elkin<Grade3>
+7277	Sharpshooter Lady Ruina<Grade3>
+7281	Keen Growling Axe<grade 3>
+7284	Blunt Warhammer<grade 3>
+7300	Stone Ent<Grade3>
+7303	Stone Fist Ent<Grade3>
+7306	Healing Ent<Grade3>
+7309	Demonic Defender Imp<grade3>
+7312	Demonic Assault Imp<grade3>
+7315	Demonic Healer Imp<grade3>
+7318	Stone Scale Wyvern<Grade3>
+7321	Stone Claw Wyvern<Grade3>
+7324	Unholy Stone Wyvern<Grade3>
+7327	Dark Tribe Defender Goblin<grade 3>
+7330	Dark Tribe Assault Goblin<grade 3>
+7333	Dark Tribe Healer Goblin<grade 3>
+7336	Defender Green Goblin<grade3>
+7339	Assault Green Goblin<grade3>
+7342	Healer Green Goblin<grade3>
+7345	Desert Tribe Defender Goblin<grade 3>
+7348	Desert Tribe Assault Goblin<grade 3>
+7351	Desert Tribe Healer Goblin<grade 3>
+7354	Fog Clan Defender Goblin<grade 3>
+7357	Fog Clan Assault Goblin<grade 3>
+7360	Fog Clan Healer Goblin<grade 3>
+7363	Defender Hobgoblin<Grade3>
+7366	Assault Hobgoblin<Grade3>
+7369	Healer Hobgoblin<Grade3>
+7372	Stone Beak Silver Luminous<grade 3>
+7375	Stone Claw Silver Luminous<grade 3>
+7378	Healer Wing Silver Luminous<grade 3>
+7381	Stone Beak Golden Luminous<grade 3>
+7384	Stone Claw Golden Luminous<grade 3>
+7387	Healer Wing Golden Luminous<grade 3>
+7390	Stone Beak Blue Luminous<grade 3>
+7393	Stone Claw Blue Luminous<grade 3>
+7396	Healer Wing Blue Luminous<grade 3>
+7399	Stone Beak Purple Luminous<grade 3>
+7402	Stone Claw Purple Luminous<grade 3>
+7405	Healer Wing Purple Luminous<grade 3>
+7408	Stone Beak Forest Luminous<grade 3>
+7411	Stone Claw Forest Luminous<grade 3>
+7414	Healer Wing Forest Luminous<grade 3>
+7417	Red Stone Scale Wampee<grade3>
+7420	Red Stone Tooth Wampee<grade3>
+7423	Unholy Red Stone Wampee<Grade3>
+7426	Blue Stone Scale Wampee<grade3>
+7429	Blue Stone Tooth Wampee<grade3>
+7432	Unholy Blue Stone Wampee<Grade3>
+7435	Corrupted Stone Scale Wampee<grade4>
+7438	Corrupted Stone Tooth Wampee<grade4>
+7441	Corrupted Unholy Stone Wampee<grade4>
+7444	Golden Stone Scale Wampee<grade3>
+7447	Golden Stone Tooth Wampee<grade3>
+7450	Unholy Golden Stone Wampee<Grade3>
+7453	Gray Tribe Lapika Defender<grade 3>
+7456	Gray Tribe Lapika Assault<grade 3>
+7459	Gray Tribe Lapika Healer<grade 3>
+7462	Hell Gate Lapika Defender<grade 3>
+7465	Hell Gate Lapika Assault<grade 3>
+7468	Hell Gate Lapika Healer<grade 3>
+7471	Vaelin Lapika Defender<grade 3>
+7474	Vaelin Lapika Assault<grade 3>
+7477	Vaelin Lapika Healer<grade 3>
+7480	Eternal Lapika Defender<grade 3>
+7483	Eternal Lapika Assault<grade 3>
+7486	Eternal Lapika Healer<grade 3>
+7489	Scarlet Lapika Defender<grade3>
+7492	Scarlet Lapika Assault<grade3>
+7495	Scarlet Lapika Healer<grade3>
+7498	Fog Clan Lapika Defender<grade 3>
+7501	Fog Clan Lapika Assault<grade 3>
+7504	Fog Clan Lapika Healer<grade 3>
+7507	Stone Scale Magma Anatema<grade 3>
+7510	Stone Tooth Magma Anatema<grade 3>
+7513	Unholy Stone Magma Anatema<grade 3>
+7516	Stone Scale Blizzard Anatema<grade 3>
+7519	Stone Tooth Blizzard Anatema<grade 3>
+7522	Unholy Stone Blizzard Anatema<grade 3>
+7525	Stone Scale Toxic Anatema<grade 3>
+7528	Stone Tooth Toxic Anatema<grade 3>
+7531	Unholy Stone Toxic Anatema<grade 3>
+7534	Stone Scale Blood Anatema<grade 3>
+7537	Stone Tooth Blood Anatema<grade 3>
+7540	Unholy Stone Blood Anatema<grade 3>
+7543	Stone Scale Infesting Anatema<grade 3>
+7546	Stone Tooth Infesting Anatema<grade 3>
+7549	Unholy Stone Infesting Anatema<grade 3>
+7552	Stone Scale Golden Anatema<grade 3>
+7555	Stone Tooth Golden Anatema<grade 3>
+7558	Unholy Stone Golden Anatema<grade3>
+7561	Bloodclaw Stone Scale Basilisk<grade 3>
+7564	Bloodclaw Stone Tooth Basilisk<grade 3>
+7567	Bloodclaw Healer Basilisk<grade3>
+7570	Stone Scale Blue Basilisk<grade 3>
+7573	Stone Tooth Blue Basilisk<grade 3>
+7576	Unholy Stone Blue Basilisk<grade3>
+7579	Obscura Stone Scale Basilisk<grade 3>
+7582	Obscura Stone Tooth Basilisk<grade 3>
+7585	Obscura Healer Basilisk<grade3>
+7588	Defender Zombie<Grade3>
+7591	Assault Zombie<Grade3>
+7594	Healer Zombie<Grade3>
+7597	Defender Blood Zombie<grade3>
+7600	Assault Blood Zombie<grade3>
+7603	Healer Blood Zombie<grade3>
+7606	Defender Diseased Zombie<grade3>
+7609	Assault Diseased Zombie<grade3>
+7612	Healer Diseased Zombie<grade3>
+7615	Defender Green Lizardman<grade3>
+7618	Assault Green Lizardman<grade3>
+7621	Healer Green Lizardman<grade3>
+7624	Defender Red Lizardman<grade 3>
+7627	Assault Red Lizardman<grade 3>
+7630	Healer Red Lizardman<grade 3>
+7633	Defender Blue Lizardman<grade3>
+7636	Assault Blue Lizardman<grade3>
+7639	Healer Blue Lizardman<grade3>
+7642	Defender Dark Lizardman<grade3>
+7645	Assault Dark Lizardman<grade3>
+7648	Healer Dark Lizardman<grade3>
+7651	Defender Cruel Lizardman<grade3>
+7654	Assault Cruel Lizardman<grade3>
+7657	Healer Cruel Lizardman<grade3>
+7660	Defender Obscura Lump Orc<grade 3>
+7663	Assault Obscura Lump Orc<grade 3>
+7666	Healer Obscura Lump Orc<grade 3>
+7669	Defender Boneclaw Lump Orc<grade 3>
+7672	Assault Boneclaw Lump Orc<grade 3>
+7675	Healer Boneclaw Lump Orc<grade 3>
+7678	Defender Bloodclaw Lump Orc<grade 3>
+7681	Assault Bloodclaw Lump Orc<grade 3>
+7684	Healer Bloodclaw Lump Orc<grade 3>
+7687	Defender Darkclaw Lump Orc<grade 4>
+7690	Assault Darkclaw Lump Orc<grade 4>
+7693	Healer Darkclaw Lump Orc<grade4>
+7696	Defender Granite Stone Cold<grade 3>
+7699	Assault Granite Stone Cold<grade 3>
+7702	Healer Granite Stone Cold<grade 3>
+7705	Defender Ruby Stone Cold<grade 3>
+7708	Assault Ruby Stone Cold<grade 3>
+7711	Healer Ruby Stone Cold<grade 3>
+7714	Defender Jasper Stone Cold<grade 3>
+7717	Assault Jasper Stone Cold<grade 3>
+7720	Healer Jasper Stone Cold<grade3>
+7723	Defender Quartz Stone Cold<grade 3>
+7726	Assault Quartz Stone Cold<grade 3>
+7729	Healer Quartz Stone Cold<grade 3>
+7732	Defender Crystal Stone Cold<grade 4>
+7735	Assault Crystal Stone Cold<grade 4>
+7738	Healer Crystal Stone Cold<grade4>
+7741	Defender Marble Stone Cold<grade 3>
+7744	Assault Marble Stone Cold<grade 3>
+7747	Healer Marble Stone Cold<grade3>
+7750	Aged Blue Eye<Grade3>
+7753	Sorcerer Blue Eye<Grade3>
+7756	Baleful Blue Eye<Grade3>
+7759	Aged Orange Eye<grade3>
+7762	Sorcerer Orange Eye<Grade3>
+7765	Baleful Orange Eye<Grade3>
+7768	Aged Green Eye<Grade3>
+7771	Sorcerer Green Eye<Grade3>
+7774	Baleful Green Eye<Grade3>
+7777	Demonic Defender Imp<grade4>
+7780	Demonic Assault Imp<grade4>
+7783	Demonic Healer Imp<grade4>
+7786	Stone Scale Chimera<Grade3>
+7789	Stone Claw Chimera<Grade3>
+7792	Unholy Stone Chimera<Grade3>
+7795	Savage Defender Bullock<grade3>
+7798	Savage Assault Bullock<grade3>
+7801	Savage Healer Bullock<grade3>
+7804	Rampaging Defender Bullock<grade 3>
+7807	Rampaging Assault Bullock<grade3>
+7810	Rampaging Healer Bullock<grade 3>
+7813	Furious Defender Bullock<grade 3>
+7816	Furious Assault Bullock<grade 3>
+7819	Furious Healer Bullock<grade3>
+7822	Defender Green Finnedman<grade3>
+7825	Assault Green Finnedman<grade3>
+7828	Healer Green Finnedman<grade3>
+7831	Defender Golden Finnedman<grade3>
+7834	Assault Golden Finnedman<grade3>
+7837	Healer Golden Finnedman<grade3>
+7840	Defender Shadowy Finnedman<grade4>
+7843	Assault Shadowy Finnedman<grade4>
+7846	Healer Shadowy Finnedman<grade4>
+7849	Defender Hybrid Finnedman<grade3>
+7852	Assault Hybrid Finnedman<grade3>
+7855	Healer Hybrid Finnedman<grade3>
+7858	Defender Bronze Finnedman<grade 3>
+7861	Assault Bronze Finnedman<grade3>
+7864	Healer Bronze Finnedman<grade3>
+7867	Defender Soulless Finnedman<grade3>
+7870	Assault Soulless Finnedman<grade3>
+7873	Baleful Soulless Finnedman<Grade3>
+7876	Aged Golden Finnedman<grade 3>
+7879	Assault Golden Finnedman<grade3>
+7882	Baleful Golden Finnedman<grade3>
+7885	Aged Platinum Finnedman<grade 3>
+7888	Assault Platinum Finnedman<grade3>
+7891	Baleful Platinum Finnedman<grade3>
+7894	Aged Desert Fox<grade3>
+7897	Stone Claw Desert Fox<grade3>
+7900	Baleful Desert Fox<Grade3>
+7903	Aged Spotted Fox<grade3>
+7906	Stone Claw Spotted Fox<grade3>
+7909	Baleful Spotted Fox<Grade3>
+7912	Aged Bloody Moth<grade3>
+7915	Stone Claw Bloody Moth<grade3>
+7918	Baleful Bloody Moth<Grade3>
+7921	Aged Zlata<Grade3>
+7924	Stone Tooth Zlata<Grade3>
+7927	Baleful Zlata<Grade3>
+7930	Aged Mud Beast<grade3>
+7933	Sorcerer Mud Beast<grade3>
+7936	Baleful Mud Beast<Grade3>
+7939	Aged Dinosaur<grade3>
+7942	Sorcerer Dinosaur<Grade3>
+7945	Baleful Dinosaur<Grade3>
+7948	Aged Green Frog<Grade3>
+7951	Sorcerer Green Frog<Grade3>
+7954	Baleful Green Frog<Grade3>
+7957	Aged Clay Frog<Grade3>
+7960	Sorcerer Clay Frog<Grade3>
+7963	Baleful Clay Frog<Grade3>
+7966	Aged Volcanic Frog<grade3>
+7969	Sorcerer Volcanic Frog<Grade3>
+7972	Baleful Volcanic Frog<Grade3>
+7975	Marduka Sunset Defender<grade 3>
+7978	Marduka Sunset Assault<grade 3>
+7981	Marduka Autumn Defender<grade 3>
+7984	Marduka Autumn Assault<grade 3>
+7987	Marduka Fog Clan Defender<grade 3>
+7990	Marduka Fog Clan Assault<grade 3>
+7993	Marduka Goldclaw Defender<grade 3>
+7996	Marduka Goldclaw Assault<grade 3>
+7999	Marduka Bloodclaw Defender<grade 3>
+8002	Marduka Bloodclaw Assault<grade 3>
+8005	Marduka Darkclaw Defender<grade 3>
+8008	Marduka Darkclaw Assault<grade 3>
+8011	Marduka Dawn's Blade Shaman<grade 3>
+8014	Marduka Dawn's Blade Healer<grade 3>
+8017	Marduka Lotus Clan Shaman<grade 3>
+8020	Marduka Lotus Clan Healer<grade 3>
+8023	Marduka Leaf Clan Shaman<grade 3>
+8026	Marduka Leaf Clan Healer<grade 3>
+8029	Marduka Leaf Clan Shaman<grade 3>
+8032	Marduka Leaf Clan Healer<grade 3>
+8035	Marduka Thunderer Shaman<grade 3>
+8038	Marduka Thunderer Healer<grade 3>
+8041	Marduka Lotus Clan Shaman<grade 3>
+8044	Marduka Lotus Clan Healer<grade 3>
+8047	Zombie Pirate Shaman<Grade4>
+8050	Zombie Pirate Healer<Grade4>
+8053	Aged Ice Hornet<grade4>
+8056	Stone Stinger Ice Hornet<grade4>
+8059	Horrible Ice Hornet<grade4>
+8100	Stone Ent<Grade4>
+8103	Stone Fist Ent<Grade4>
+8106	Healing Ent<Grade4>
+8109	Stone Scale Wyvern<Grade4>
+8112	Stone Claw Wyvern<Grade4>
+8115	Unholy Stone Wyvern<Grade4>
+8118	Stone Beak Golden Luminous<grade 4>
+8121	Stone Claw Golden Luminous<grade 4>
+8124	Healer Wing Golden Luminous<grade 4>
+8127	Red Stone Scale Wampee<grade4>
+8130	Red Stone Tooth Wampee<grade4>
+8133	Unholy Red Stone Wampee<Grade4>
+8136	Blue Stone Scale Wampee<grade4>
+8139	Blue Stone Tooth Wampee<grade4>
+8142	Unholy Blue Stone Wampee<Grade4>
+8145	Golden Stone Scale Wampee<grade4>
+8148	Golden Stone Tooth Wampee<grade4>
+8151	Golden Unholy Stone Wampee<Grade4>
+8154	Stone Scale Shadow Anatema<grade 4>
+8157	Stone Tooth Shadow Anatema<grade 4>
+8160	Unholy Stone Shadow Anatema<grade 4>
+8163	Stone Scale Golden Anatema<grade 4>
+8166	Stone Tooth Golden Anatema<grade 4>
+8169	Unholy Stone Golden Anatema<grade4>
+8172	Defender Diseased Zombie<grade4>
+8175	Assault Diseased Zombie<grade4>
+8178	Healer Diseased Zombie<grade4>
+8181	Defender Obscura Lump Orc<grade 4>
+8184	Assault Obscura Lump Orc<grade 4>
+8187	Healer Obscura Lump Orc<grade 4>
+8190	Defender Boneclaw Lump Orc<grade 4>
+8193	Assault Boneclaw Lump Orc<grade 4>
+8196	Healer Boneclaw Lump Orc<grade 4>
+8199	Defender Bloodclaw Lump Orc<grade 4>
+8202	Assault Bloodclaw Lump Orc<grade 4>
+8205	Healer Bloodclaw Lump Orc<grade 4>
+8208	Defender Granite Stone Cold<grade 4>
+8211	Assault Granite Stone Cold<grade 4>
+8214	Healer Granite Stone Cold<grade 4>
+8217	Aged Blue Eye<Grade4>
+8220	Sorcerer Blue Eye<Grade4>
+8223	Baleful Blue Eye<Grade4>
+8226	Terrifying Defender Bullock<grade 4>
+8229	Terrifying Assault Bullock<grade 4>
+8232	Terrifying Healer Bullock<grade4>
+8235	Defender Green Finnedman<grade4>
+8238	Assault Green Finnedman<grade4>
+8241	Healer Green Finnedman<grade4>
+8244	Aged Golden Finnedman<grade 4>
+8247	Assault Golden Finnedman<grade4>
+8250	Baleful Golden Finnedman<grade4>
+8253	Aged Platinum Finnedman<grade 4>
+8256	Assault Platinum Finnedman<grade4>
+8259	Baleful Platinum Finnedman<grade4>
+8262	Aged Spotted Fox<grade4>
+8265	Stone Claw Spotted Fox<grade4>
+8268	Baleful Spotted Fox<Grade4>
+8271	Aged Zlata<Grade4>
+8274	Stone Tooth Zlata<Grade4>
+8277	Baleful Zlata<Grade4>
+8280	Aged Mud Beast<grade4>
+8283	Sorcerer Mud Beast<grade4>
+8286	Baleful Mud Beast<Grade4>
+8289	Aged Dinosaur<grade4>
+8292	Sorcerer Dinosaur<Grade4>
+8295	Baleful Dinosaur<Grade4>
+8298	Aged Clay Frog<Grade4>
+8301	Sorcerer Clay Frog<Grade4>
+8304	Baleful Clay Frog<Grade4>
+8307	Marduka Bloodclaw Defender<grade 4>
+8310	Marduka Bloodclaw Assault<grade 4>
+8313	Marduka Leaf Clan Shaman<grade 4>
+8316	Marduka Leaf Clan Healer<grade 4>
+8319	Marduka Thunderer Shaman<grade 4>
+8322	Marduka Thunderer Healer<grade 4>
+8325	Marduka All-Father Defender<grade 4>
+8328	Marduka All-Father Assault<grade 4>
+8331	Marduka All-Father Healer<grade 4>
+8334	White Iron Scale Wampee<grade2>
+8337	White Stone Tooth Wampee<grade2>
+8340	White Unholy Stone Wampee<grade2>
+8343	Defender Crystal Stone Cold<grade 3>
+8346	Assault Crystal Stone Cold<grade 3>
+8349	Healer Crystal Stone Cold<grade3>
+8352	Aged Bear<Grade2>
+8355	Stone Claw Bear<Grade2>
+8358	Baleful Bear<Grade2>
+8361	Zombie Pirate Crew<Grade2>
+8364	Zombie Pirate Buccaneer<Grade2>
+8367	Zombie Pirate Shaman<Grade2>
+8370	Zombie Pirate Healer<Grade2>
+8373	Zombie Knight Defender<Grade2>
+8376	Zombie Knight Commando<Grade2>
+8379	Age Moonlight Arachnid<Grade3>
+8382	Stone Tooth Moonlight Arachnid<Grade3>
+8385	Heg Moonlight Arachnid<Grade3>
+8388	Slim Bear Mother<grade 5> (9.1)
+8391	Fierce Bear Mother<grade 5> (9.1)
+8394	Arcane Bear Mother<grade 5> (9.1)
+8397	Frostbite Ice Dragon<grade 5> (9.1)
+8400	Fierce Ice Dragon<grade 5> (9.1)
+8403	Tundra Ice Dragon<grade 5> (9.1)
+8406	Punishing Butkadah<grade 5> (9.1)
+8409	Fierce Butkadah<grade 5> (9.1)
+8412	Elemental Butkadah<grade 5> (9.1)
+8415	Blinded Medusa<grade 5> (9.1)
+8418	Fierce Medusa<grade 5> (9.1)
+8421	Heartless Medusa<grade 5> (9.1)
+8424	Hellwing Microraptor<grade 5> (9.1)
+8427	Fierce Microraptor<grade 5> (9.1)
+8430	Stormmage Microraptor<grade 5> (9.1)
+8433	Soul Eater Bone Dragon<grade 5> (9.1)
+8436	Fierce Bone Dragon<grade 5> (9.1)
+8439	Necromage Bone Dragon<grade 5> (9.1)
+8442	Stoneskin Black Widow<grade 5> (9.1)
+8445	Fierce Black Widow<grade 5> (9.1)
+8448	Crystalline Black Widow<grade 5> (9.1)
+8451	Crystal Likirus<grade 5> (9.1)
+8454	Fierce Likirus<grade 5> (9.1)
+8457	Nightmarish Likirus<grade 5> (9.1)
+8460	Howler Betrayal<grade 5> (9.1)
+8463	Fierce Betrayal<grade 5> (9.1)
+8466	Steelmage Betrayal<grade 5> (9.1)
+8469	Fierce Moonlight Soulseeker<grade 5> (9.1)
+8472	Fierce Soul Seeker<grade 5> (9.1)
+8475	Cruel Soul Seeker<grade 5> (9.1)
+8478	Fearless Abhuva<grade 5> (9.1)
+8481	Fierce Abhuva<grade 5> (9.1)
+8484	Tear Eater Abhuva<grade 5> (9.1)
+8487	Sandking Aurumis<grade 5> (9.1)
+8490	Fierce Aurumis<grade 5> (9.1)
+8493	Wrathful Aurumis<grade 5> (9.1)
+8496	Scorched Oforia<grade 5> (9.1)
+8499	Fierce Oforia<grade 5> (9.1)
+8502	Flameheart Oforia<grade 5> (9.1)
+8505	Evolved Ashmaw the Devourer<grade 5> (9.1)
+8508	Fierce Ashmaw the Devourer<grade 5> (9.1)
+8511	Magelight Ashmaw the Devourer<grade 5> (9.1)
+8514	Stiletto Crustalino<grade 5> (9.1)
+8517	Fierce Crustalino<grade 5> (9.1)
+8520	Nightmare Crustalino<grade 5> (9.1)
+8523	Toxic Taranida<grade 5> (9.1)
+8526	Fierce Taranida<grade 5> (9.1)
+8529	Venommage Taranida<grade 5> (9.1)
+8532	Swift Sand Lord Kynish<grade 5> (9.1)
+8535	Fierce Sand Lord Kynish<grade 5> (9.1)
+8538	Mystic Sand Lord Kynish<grade 5> (9.1)
+8541	Bladed Takin<grade 5> (9.1)
+8544	Fierce Takin<grade 5> (9.1)
+8547	Earthquake Takin<grade 5> (9.1)
+8550	Darkcloud Primal Scream<grade 5> (9.1)
+8553	Fierce Primal Scream<grade 5> (9.1)
+8556	Necromage Primal Scream<grade 5> (9.1)
+8559	Evolved Abomination<grade 3>
+8562	Fierce Abomination<grade 3>
+8565	Spelldancer Abomination<grade 3>
+8568	Soldier Banshee<grade 3>
+8571	Fierce Banshee<grade 3>
+8574	Resonating Banshee<grade 3>
+8577	Soldier Waste Shredder<grade 3>
+8580	Fierce Waste Shredder<grade 3>
+8583	Magical Waste Shredder<grade 3>
+8586	Horrific Visage Vulcanus<grade 3>
+8589	Fierce Vulcanus<grade 3>
+8592	Necromage Vulcanus<grade 3>
+8595	Western Askah<grade 3>
+8598	Fierce Askah<grade 3>
+8601	Mageblade Askah<grade 3>
+8604	Wild Basilisk<grade 3>
+8607	Fierce Basilisk<grade 3>
+8610	Enforcer Basilisk<grade 3>
+8613	Infernal Blood Brother<grade 3>
+8616	Fierce Blood Brother<grade 3>
+8619	Eternal Blood Brother<grade 3>
+8622	Iceshield Saichania<grade 3>
+8625	Fierce Saichania<grade 3>
+8628	Crystaline Saichania<grade 3>
+8631	Flesh Eating Tarantula<grade 3>
+8634	Fierce Tarantula<grade 3>
+8637	Magus Tarantula<grade 3>
+8640	Wandering Witch<grade 3>
+8643	Fierce Witch<grade 3>
+8646	Evil Witch<grade 3>
+8649	Rotund High Priest Zombie<grade 3>
+8652	Fierce High Priest Zombie<grade 3>
+8655	Deadly High Priest Zombie<grade 3>
+8658	Swift Fanatic<grade 3>
+8661	Fierce Fanatic<grade 3>
+8664	Acolyte Fanatic<grade 3>
+8667	Stalker Fanatic<grade 3>
+8670	Moonlit Fanatic<grade3>
+8673	Bloodmage Fanatic<grade 3>
+8676	Soldier Baron Madius<grade 3>
+8679	Fierce Baron Madius<grade 3>
+8682	Animagus Baron Madius<grade 3>
+8685	Firm Silex the Giant<grade 4>
+8688	Fierce Silex the Giant<grade 4>
+8691	Stoney Silex the Giant<grade 4>
+8694	Guardian Dominatus the Mad<grade 4>
+8697	Fierce Dominatus the Mad<grade 4>
+8700	Evil Dominatus the Mad<grade 4>
+8703	Ebony Hector<grade 4>
+8706	Fierce Hector<grade 4>
+8709	Brightmage Hector<grade 4>
+8712	Horrorman Red<4 grade>
+8715	Fierce Horrorman Red<4 grade>
+8718	Apprentice Horrorman <4 grade>
+8721	Horrorman Blue<4 grade>
+8724	Fierce Horrorman Blue<4 grade>
+8727	Apprentice Horrorman<4 grade>
+8730	Steel Bear Mother<grade5> (9.1)
+8733	Infernal Bear Mother<grade5> (9.1)
+8736	Steel Ice Dragon<grade5> (9.1)
+8739	Infernal Ice Dragon<grade5> (9.1)
+8742	Steel Butkadah<grade5> (9.1)
+8745	Infernal Butkadah<grade5> (9.1)
+8748	Steel Medusa<grade5> (9.1)
+8751	Infernal Medusa<grade5> (9.1)
+8754	Steel Microraptor<grade5> (9.1)
+8757	Infernal Microraptor<grade5> (9.1)
+8760	Steel Bone Dragon<grade5> (9.1)
+8763	Infernal Bone Dragon<grade5> (9.1)
+8766	Steel Black Widow<grade5> (9.1)
+8769	Infernal Black Widow<grade5> (9.1)
+8772	Steel Likirus<grade5> (9.1)
+8775	Infernal Likirus<grade5> (9.1)
+8778	Steel Betrayal<grade5> (9.1)
+8781	Infernal Betrayal<grade5> (9.1)
+8784	Steel Soul Seeker<grade5> (9.1)
+8787	Infernal Soul Seeker<grade5> (9.1)
+8790	Steel Abhuva<grade5> (9.1)
+8793	Infernal Abhuva<grade5> (9.1)
+8796	Steel Aurumis<grade5> (9.1)
+8799	Infernal Aurumis<grade5> (9.1)
+8802	Steel Oforia<grade5> (9.1)
+8805	Infernal Oforia<grade5> (9.1)
+8808	Steel Ashmaw the Devourer<grade5> (9.1)
+8811	Infernal Ashmaw the Devourer<grade5> (9.1)
+8814	Steel Crustalino<grade5> (9.1)
+8817	Infernal Crustalino<grade5> (9.1)
+8820	Steel Taranida<grade5> (9.1)
+8823	Infernal Taranida<grade5> (9.1)
+8826	Steel Sand Lord Kynish<grade5> (9.1)
+8829	Infernal Sand Lord Kynish<grade5> (9.1)
+8832	Steel Takin<grade5> (9.1)
+8835	Infernal Takin<grade5> (9.1)
+8838	Steel Primal Scream<grade5> (9.1)
+8841	Infernal Primal Scream<grade5> (9.1)
+8844	Steel Abomination<grade3>
+8847	Infernal Abomination<grade3>
+8850	Steel Banshee<grade3>
+8853	Infernal Banshee<grade3>
+8856	Steel Waste Shredder<grade3>
+8859	Infernal Waste Shredder<grade3>
+8862	Steel Vulcanus<grade3>
+8865	Infernal Vulcanus<grade3>
+8868	Steel Yaksa<grade3>
+8871	Infernal Yaksa<grade3>
+8874	Steel Basilisk<grade3>
+8877	Infernal Basilisk<grade3>
+8880	Steel Blood Brother<grade3>
+8883	Infernal Blood Brother<grade3>
+8886	Steel Saichania<grade3>
+8889	Infernal Saichania<grade3>
+8892	Steel Tarantula<grade3>
+8895	Infernal Tarantula<grade3>
+8898	Steel Witch<grade3>
+8901	Infernal Witch<grade3>
+8904	Steel High Priest Zombie<grade3>
+8907	Infernal High Priest Zombie<grade3>
+8910	Steel Green Fanatic<grade3>
+8913	Infernal Green Fanatic<grade3>
+8916	Steel Red Fanatic<grade3>
+8919	Infernal Red Fanatic<grade3>
+8922	Steel Baron Madius<grade3>
+8925	Infernal Baron Madius<grade3>
+8928	Steel Silex the Giant<grade4>
+8931	Infernal Silex the Giant<grade4>
+8934	Steel Dominatus the Mad<grade4>
+8937	Infernal Dominatus the Mad<grade4>
+8940	Steel Hektor<grade4>
+8943	Infernal Hektor<grade4>
+8946	Steel Horrorman Red<grade4>
+8949	Infernal Horrorman Red<grade4>
+8952	Steel Horrorman Blue<grade4>
+8955	Infernal Horrorman Blue<grade4>
+8958	©©¡ì?¢¬
+8959	White Camel
+10000	Basic Melee Circus Monkey
+10003	Basic Long Distance Circus Monkey
+10006	Basic Magic Circus Monkey
+10009	Basic Healer Circus Monkey
+10012	Basic Tank Circus Monkey
+10015	Basic Melee Sad Pierrot
+10018	Basic Long Distance Sad Pierrot
+10021	Basic Magic Sad Pierrot
+10024	Basic Healer Sad Pierrot
+10027	Basic Tank Sad Pierrot
+10030	Basic Melee Smiley Pierrot
+10033	Basic Long Distance Smiley Pierrot
+10036	Basic Magic Smiley Pierrot
+10039	Basic Healer Smiley Pierrot
+10042	Basic Tank Smiley Pierrot
+10045	Basic Melee Smiley Pierrot
+10048	Basic Long Distance Angry Pierrot
+10051	Basic Magic Angry Pierrot
+10054	Basic Healer Angry Pierrot
+10057	Basic Tank Angry Pierrot
+10060	Basic Melee Insane Pierrot
+10063	Basic Long Distance Insane Pierrot
+10066	Basic Magic Insane Pierrot
+10069	Basic Healer Insane Pierrot
+10072	Basic Tank Insane Pierrot
+10075	Basic Melee Green Harlequin
+10078	Basic Long Distance Green Harlequin
+10081	Basic Magic Green Harlequin
+10084	Basic Healer Green Harlequin
+10087	Basic Tank Green Harlequin
+10090	Basic Melee Red Harlequin
+10093	Basic Long Distance Red Harlequin
+10096	Basic Magic Red Harlequin
+10099	Basic Healer Red Harlequin
+10102	Basic Tank Red Harlequin
+10105	Basic Tank Mephisto (9.1)
+10108	Basic Tank Possessed Lilith (9.1)
+10111	Basic Melee Mephisto (9.1)
+10114	Basic Melee Possessed Lilith (9.1)
+10117	Basic Long Distance Mephisto (9.1)
+10120	Basic Long Distance Possessed Lilith (9.1)
+10123	Basic Healer Mephisto (9.1)
+10126	Basic Healer Possessed Lilith (9.1)
+10129	Basic Magic Mephisto (9.1)
+10132	Basic Magic Possessed Lilith (9.1)
+10135	Basic Melee Soul of Lunacy (9.1)
+10138	Basic Long Distance Soul of Lunacy (9.1)
+10141	Basic Magic Soul of Lunacy (9.1)
+10144	Basic Healer Soul of Lunacy (9.1)
+10147	Basic Tank Soul of Lunacy (9.1)
