@@ -93,7 +93,7 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region Lists
-        public List<SFM.ListInterface> pListItems, pListBuffs, pListPets, pListMonster;
+        public List<SFM.ListInterface> pListItems, pListBuffs, pListPets, pListMonster, pListSkills;
         private BindingList<SFM.WarpInterface> pListWarps;
         private BindingList<string> pListCharacters;
         #endregion
@@ -129,6 +129,7 @@ namespace GM_Tool_V5 {
             pListItems = SFM.ReadFile( "items.txt", dgvItems );
             pListBuffs = SFM.ReadFile( "buffs.txt", dgvBuffs );
             pListPets = SFM.ReadFile( "pets.txt", dgvPets );
+            pListSkills = SFM.ReadFile( "skills.txt", dgvSkills );
             pListMonster = SFM.ReadFile( "monster.txt", dgvMonster );
             pListWarps = SFM.ReadWarpFile( "warplist.txt", dgvWarps );
             pListCharacters = SFM.ReadCharacter( "characters.txt" );
@@ -161,6 +162,11 @@ namespace GM_Tool_V5 {
                 dgv = dgvPets;
                 search = tbPetsSearch.Text;
             }
+            else if ( sender.Equals( btnSkillsSearch ) ) {
+                pList = pListSkills;
+                dgv = dgvSkills;
+                search = tbSkillsSearch.Text;
+            }
             var pSearch = pList.FindAll( i => i.Name.ToLower().Contains( search.ToLower() ) );
             SFM.UpdateDataGridView( dgv, pSearch );
         }
@@ -174,6 +180,8 @@ namespace GM_Tool_V5 {
                 SFM.UpdateDataGridView( dgvMonster, pListMonster );
             else if ( sender.Equals( btnPetsResetList ) )
                 SFM.UpdateDataGridView( dgvPets, pListPets );
+            else if ( sender.Equals( btnSkillsResetList ) )
+                SFM.UpdateDataGridView( dgvSkills, pListSkills );
                 return;
         }
 
@@ -235,6 +243,10 @@ namespace GM_Tool_V5 {
                 szFilename = "warplist.txt";
                 dgv = dgvWarps;
             }
+            else if ( sender.Equals( tsmiListSkills ) ) {
+                szFilename = "skills.txt";
+                dgv = dgvSkills;
+            }
             else {
                 return;
             }
@@ -270,6 +282,9 @@ namespace GM_Tool_V5 {
             }
             else if ( sender.Equals( tsmiExportWarp ) ) {
                 szFilename = "warplist.txt";
+            }
+            else if ( sender.Equals( tsmiExportSkill ) ) {
+                szFilename = "skills.txt";
             }
             else {
                 return;

@@ -95,6 +95,9 @@
     <Compile Include="Styles\XTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="TabContent\Skills.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="TabContent\Buffs.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -184,6 +187,7 @@
     <None Include="Resources\logo_fitting.png" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Resources\skills.txt" />
     <Content Include="Xijezu.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

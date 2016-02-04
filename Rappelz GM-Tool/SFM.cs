@@ -22,7 +22,7 @@ namespace GM_Tool_V5
             if (!Directory.Exists(APP_FOLDER))
                 Directory.CreateDirectory(APP_FOLDER);
 
-            string[] pszFiles = { "buffs.txt", "items.txt", "characters.txt", "monster.txt", "pets.txt", "warplist.txt" };
+            string[] pszFiles = { "buffs.txt", "items.txt", "characters.txt", "monster.txt", "pets.txt", "warplist.txt", "skills.txt" };
             foreach (string szFile in pszFiles)
             {
                 if (!File.Exists(APP_FOLDER + szFile))

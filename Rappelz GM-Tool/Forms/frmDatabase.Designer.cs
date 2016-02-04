@@ -166,7 +166,8 @@
             "Itemlist",
             "Bufflist",
             "Monsterlist",
-            "Petlist"});
+            "Petlist",
+            "Skilllist"});
             this.cbSelectedList.Location = new System.Drawing.Point(12, 206);
             this.cbSelectedList.Name = "cbSelectedList";
             this.cbSelectedList.Size = new System.Drawing.Size(124, 21);

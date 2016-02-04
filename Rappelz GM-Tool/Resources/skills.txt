@@ -1,0 +1,2659 @@
+﻿1002	For Test
+1003	Defense Training
+1004	Body Training
+1082	Energy Mastery
+1111	Cross Bow Mastery
+1151	Two-Handed Sword Expert
+1157	Cross Bow Expert
+1181	Dual Sword Expert
+1201	Armor Mastery
+1202	Defense Practice
+1211	Shield Mastery
+1221	Avoidance Expert
+1411	Speedy Spell
+1451	Skill Cool Time Reduce
+1801	Creature Control
+1811	Creature Mastery
+1821	Creature Breeding
+1831	Creature HP Expansion
+1832	Creature MP Expansion
+1851	Creature Regeneration
+1881	Dual Summoning
+1891	Essence of Gaia
+2001	Smite
+2011	Divine Smash
+2012	Stun Mace
+2013	Stun Mace Perfection
+2014	Divine Cross
+2018	Shield Smash
+2019	Shield Charge
+2020	Offense Breaker
+2021	Defense Breaker
+2022	Mental Breaker
+2031	Charge Stab
+2032	Dark Strike
+2033	Bloody Blade
+2034	Head Breaker
+2041	Spinning Blow
+2043	Storming Serial Cut
+2044	Log Split
+2045	Wind Cut
+2046	Blasting Rock Cut
+2051	Dirk Tornado
+2052	Earth Shaker
+2053	Whirlwind Assault
+2055	Spiracle Cannon
+2056	Energy Bomb
+2058	Hellfire Flame
+2060	Deadly Dancing
+2061	Dual Strike
+2063	Physical Breaker
+2064	Soul Breaker
+2067	Heaven's Madness
+2068	Judgment of Heaven
+2070	Sonic Blade
+2071	Apocalypse
+2074	Shadow Stab
+2075	Shadow Crash
+2076	Shadow Wound
+2077	Fatal Wave
+2078	Crimson Turbulence
+2082	Shuddering Flame
+2303	Provoke Shot
+2304	Critical Shot
+2311	Arrow of Delay
+2312	Heat Shot
+2313	Spiracle Shock Shot
+2315	Freezing Arrow
+2321	Resonance Shockwave
+2322	Penetrating Shot
+2326	Double Shot
+2328	Fire Pillar Shot
+2331	Poison Shot
+2332	Bolt of Destruction
+2333	Stun Shaft
+2334	Blinding Shot
+2337	Vengeance Shot
+2339	Hail of the Underworld
+2340	Cascade of Darkness
+2501	Double Impact
+2502	Assassin Impact
+2503	Hunter Impact
+2601	Deep Evasion
+2602	Mental Concentration
+2611	Active Guard
+2616	Icicle Snare
+2617	Snare of Lightning
+2620	Defect Aiming
+2621	Concentration
+2622	Quick Pace
+2623	Sleeping Dust
+2624	Oblivion
+2626	Drain Arrow
+2630	Sudden Rush
+2631	Spiracle Charge
+2635	Provocation
+2637	Distortion of Rage
+2638	Shadow Rush
+2639	Cloak of Shadow
+2641	Energy Charge
+2642	Spiracle of Vitality
+2645	Loading Restrain
+2649	Blinding Dust
+2655	Essence of Fire
+2656	Essence of Thunder
+2661	Essence of Invulnerability
+2662	Snare of Corrosion
+2663	Trap of Flame
+2664	Vision of Prey
+2668	Mysterious Energy
+2671	Burning Style
+2672	Agile Style
+2673	Dusk Style
+2676	Subtle Enmity
+2677	Spiral Arrow
+2678	Cry of Arrows
+2679	Thunderbolt Arrow
+2681	Essence of Steel
+2682	Dual Summoning Control
+3001	Divine Flare
+3002	Flash
+3003	Frozen Snare
+3004	Shining Buster
+3005	Acid Spray
+3011	Energy Beat
+3012	Fireball
+3013	Flame Burn
+3014	Life Leech
+3015	Darkness Arrow
+3016	Lightning
+3017	Splash Thunder
+3021	Scorching Flame
+3022	Chainsickle Wind
+3023	Shackle of the Ground
+3024	Crystalizing Water Spheres
+3025	Huge Rock Fall
+3027	Dark Spiral
+3030	Mana Burn
+3033	Thunder Slayer
+3035	Stench of Armistice
+3037	Cold Bolt
+3040	Divine Nova
+3103	Thunderstorm Slayer
+3151	Explosion of Petrifaction
+3156	Fire Blast
+3181	Root of Mother Nature
+3183	Eternal Pillar of Fire
+3185	Fire Field
+3186	Heaven's Breaker
+3187	Rain of the Spirits
+3188	Vacuum Shockwave
+3201	Minor Healing
+3202	Healing
+3203	Rapid Healing
+3204	Clear Poison
+3205	Resurrection
+3209	Poison Healing
+3210	Restoration
+3211	Life Transfer
+3212	Corpse MP Drain
+3220	Resurrection Sorcery
+3222	Restoring Purified Water
+3224	Essence of Life
+3401	Divine Cluster
+3402	Minor Shining Weapon
+3411	Darkness Saver
+3412	Dark Might
+3423	Speed of the Wind
+3424	Rock Energy
+3425	Force of Sacred Fire
+3426	Enchant Weapon: Fire
+3427	Enchant Weapon: Water
+3428	Enchant Weapon: Lightning
+3429	Enchant Weapon: Earth
+3430	Fireshield
+3431	Support of Gust
+3435	Neutralize Magic
+3454	Shining Weapon
+3458	Magic Skin
+3460	Heed of the Conjuror
+3461	Haste of Conjuror
+3472	Tears of Gaia
+3492	Holy Aura
+3601	Nightmare
+3602	Windy Shackle
+3603	Weakness Skin
+3607	Dispel Magic
+3608	Mind Crisis
+3613	Stench of Frailty
+3614	Wide Windy Shackles
+3616	Fog of Horror
+3621	Wrath of Heaven
+3622	Seal of Gaia
+3750	Shadow Atrophia
+3751	Deadly Petrifaction
+3752	Gravity Amplification
+3753	Petrified Stench
+3754	Yak Advent
+3803	Corpse Mine
+3806	Spell Breaker
+3810	Fear Trap
+3811	Steadfast Shadowflame
+3814	Spell Intercept
+3815	Hate Aura
+3901	Spirit of Restoration
+4001	Summon Creature
+4002	Recall Creature
+4003	Creature Taming
+4004	Creature Taming
+4012	Pass Damage
+4201	Creature Healing
+4202	Creature Resurrection
+4207	Celestial Sanctuary
+4211	Creature Soul Transfer
+4402	Mental Support
+4412	Power Support
+4413	Combat Support
+4612	Creature Intimidate
+4613	Creature Stability
+4614	Lion's Claw
+4801	Creature MP Extract
+4802	Bloody Arrow
+4901	Seal of Halisha
+6001	Resurrection Scroll
+6005	Counterpoison Scroll
+6006	Recharge Scroll
+6007	Return
+6008	Force Chip
+6009	Soul Chip
+6010	Skill: Luna Chip<Common Skill(version:7.3)>
+6011	Pixie's Bottle
+6012	God Mother Pixies' Bottle
+6013	Perfect Creature Resurrection
+6014	Pieces of Strength
+6015	Pieces of Vitality
+6016	Pieces of Dexterity
+6017	Pieces of Agility
+6018	Pieces of Intelligence
+6019	Piece of Wisdom
+6020	Feather of Teleport
+6021	Feather of Return
+6022	Restoration Scroll 1Lv
+6023	Restoration Scroll 2Lv
+6024	Restoration Scroll 3Lv
+6025	Restoration Scroll 4Lv
+6026	Restoration Scroll 5Lv
+6027	Restoration Scroll 6Lv
+6028	Restoration Scroll 7Lv
+6029	Restoration Scroll 8Lv
+6030	Healing Scroll 1Lv
+6031	Healing Scroll 2Lv
+6032	Healing Scroll 3Lv
+6033	Healing Scroll 4Lv
+6034	Healing Scroll 5Lv
+6035	Healing Scroll 6Lv
+6036	Healing Scroll 7Lv
+6037	Healing Scroll 8Lv
+6038	Mana Recovery Scroll 1Lv
+6039	Mana Recovery Scroll 2Lv
+6040	Mana Recovery Scroll 3Lv
+6041	Mana Recovery Scroll 4Lv
+6042	Mana Recovery Scroll 5Lv
+6043	Mana Recovery Scroll 6Lv
+6044	Mana Recovery Scroll 7Lv
+6045	Mana Recovery Scroll 8Lv
+6046	????A¡À ?¨©?a
+6047	Creature Wind Scroll 1Lv
+6048	Creature Wind Scroll 2Lv
+6049	Creature Wind Scroll 3Lv
+6061	Altered Pieces of Strength
+6062	Altered Pieces of Vitality
+6063	Altered Pieces of Dexterity
+6064	Altered Pieces of Agility
+6065	Altered Pieces of Intelligence
+6066	Altered Pieces of Wisdom
+6067	??A¢Ò¥ì? ???C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6068	??A¢Ò¥ì? ??¡¤A?C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6069	??A¢Ò¥ì? AyA©¬?C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6070	??A¢Ò¥ì? ?I?¢¬?C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6071	??A¢Ò¥ì? Ao¢¥E?C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6072	??A¢Ò¥ì? A¢´¢©??C A¢Ò¡Æ¢¨<A?¢©??¢ç?e>
+6073	Combined Pieces of Strength<Combined Item>
+6074	Combined Pieces of Vitaility <Combined Item>
+6075	Combined Pieces of Dexterity <Combined Item>
+6076	Combined Pieces of Agility<Combined Item>
+6077	Combined Pieces of Intelligence<Combined Item>
+6078	Combined Pieces of Wisdom<Combined Item>
+6079	Steel Force Chip
+6080	Steel Soul Chip
+6081	Steel Luna Chip
+6082	??A¢Ò¥ì? ?o?¨©?U?C A¢Ò¡Æ¢¨
+6083	??A¢Ò¥ì? ¢©??OCO?C A¢Ò¡Æ¢¨
+6084	??A¢Ò¥ì? ?¢Ò?¢ç?C A¢Ò¡Æ¢¨
+6085	??A¢Ò¥ì? AO¢©??C A¢Ò¡Æ¢¨
+6086	??A¢Ò¥ì? ??¡ÆY?C A¢Ò¡Æ¢¨
+6087	??A¢Ò¥ì? ¢¬¢Ò©©??C A¢Ò¡Æ¢¨
+6088	??A¢Ò¥ì? ??¢¬¢çC? A¢Ò¡Æ¢¨
+6089	??A¢Ò¥ì? ¢¬¢Ò¡¤A?C A¢Ò¡Æ¢¨
+6090	??A¢Ò¥ì? ?¥ì¡¤?C? A¢Ò¡Æ¢¨
+6091	??A¢Ò¥ì? ?eA??C A¢Ò¡Æ¢¨
+6092	Ancient Piece of Strength
+6093	Ancient Piece of Vitality
+6094	Ancient Piece of Dexterity
+6095	Ancient Piece of Agility
+6096	Ancient Piece of Intelligence
+6097	Ancient Piece of Wisdom
+6101	Booster - Jump Attack
+6102	ºÎ½ºÆ® - °¡¼Ó
+6151	Pieces of Strength
+6152	Pieces of Vitality
+6153	Pieces of Dexterity
+6154	Pieces of Agility
+6155	Pieces of Intelligence
+6156	Piece of Wisdom
+6901	Collecting
+6902	Mining
+6903	Handling
+6904	Activating
+6905	Controller Handling
+6906	Core Handling
+6907	Pet Shopping
+6908	Pet Taming
+6909	Inspecting
+6910	Open Treasure Chest.
+7001	Critical Smash<Monster>
+7002	Tornado Cut<Monster>
+7003	Defense Breaker<Monster>
+7004	Log Split<Monster>
+7005	Stun Mace<Monster>
+7006	Head Breaker<Monster>
+7007	Sprint<Monster>
+7008	Charge<Monster>
+7009	Clash<Monster>
+8001	Flame Burn<Monster>
+8002	Acid Spray<Monster>
+8003	Darkness Arrow<Monster>
+8004	Huge Rock Fall<Monster>
+8005	Splash Thunder<Monster>
+9001	Minor Healing<Monster>
+9002	Legendary Atk Spd<Monster>
+9101	S_Charge Attack
+9102	S_Rapid Attack
+9103	S_Instant Single Motion Successive Hits
+9104	S_3 Division Motion_3 Consecutive Hits
+9105	S_3 Division Motion_Many Successive Hits
+9106	S_Direction Check Attack_Rear
+9107	S_Shield Attack_Add Hate
+9108	S_Target RangeDamage
+9109	S_Target RangeDamage_Successive Hits
+9110	S_Front 120-degree Range Damage
+9111	S_P. Atk_Absorption
+9112	S_Shield Rush Attack_Knock-back
+9113	S_Physical Rush Attack_Knock-back
+9151	S_Arrow Attack_No Casting
+9152	S_Arrow Attack_Charge Type
+9153	S_Arrow Attack_Successive HitsType
+9154	S_Arrow Attack_Range Type
+9155	S_Arrow Attack_Absorption
+9156	S_Arrow Attack_Knock-back
+9157	S_Arrow Range Attack_Knock-back
+9201	S_Magical Attack_Missile Single Hit
+9202	S_Magical Attack_Additional Effect Activation
+9203	S_Magical Attack_Missile Successive Hits
+9204	S_Magical Attack_Concurrent Successive Hits
+9205	S_Spell Successive Hits_Vertical Drop Projectile
+9206	S_Magical Attack_Activation Type Production
+9207	S_Spell Successive Hits_Range Multiple Vertical Drop
+9208	S_Spell_Multiple Shooting Range Single Hit
+9209	S_Magical Attack_Special Range
+9210	S_Absorption Spell_Against Living Thing
+9211	S_FX Test_Projectile running along the surface
+9212	S_FX Test_Self Centered Range
+9301	S_Surface Lasting_Damage Spell
+9302	S_Surface Lasting Recovery
+9303	S_Absorption Spell_Against Corpse
+9304	S_Resurrection Spell_Scenery Restoration
+9401	S_Sacrifice Creature
+9402	S_CreatureAura_Self
+9403	S_CreatureAura_Party
+9404	S_?C¢¬¢Ò?C ¢¥???¢©?<A¡ì?¢§?¡þ>
+9405	S_¡¤?A???<¥ì?¢©? ?¢¬??¡¤¡¾?¢ç>
+9501	Nightmare<Monster>
+9502	Neutralization of Darkness
+9503	Bleeding<Monster>
+9504	Oforia Breath<Monster>
+9505	Oforia Fear<Monster>
+9506	Oforia Magic<Monster>
+9507	Abhuva Breath<Monster>
+9508	Abhuva Forefoot Attack<Monster>
+9509	Abhuva Shot<Monster>
+9510	Nail Attack<Marduka Worker>
+9511	Hitting Axe<Marduka Warrior>
+9512	Healing<Marduka Healer>
+9513	Fire Beads<Marduka Kahuna>
+9514	Ice Beads<Marduka Kahuna>
+9515	Mangling<Marduka Patriarch>
+9516	Howl of Anger<Marduka Patriarch>
+9517	Howl of Speed<Marduka Patriarch>
+9518	Rage of Takin<Takin>
+9519	Cry of Fire<Takin>
+9520	Rage of Bloodymos<Bloodymos>
+9521	Resonating Cry <Bloodymos>
+9522	Arrow of Rage<Windsong>
+9523	Cut with all might<Betrayal>
+9524	Possession of Devil<Betrayal>
+9525	Fist of Departed Soul<Liquidlust>
+9526	Evil's Nausea<Liquidlust>
+9527	For Test Possession of Devil<Betrayal>
+9528	Crazy Storm <Ashmaw the Devourer>
+9529	Rampage of Kynish <Sand Lord Kynish>
+9530	Charming Beat<Ultimate Bear>
+9531	Tear of Death<Baron Madius>
+9532	?¡þ¡íc<¢¬o¢©??I>
+9533	??¥ì? ?O¥ì¥ì ¡Æ¡§?? <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9534	Bebe shining<Craken Bebe>
+9535	?aC¡À <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9536	A©¬¥ì¢Ò <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9537	¡Æ??¡À <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9538	?u?¡× ???i¡¤A ¡Æ¡§?? <¢¬o¢©??I A?¡Æ¢§Cu>
+9539	?¡þ?¢¬ ¡Æ?¡ÆY <¢¥??¨Ï¢¥?¢©? ?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9540	¢¬¢Ò©©? ?? <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9541	¢©??? <?¢¬¢©? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9542	¡Æ¡©?¢¬ <?¢¬¢©? ¢¥U?? ¢©??©© ¢¬o¢©??I>
+9543	¢¥U?? ???i¡¤A ¡Æ¡§?? <¢¬o¢©??I A???Cu>
+9544	?¢¬?u?¨©¡¾a <?¢¬¢©? ¢¥U?? ¢©??©© ¢¬o¢©??I>
+9545	A¡×?¡þ <?IC? ¡¾¢´?? ¢©??©© ¢¬o¢©??I>
+9546	Solidity <Monster Skill>
+9547	Explosion <Monster Skill>
+9548	Howl of Speed Test <Monster Skill>
+9549	Twin Shot
+9550	Healing<Monster Skill>
+9551	Pinch haze<Modified Trap>
+9552	Blood Curse<Monster Skill>
+9553	Dice Shock<Kyu In Hwa,Hon Yu Suk Skill>
+9554	?¢­¡¾Y?uA¡À<??¢©?¢¬¢ç¢©?>
+9555	¡¾Y??¡¾¢´?¡¾<??¢©?¢¬¢ç¢©?>
+9556	¡¾Y??¡¾¢´?¡¾<??¢©?¢¬¢ç¢©?¡¤???A¢ç>
+9557	¢¬¢Ò???C CC¢¬¢ç<?¢§¥ì¡§????¡ÆO ¡¤??IA¢ç>
+9558	God's Blessing <Edel Auge Magician>
+9559	??¡ÆY?C CC¢¬¢ç<?¢§¥ì¡§????¡ÆO ¢¬?Ao?C>
+9560	Ao¢¥?Lv2 C? ¢¬¢Ò¢¬¢ç ????<Ao¢¥?>
+9561	Ao¢¥?Lv1 C? ¢¬¢Ò¢¬¢ç ????<Ao¢¥?>
+9562	Ao¢¥?Lv3 C? ¢¬¢Ò¢¬¢ç ????<Ao¢¥?>
+9563	Ao¢¥?Lv1 ¥ìI ¢¬¢Ò¢¬¢ç ????<Ao¢¥?>
+9564	Ao¢¥?Lv1 ¢¥??¢¬ ¢¬¢Ò¢¬¢ç ????<Ao¢¥?>
+9565	?????¡ì¢©? ?©¢¢¬¢ç ¢©??©©<?¢´A¡ì¢©???>
+9566	??¢©??¢© Ao¢¥? ?©¢¢¬¢ç ¢©??©©<?¢´A¡ì¢©???>
+9567	¢¬¢Ò???C CC¢¬¢ç<?¢§¥ì¡§????¡ÆO ¡¤??IA¢ç_?¢´A¡ì¢©???>
+9568	??¡ÆY?C CC¢¬¢ç<?¢§¥ì¡§????¡ÆO ¢¬?Ao?C_?¢´A¡ì¢©???>
+9569	???¢©?C ?a¡ÆY<A©¬¡Æ¨© ?¢¬¢©? ?u?e>
+9570	??¢¥©¢ ?i¡¤???¥ì?<A©¬¡Æ¨© ?¢¬¢©? ?u?e>
+9571	?a???©¢ ??????<A©¬¡Æ¨© ?¢¬¢©? ?u?e>
+9572	???¢©?C ??¢¬¢¬CO<A©¬¡Æ¨© ?¢¬¢©? ?u?e>
+9573	?? ?¢ç¡¤|<¡¾O?I?¡©>
+9574	??¢¥©¢ ?i¡¤???¥ì?<?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9575	?¡þ¡íc<???O ¡Æ¡§??, ?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9576	?¡þ¡íc<A©©¢©???, Ao?¡þ ?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9577	¢¬¢Ò©©? ??<?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9578	¡Æ?¡ÆY ?O¥ì¥ì ¡Æ¡§??<?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9579	???i¡¤A ¡Æ¡§??<?¡§CC?A ¢¬o¢©??I ¢©??©©>
+9580	Insane Explosion <False Witch>
+9581	Summon Fanatics <False Witch>
+9582	Shadow Dance <False Witch>
+9583	Chain Slasher <False Witch>
+9584	Yak Summon <False Witch>
+9585	Death Message <Summon Monster>
+9586	Bloody Dance <Fanatic>
+9587	Scent of Blade <Fanatic>
+9588	Bloody Sawtooth <Absolute Witch>
+9589	Summon Fanatics <Absolute Witch>
+9590	Death Peters <Absolute Witch>
+9600	Summoning the Eye of Punishment<Wicked desire of Lucian >
+9601	Dark Spear<Wicked desire of Lucian >
+9602	Rising Hands<Wicked desire of Lucian >
+9603	Punishment light<Eye of Punishment>
+9604	Punishment haze<Eye of Punishment>
+9605	Lightening crystal<Dark plosive >
+9606	Ruined column fall<Waste disposal>
+9607	Ruined Vim<Waste disposal>
+9608	Voice of Witch<Dark plosive >
+9609	Blade cutting<Ancient Knight_Black>
+9610	Blade cutting<Ancient Knight_White>
+9611	Blade shock<Ancient Knight_Black>
+9612	Blade shock<Ancient Knight_White>
+9613	????¢©? ¥ì?¡¤¢§¡Æ?  ??¡¤?¢©?<¢¬o¢©??I>
+9614	????¢©? ¥ì?¡¤¢§¡Æ?  CC?i<¢¬o¢©??I>
+9615	????¢©? ¥ì?¡¤¢§¡Æ?  ¢¬?A¡À<¢¬o¢©??I>
+9616	¢©?©©? C¢ç ¢©??¢ç<¡Æi¢¥e¡ícA|_?¡©?¡Æ>
+9617	¢©?©©? C¢ç ¢©??¢ç<¡Æi¢¥e¡ícA|_??C©©>
+9618	¢©?©©? C¢ç ¢©??¢ç<¡Æi¢¥e¡ícA|_??>
+9619	¢©?©©? C¢ç ¢©??¢ç<¡Æi¢¥e¡ícA|_?uAO>
+9620	¥ì©¢???I ?¢´¢¬¢ç¢¬??¡í<¡Æi¢¥e¡ícA|_?¡©?¡Æ>
+9621	¥ì©¢???I ?¢´¢¬¢ç¢¬??¡í<¡Æi¢¥e¡ícA|_??C©©>
+9622	¥ì©¢???I ?¢´¢¬¢ç¢¬??¡í<¡Æi¢¥e¡ícA|_??>
+9623	¥ì©¢???I ?¢´¢¬¢ç¢¬??¡í<¡Æi¢¥e¡ícA|_?uAO>
+9624	Summon Fanatics<False Witch_Experiment>
+9625	Summon Fanatics<Absolute Witch_Experiment>
+9626	Death Peters<Absolute Witch_Experiment>
+9627	Spell Breaker<Scroll>
+9628	Petrifaction<Scroll>
+9629	Petrifaction<Ranged Scroll>
+9630	Monster Summon Stage 1<Master>
+9631	Monster Summon Stage 2<Master>
+9632	Monster Summon Stage 3<Master>
+9633	Petrifaction<Scroll>
+9634	Slam <Hidden Warrior Type Monster>
+9635	Warrior's Cry <Hidden Warrior Type Monster>
+9636	Achievment Destruction <Hidden Assistance Monster>
+9638	Combat Healing <Hidden Healing Monster>
+9639	Pillar of Light <Hidden Healing Monster>
+9640	Death Peters <Absolute Witch_Battle Arena Slaughter>
+9641	Eternal Pillar of Fire<Absolute Witch_Battle Arena Slaughter>
+9642	Fire Field<Absolute Witch_Battle Arena Slaughter>
+9643	Ä¡À¯ÀÇ ºû<9.2 Èú·¯Çü ¸ó½ºÅÍ>
+9644	ÆäÀÎÆ® ¼¦<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9645	Èçµé¸®´Â ´ëÁö<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9646	ºí¸®µù ¿þÀÌºê<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9647	µ¶¾È°³<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9648	¼¶µæÇÑ °øÆ÷<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9649	ºê·¹ÀÌÅ© ÇÊµå<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9650	´ëÁö °¡¸£±â<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9651	¸¶³ª ¹ø<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9652	Ä§¹¬ÀÇ °­<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9653	Ä¡À¯ÀÇ ºû<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9654	Áö¿ÁÀÇ È­¿°<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9655	ºí·¯µå ¹ø<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9656	±¤Àü»çÀÇ ¿ÜÄ§<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9657	°­ÇÑ ÀÏ°Ý<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9658	Ä¡À¯ÀÇ Ãàº¹<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9659	±¤±âÀÇ Ãàº¹<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9660	Çí½º<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9661	Ä¡¸íÀûÀÎ µ¶<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9662	°øÆ÷ÀÇ ´«±æ<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9663	¿¡½Ãµå ½º¿úÇÁ<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9664	¹æ¾î·Â °¨¼Ò<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9665	°ø°Ý·Â °¨¼Ò<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9666	°ø°Ý¼Óµµ °¨¼Ò<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9667	¸¶³ª Á¤Áö<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9668	À¯¼º Ãæµ¹<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9669	È­¿° ±âµÕ<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9670	µ¹Áø<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9671	¸Ó¸® ÂÉ°³±â<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9672	Çìµå ½º¿öµå<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9673	Çìµå ºê·¹ÀÌÄ¿<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9674	È­·ÁÇÑ°Ë¹«<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9675	¾ÏÈæ ¹«·ÂÈ­<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9676	°ÅÇÔÀÇÀÏ°Ý<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9677	½ã´õÇÊµå<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9678	±»¼¾ÀÇÁö<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9679	ÀúÇ×ÀÇ Æ÷È¿<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9680	´ÙÅ© ½ºÇÇ¾î<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9681	ÆÄ¸êÀÇ ¹°°á<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9682	À¯¼º ÆøÇ³<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9683	ÆÄÀÌ¾î ÇÊµå<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9684	´ÙÀÌ½º ¾×¼¼½º<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9685	´ÙÅ© ¾Ö·Î¿ì<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9686	ºê·¹ÀÌÅ© ´Ù¿î<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9687	¿¡·Î¿ì ¹ßÄ­<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9688	¾Ç¸ùÀÇ ³ë·¡<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9689	ÃÖÈÄÀÇ ÀÏ°Ý<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9690	ºÎ¸§ÀÇ ¿ÜÄ§<9.3 ½Å±Ô ¸ó½ºÅÍ Àü¿ë>
+9901	Demonstration_Dirk Tornado
+9902	Demonstration_Judgment of Heaven
+9903	Demonstration_Holy Assault
+9904	Demonstration_Freezing Hammer
+9905	Demonstration_Deadly Dancing
+9906	Demonstration_Multiple Shot
+9907	Demonstration_Apocalypse
+9908	Demonstration_Thrust Shot
+9909	Demonstration_Blaze Serial Cut
+9910	Demonstration_Flame Sword Dance
+9911	Demonstration_Thunderbolt Wind Cut
+9912	Demonstration_Whirlwind Assault
+9951	Demonstration_Rain of Ice
+9952	Demonstration_Hail Strike
+9953	Demonstration_Fire Field
+9954	Demonstration_Dark Spiral
+9955	Demonstration_Fire Lance
+9956	Demonstration_Shadow Bomb
+9957	Demonstration_Fire Blast
+9958	Red Balls
+9959	Blue Balls
+9960	¢©??¡þ_?????¡í ?¡©?¡À?¢ç C?¡¤?¢©?
+9961	¢©??¡þ_¢©?¢¥????¢ç ?i¡¤???¥ì?
+9962	¢©??¡þ_?¨Ï¢¬¢ç?©© ??¢¬¢ç¥ì? ??¢Òo
+9963	¢©??¡þ_??¡¾¡¿¢¥?¢©??A?¢¬¢©?
+9964	¢©??¡þ_?¨Ï¢¬¢ç?©© ¢¬¢çA??o¢¬¢ç ©©e?i¡¤?¢©?
+9965	¢©??¡þ_?A?o ?¡©?¡À?¢ç C?¡¤?¢©?
+9966	¢©??¡þ_?¨Ï¢¬¢ç?©© ¢¬¢Ò¢©??I¢¬¢ç ??¢Òo
+9967	¢©??¡þ_?¨Ï¢¬¢ç?©© ??¢¥?¢©¡þ
+9968	¢©??¡þ_?¨Ï¢¬¢ç?©© ?¨Ï¢¬¢ç?o¢¥¡¿ C?¡¤?¢©?
+9969	¢©??¡þ_???¨©??¡¤????¢ç
+9970	¢©??¡þ_¢¥eAo?C ¡Æ¨ÏAO
+9971	¢©??¡þ_?y¢¬i?C ¡ÆaA¢´?o
+9972	¢©??¡þ_¢©??O ?¢¬¡Æ¡©?C ?¥ì¡¾a
+9973	¢©??¡þ_?????????u
+9974	¢©??¡þ_???¡Æ?C ?¢¬??¢¬¢ç
+9975	¢©??¡þ_CA¢¬¢çA¢§ C?¢¬O<¢¬¢Ò?y¡íc>
+9976	¢©??¡þ_??¡¤¨©¥ì©¢¢©¡þ ¢¬???¢©?<¢¬¢Ò?y¡íc>
+9977	¢©??¡þ_?|¢¬¢ç ¢©??¢¬¡í??o<¢¬¢Ò?y¡íc>
+9978	¢©??¡þ_?|¢¬¢ç ?I¢©?C?¡¤IA?<¢¬¢Ò?y¡íc>
+9979	¢©??¡þ_?i¡¤?¢©? ???? C?¡¤?¢©?<¢¬¢Ò?y¡íc>
+9980	¢©??¡þ_?? ?©¢¥ì?¥ì?<¢¬¢Ò?y¡íc>
+9981	¢©??¡þ_?u¢¬¥ì C?¡¤?¢©?<¢¬¢Ò?y¡íc>
+9982	¢©??¡þ_¡Æ¢§¥ì©¢?©¢ ????<¢¬¢Ò?y¡íc>
+9983	¢©??¡þ_?i¡¤?¢©? ??¢¬O C?¡¤?¢©?<¢¬¢Ò?y¡íc>
+9984	¢©??¡þ_C??? ¢©??¢ç¢Òo???¨Ï<¢¬¢Ò?y¡íc>
+9985	¢©??¡þ_¡¤??I ???? ????¢©?<¢¬¢Ò?y¡íc>
+9986	¢©??¡þ_¡¾¡¿¢Òo???¡¿???C AU?i<¢¬¢Ò?y¡íc>
+9987	¢©??¡þ_?U¡¤??¡À?¢ç<¢¬¢Ò?y¡íc>
+9988	¢©??¡þ_?|¢¬¢ç ?i©©????o¡¤????C<¢¬¢Ò?y¡íc>
+9989	¢©??¡þ_?A???i ?i¡¤¢§¢©??¢ç<¢¬¢Ò?y¡íc>
+9990	¢©??¡þ_?A???i C?¥ì?<¢¬¢Ò?y¡íc>
+9991	¢©??¡þ_C???Ai ??¡¤???A?<¢¬¢Ò?y¡íc>
+9992	¢©??¡þ_¢¥??¨Ï ¢©??A??¡¤¢­<¢¬¢Ò?y¡íc>
+9993	¢©??¡þ_¥ì? ???? C??¢¬?¨Ï<¢¬¢Ò?y¡íc>
+9994	¢©??¡þ_¢©?¢¥? ¢©??A?¨Ï ?¢ç¡¤|<¢¬¢Ò?y¡íc>
+9995	¢©??¡þ_?a?¢ç¢¬¢ç?A?? ¢©?¢¬©¢?¨Ï<¢¬¢Ò?y¡íc>
+9996	¢©??¡þ_?¨Ï¥ì©¢ ?I?¡þ ?I??¥ì?<¢¬¢Ò?y¡íc>
+9997	¢©??¡þ_?¡À¡¾¡¿ ???? ©©????¢ç¢¬??i<¢¬¢Ò?y¡íc>
+9998	¢©??¡þ_¥ì©¢¢©??c ¢¬?A¡À<¢¬¢Ò?y¡íc>
+9999	¢©??¡þ_¢¬?¡Æ??C ??¡¾a¥ì?<¢¬¢Ò?y¡íc>
+10000	¢©??¡þ_??¡ÆY?C ¡¾?¡¤?<¢¬¢Ò?y¡íc>
+10001	¢©??¡þ_A¢´¡¤E?C ??<¢¬¢Ò?y¡íc>
+10002	¢©??¡þ_¢¥e?U?¡þ?C ¡í?¢¬¢ç<¢¬¢Ò?y¡íc>
+10003	¢©??¡þ_?©¬?¨Ï ¡Æ¡©¢¬¢­<¢¬¢Ò?y¡íc>
+10004	¢©??¡þ_??¡íy?C AO?u<¢¬¢Ò?y¡íc>
+10005	¢©??¡þ_??¢­E?C ???¨©<¢¬¢Ò?y¡íc>
+10006	¢©??¡þ_¢¥e?U?¡þ?C ??Cy<¢¬¢Ò?y¡íc>
+10007	¢©??¡þ_AuC©©?C ¡Æ?¢¬i<¢¬¢Ò?y¡íc>
+10008	¢©??¡þ_???¡©?C ????<¢¬¢Ò?y¡íc>
+10009	Small Snowball
+10010	Large Snowball
+10011	Demonstration_Putting Poison
+10012	Demonstration_Strong Spirit
+10013	Demonstration_Aura of oppression
+10014	???O ¡Æ¡§?? ¡¾¢¬¢©¢© ¢¥?Ao¡¾a<¥ì?¢©?¢¬?A¢§ ?u?e><A©¬¥ì?>
+10015	?©¬ ?I?? ?O?? ?a¢¬¢Ò?a<?a¢¬¢Ò?a ??A|>
+10016	¢¥u ?I?? ©©?¡ío ?a¢¬¢Ò?a<?a¢¬¢Ò?a ??A|>
+11001	Creature Riding
+14001	Armor Unit
+21102	Righteous Purpose<Templar(version:7.3)>
+21103	Holy Ground<Templar(version:7.3)>
+21104	Salvation<Templar(version:7.3)>
+21108	Zeal<Templar(version:7.3)>
+21109	Sacred Aegis<Templar(version:7.3)>
+21110	Crusade<Templar(version:7.3)>
+21111	Devout Fury<Templar(version:7.3)>
+21112	Onslaught<Templar(version:7.3)>
+21113	Glorious Wrath<Templar(version:7.3)>
+21117	Sword Mastery<Templar(version:7.3)>
+21118	Mace Mastery<Templar(version:7.3)>
+21119	Spear Mastery<Templar(version:7.3)>
+21120	Frenzied Charging<Templar(version:7.3)>
+21121	Imbued Light<Templar(version:7.3)>
+21122	Piety<Templar(version:7.3)>
+21124	Exalted Protection<Templar(version:7.3)>
+21126	Stalwart<Templar(version:7.3)>
+21127	Vigor<Templar(version:7.3)>
+21128	Quick Mending<Templar(version:7.3)>
+21129	Thorned Shield<Templar(version:7.3)>
+21201	Invigorating Essence<Mercenary(version:7.3)>
+21202	Deathblow<Mercenary(version:7.3)>
+21203	No Mercy<Mercenary(version:7.3)>
+21207	Desperate Deflection<Mercenary(version:7.3)>
+21208	Frantic Defense<Mercenary(version:7.3)>
+21209	Reckless Vivacity<Mercenary(version:7.3)>
+21210	Remorselessness<Mercenary(version:7.3)>
+21211	Immortality<Mercenary(version:7.3)>
+21212	Unstoppable Force<Mercenary(version:7.3)>
+21216	Guiding Light<Mercenary(version:7.3)>
+21217	Invincible Strength<Mercenary(version:7.3)>
+21218	Hawkeye<Mercenary(version:7.3)>
+21219	Killing Spree<Mercenary(version:7.3)>
+21220	Killer's Desire<Mercenary(version:7.3)>
+21221	Lust for Blood<Mercenary(version:7.3)>
+21301	Inner Light<Cardinal(version:7.3)>
+21302	Rainbow Field<Cardinal(version:7.3)>
+21303	Sustained Restoration<Cardinal(version:7.3)>
+21304	Mighty Energy Beat<Cardinal(version:7.3)>
+21308	Magical Requisition<Cardinal(version:7.3)>
+21309	Refreshing Triumph<Cardinal(version:7.3)>
+21310	Vortex Magic<Cardinal(version:7.3)>
+21311	Arctic Blast<Cardinal(version:7.3)>
+21312	Frigid Breeze<Cardinal(version:7.3)>
+21316	Binding Ward<Cardinal(version:7.3)>
+21317	Endless Winter<Cardinal(version:7.3)>
+21318	Brisk Reprisal<Cardinal(version:7.3)>
+21319	Mass Restoration<Cardinal(version:7.3)>
+21320	Seraphic Remedy<Cardinal(version:7.3)>
+21321	Guardian Force<Cardinal(version:7.3)>
+21322	Celestial Protection<Cardinal(version:7.3)>
+21401	Guardian Angel<Oracle(version:7.3)>
+21402	Brilliant Harmony<Oracle(version:7.3)>
+21403	Dignity<Oracle(version:7.3)>
+21407	Rapture<Oracle(version:7.3)>
+21408	Divine Recovery<Oracle(version:7.3)>
+21409	Spiritual Destruction<Oracle(version:7.3)>
+21410	Angel's Deception<Oracle(version:7.3)>
+21411	Radiant Flare<Oracle(version:7.3)>
+21412	Premonition<Oracle(version:7.3)>
+21417	Mass Repentance<Oracle(version:7.3)>
+21418	Holy Protection<Oracle(version:7.3)>
+21419	Heavenly Grace<Oracle(version:7.3)>
+21420	Heaven and Hell<Oracle(version:7.3)>
+21421	Kismet<Oracle(version:7.3)>
+21427	Hymn of Focus<Oracle(version:7.3)>
+21501	Summon Mastery<Overlord,Master Breeder, Beast Master(version:7.3)>
+21502	Rejuvenating Roar<Master Breeder(version:7.3)>
+21503	Feral Aspect<Master Breeder(version:7.3)>
+21504	Healing Wave<Master Breeder(version:7.3)>
+21506	Mass Soothing<Master Breeder(version:7.3)>
+21507	Breeder's Synergy<Master Breeder(version:7.3)>
+21510	Critical Resonance<Master Breeder(version:7.3)>
+21511	Glacial Whorl<Master Breeder(version:7.3)>
+21512	Frozen Core<Master Breeder(version:7.3)>
+21517	Mortal Coil<Master Breeder(version:7.3)>
+21518	Mind Mauler<Master Breeder(version:7.3)>
+21519	Primal Concentration<Master Breeder(version:7.3)>
+21520	Grim Desire<Master Breeder(version:7.3)>
+21521	Law of Exchange<Master Breeder(version:7.3)>
+21522	Potency<Master Breeder(version:7.3)>
+21524	Defense Mastery<Master Breeder(version:7.3)>
+21525	Trait Mastery<Master Breeder(version:7.3)>
+21526	Empowering Scent<Master Breeder(version:7.3)>
+21527	Bestial Cry<Master Breeder(version:7.3)>
+21528	Expert Caretaker<Master Breeder(version:7.3)>
+31101	Surge of Adrenaline<Slayer 7.3>
+31102	Smoke Bomb<Slayer 7.3>
+31103	Short Fuse<Slayer 7.3>
+31105	Hellstorm<Slayer 7.3>
+31108	Pact With Darkness<Slayer 7.3>
+31109	Shadowforged Plating<Slayer 7.3>
+31110	Phase Blades<Slayer 7.3>
+31111	Envenom<Slayer 7.3>
+31112	Poison Mastery<Slayer 7.3>
+31116	Dusk Gaze<Slayer 7.3>
+31117	Twilight Strike<Slayer 7.3>
+31118	<not a skill implemented in game.>
+31119	Death's Respite<Slayer 7.3>
+31120	Phantasm<Slayer 7.3>
+31121	Dark Binding<Slayer 7.3>
+31124	Gloom Aura<Slayer 7.3>
+31125	Unshakable<Slayer 7.3>
+31126	After Image<Slayer 7.3>
+31127	Surefooted<Slayer 7.3>
+31128	Debilitating Blows<Slayer 7.3>
+31201	Wild Instinct<Deadeye(version:7.3)>
+31202	Shadow Orb<deadeye(version:7.3)>
+31203	Unpredictable<deadeye(version:7.3)>
+31204	Frost Arrows<deadeye version 7.3>
+31207	Deep Focus<deadeye 7.3>
+31208	Veteran Senses<deadeye 7.3>
+31209	Lightning Reflexes<deadeye 7.3>
+31210	Combat Prowess<deadeye 7.3>
+31211	Abyssal Attunement<deadeye 7.3>
+31212	Attunement of the Damned<deadeye 7.3>
+31217	Bodkin Arrows<deadeye 7.3>
+31218	Stopping Power<deadeye 7.3>
+31219	Iron Will<Deadeye(version:7.3)>
+31220	Demonic Howl<deadeye 7.3>
+31221	Booming Voice<deadeye 7.3>
+31227	Wolf's Guile<Deadeye 7.3>
+31228	Feline Haste<deadeye 7.3>
+31301	Apostle of Darkness<Void Mage(version:7.3)>
+31302	Crushing Shadows<Void Mage(version:7.3)>
+31303	Suppression<Void Mage(version:7.3)>
+31308	Abyssal Grip<Void Mage(version:7.3)>
+31309	Sadism<Void Mage(version:7.3)>
+31310	Sharp Tongue<Void Mage(version:7.3)>
+31311	Crystal Aura<Void Mage(version:7.3)>
+31312	Chain Lightning<Void Mage(version:7.3)>
+31313	Shock Therapy<Void Mage(version:7.3)>
+31314	Inferno Fire Arrow<Void Mage, Corruptor, Overlord(version:7.3)>
+31315	Maelstrom Bolt<Void Mage, Corrupter(version:7.3)>
+31319	Dark Renewal<Void Mage(version:7.3)>
+31320	Grim Attrition<Void Mage(version:7.3)>
+31323	Time Lapse<Void Mage(version:7.3)>
+31324	Chrono Shift<Void Mage(version:7.3)>
+31325	Temporal Mastery<Void Mage(version:7.3)>
+31329	Tempest<Void Mage(version:7.3)>
+31401	Undying Terror<Corruptor(version:7.3)>
+31402	Soul Plague<Corruptor(version:7.3)>
+31403	Epidemic<Corruptor(version:7.3)>
+31407	Putrefy<Corruptor(version:7.3)>
+31408	Void Swarm<Corruptor(version:7.3)>
+31409	Scent of Death<Corruptor(version:7.3)>
+31410	Vampirism<Corruptor(version:7.3)>
+31411	Vengeful Spirit<Corruptor(version:7.3)>
+31412	Hunger for Blood<Corruptor(version:7.3)>
+31420	Stroke of Genius<Corruptor(version:7.3)>
+31421	Occultism<Corruptor(version:7.3)>
+31422	Shadoweaving<Corruptor(version:7.3)>
+31423	Intuition<Corruptor(version:7.3)>
+31424	Envision<Corruptor(version:7.3)>
+31502	Miraculous Recovery<Overlord(version:7.3)>
+31503	Rapid Miracles<Overlord(version:7.3)>
+31504	Aura of Inspiration<Overlord(version:7.3)>
+31505	Fervor Aura<Overlord(version:7.3)>
+31508	Unholy Synergy<Overlord(version:7.3)>
+31511	Mastermind<Overlord(version:7.3)>
+31512	Armageddon<Overlord(version:7.3)>
+31513	Raze<Overlord(version:7.3)>
+31518	Electric Synergy<Overlord(version:7.3)>
+31520	Swift Impact<Overlord(version:7.3)>
+31521	Desperate Blow<Overlord(version:7.3)>
+31522	Hopelessness<Overlord(version:7.3)>
+31524	Dirk Hurricane<Overlord(version:7.3)>
+31526	Order of Alacrity<Overlord(version:7.3)>
+31535	Blood Synergy<Overlord(version:7.3)>
+40001	Awakening: P. Def.<Stage 1>
+40002	Awakening: P. Def.<Stage 2>
+40003	Awakening: P. Def.<Stage 3>
+40004	Awakening: P. Def.<Stage 4>
+40005	Awakening: P. Def.<Stage 5>
+40006	Awakening: P. Def.<Stage 6 >
+40007	Perception Defence Skill<Physical Defense>
+40008	Perception Defence Skill<Magic Defense>
+40009	Perception Defence Skill<P. Def+M. Def>
+40010	Perception Defence Skill<Evasion>
+40011	Perception Defence Skill<P. Def+Evasion>
+40012	Perception Defence Skill<M. Res>
+40013	Perception Defence Skill<Vitality+P. Def>
+40014	Perception Defence Skill<Vitality+M. Def>
+40021	Awakening: Def.<Stage 1>
+40022	Awakening: Def.<Stage 2>
+40023	Awakening: Def.<Stage 3>
+40024	Awakening: Def.<Stage 4>
+40025	Awakening: Def.<Stage 5>
+40026	Awakening: Def.<Stage 6>
+40041	Awakening: P. Atk.<Stage 1>
+40042	Awakening: P. Atk.<Stage 2>
+40043	Awakening: P. Atk.<Stage 3>
+40044	Awakening: P. Atk.<Stage 4>
+40045	Awakening: P. Atk.<Stage 5>
+40046	Awakening: P. Atk.<Stage 6 >
+40047	Perception Attack Skill<Physical>
+40048	Perception Attack Skill<Strength>
+40049	Perception Attack Skill<P. Atk+Strength>
+40050	Perception Attack Skill<Strength+Agility>
+40051	Perception Attack Skill<Agility>
+40052	Perception Attack Skill<Dexterity>
+40053	Perception Attack Skill<P. Atk+Agility>
+40054	Perception Attack Skill<Magic>
+40055	Perception Attack Skill<Intelligence>
+40056	Perception Attack Skill<M. Atk+Intelligence>
+40057	Perception Attack Skill<M. Atk+Mental>
+40058	Perception Attack Skill<Intelligence+Mental>
+40061	Awakening: M. Def.<Stage 1>
+40062	Awakening: M. Def.<Stage 2>
+40063	Awakening: M. Def.<Stage 3>
+40064	Awakening: M. Def.<Stage 4>
+40065	Awakening: M. Def.<Stage 5>
+40066	Awakening: M. Def.<Stage 6>
+40081	Awakening: M. Atk.<Stage 1>
+40082	Awakening: M. Atk.<Stage 2>
+40083	Awakening: M. Atk.<Stage 3>
+40084	Awakening: M. Atk.<Stage 4>
+40085	Awakening: M. Atk.<Stage 5>
+40086	Awakening: M. Atk.<Stage 6 >
+40101	Awakening: Atk.<Stage 1>
+40102	Awakening: Atk.<Stage 2>
+40103	Awakening: Atk.<Stage 3>
+40104	Awakening: Atk.<Stage 4>
+40105	Awakening: Atk.<Stage 5>
+40106	Awakening: Atk.<Stage 6>
+40121	Salamander's Shield<Stage 1>
+40122	Salamander's Shield<Stage 2>
+40123	Salamander's Shield<Stage 3>
+40124	Salamander's Shield<Stage 4>
+40125	Salamander's Shield<Stage 5>
+40126	Salamander's Shield<Stage 6 >
+40131	Undine's Shield<Stage 1>
+40132	Undine's Shield<Stage 2>
+40133	Undine's Shield<Stage 3>
+40134	Undine's Shield<Stage 4>
+40135	Undine's Shield<Stage 5>
+40136	Undine's Shield<Stage 6 >
+40141	Gnome's Shield<Stage 1>
+40142	Gnome's Shield<Stage 2>
+40143	Gnome's Shield<Stage 3>
+40144	Gnome's Shield<Stage 4>
+40145	Gnome's Shield<Stage 5>
+40146	Gnome's Shield<Stage 6 >
+40151	Sylph's Shield<Stage 1>
+40152	Sylph's Shield<Stage 2>
+40153	Sylph's Shield<Stage 3>
+40154	Sylph's Shield<Stage 4>
+40155	Sylph's Shield<Stage 5>
+40156	Sylph's Shield<Stage 6 >
+40161	Nocturn's Shield<Stage 1>
+40162	Nocturn's Shield<Stage 2>
+40163	Nocturn's Shield<Stage 3>
+40164	Nocturn's Shield<Stage 4>
+40165	Nocturn's Shield<Stage 5>
+40166	Nocturn's Shield<Stage 6 >
+40171	Luna's Shield<Stage 1>
+40172	Luna's Shield<Stage 2>
+40173	Luna's Shield<Stage 3>
+40174	Luna's Shield<Stage 4>
+40175	Luna's Shield<Stage 5>
+40176	Luna's Shield<Stage 6 >
+40191	Meditation<Stage 1>
+40192	Meditation<Stage 2>
+40193	Meditation<Stage 3>
+40194	Meditation<Stage 4>
+40195	Meditation<Stage 5>
+40196	Meditation<Stage 6 >
+40201	Clarity<Stage 1>
+40202	Clarity<Stage 2>
+40203	Clarity<Stage 3>
+40204	Clarity<Stage 4>
+40205	Clarity<Stage 5>
+40206	Clarity<Stage 6 >
+40221	Vital Unit: Warrior Armor<Stage 1>
+40222	Vital Unit: Warrior Armor<Stage 2>
+40223	Vital Unit: Warrior Armor<Stage 3>
+40224	Vital Unit: Warrior Armor<Stage 4>
+40225	Vital Unit: Warrior Armor<Stage 5>
+40226	Vital Unit: Warrior Armor<Stage 6 >
+40227	Vital Unit: Warrior Clothes<HP regeneration rate>
+40241	Vital Unit: Hunter Armor<Stage 1>
+40242	Vital Unit: Hunter Armor<Stage 2>
+40243	Vital Unit: Hunter Armor<Stage 3>
+40244	Vital Unit: Hunter Armor<Stage 4>
+40245	Vital Unit: Hunter Clothes<attack speed>
+40246	Vital Unit: Hunter Clothes<critical>
+40261	Vital Unit: Summoner Armor<Stage 1>
+40262	Vital Unit: Summoner Armor<Stage 2>
+40263	Vital Unit: Summoner Armor<Stage 3>
+40264	Vital Unit: Summoner Armor<Stage 4>
+40265	Vital Unit: Summoner Clothes<MP Regen.>
+40281	Genius Unit: Magician Armor<Stage 1>
+40282	Genius Unit: Magician Armor<Stage 2>
+40283	Genius Unit: Magician Armor<Stage 3>
+40284	Genius Unit: Magician Armor<Stage 4>
+40285	Genius Unit: Magician Costume<Stage 5>
+40286	Genius Unit: Magician Costume<Stage 6>
+40287	Genius Unit: Wizard costume<MP Regen.>
+40301	Wizard Unit: Mace and Staff<Stage 1>
+40302	Wizard Unit: Mace and Staff<Stage 2>
+40303	Wizard Unit: Mace and Staff<Stage 3>
+40304	Wizard Unit: Mace and Staff<Stage 4>
+40305	Wizard Unit: Mace and Staff<Stage 5>
+40306	Wizard Unit: Mace and Staff<Stage 6 >
+40321	Fighter Unit: Melee Weapon<Stage 1>
+40322	Fighter Unit: Melee Weapon<Stage 2>
+40323	Fighter Unit: Melee Weapon<Stage 3>
+40324	Fighter Unit: Melee Weapon<Stage 4>
+40325	Fighter Unit: Melee Weapon<Stage 5>
+40326	Fighter Unit: Melee Weapon<Stage 6>
+40327	Hunter Unit: Ranged Weapon<1step>
+40328	C??I ??¢¥??¢ç: ??¡Æ?¢¬¢ç ?¡ì¡¾a<2¢¥U¡Æ?>
+40329	Hunter Unit: Ranged Weapon<Stage 3>
+40330	Hunter Unit: Ranged Weapon<4Step>
+40331	C??I ??¢¥??¢ç: ??¡Æ?¢¬¢ç ?¡ì¡¾a<5¢¥U¡Æ?>
+40332	C??I ??¢¥??¢ç: ??¡Æ?¢¬¢ç ?¡ì¡¾a<6¢¥U¡Æ?>
+40341	Fighter Unit: Dirk<Stage 1>
+40342	Fighter Unit: Dirk<Stage 2>
+40343	Fighter Unit: Dirk<Stage 3>
+40344	Fighter Unit: Dirk<Stage 4>
+40361	Fighter Unit: Mace<Stage 1>
+40362	Fighter Unit: Mace<Stage 2>
+40363	Fighter Unit: Mace<Stage 3>
+40364	Fighter Unit: Mace<Stage 4>
+40365	Fighter Unit : Mace<Stage 5>
+40366	Fighter Unit : Mace<Stage 6>
+40370	Fighter Unit: Melee Weapon<attack power>
+40371	Fighter Unit: Melee Weapon<attack speed>
+40372	Fighter Unit: Melee Weapon<Physical Attack+Attack Speed>
+40373	Hunter Unit: Ranged Weapon<attack power>
+40374	Hunter Unit: Ranged Weapon<attack speed>
+40375	Hunter Unit: Ranged Weapon<critical>
+40376	Wizard Unit: Mace and Staff<Magic Attack Power>
+40377	Wizard Unit: Mace and Staff<Casting Speed>
+40378	Wizard Unit: Mace and Staff<Magical Attack+Veloc.>
+40381	Sharp Vision<Stage 1>
+40382	Sharp Vision<Stage 2>
+40383	Sharp Vision<Stage 3>
+40384	Sharp Vision<Stage 4>
+40385	Sharp Vision<Stage 5>
+40386	Sharp Vision<Stage 6 >
+40401	Vision of Intelligence<Stage 1>
+40402	Vision of Intelligence<Stage 2>
+40403	Vision of Intelligence<Stage 3>
+40404	Vision of Intelligence<Stage 4>
+40405	Vision of Intelligence<Stage 5>
+40406	Vision of Intelligence<Stage 6 >
+40421	Cold Vision<Stage 1>
+40422	Cold Vision<Stage 2>
+40423	Cold Vision<Stage 3>
+40424	Cold Vision<Stage 4>
+40425	Cold Stare<Rank 5>
+40426	Cold Stare<Stage 6>
+40441	Awakening: Evasion<Stage 1>
+40442	Awakening: Evasion<Stage 2>
+40443	Awakening: Evasion<Stage 3>
+40444	Awakening: Evasion<Stage 4>
+40461	Awakening: HP Regen<Stage 1>
+40462	Awakening: HP Regen<Stage 2>
+40463	Awakening: HP Regen<Stage 3>
+40464	Awakening: HP Regen<Stage 4>
+40465	Awakening: HP Regen<Stage 5>
+40466	Awakening: HP Regen<Stage 6 >
+40481	Awakening: MP Regen<Stage 1>
+40482	Awakening: MP Regen<Stage 2>
+40483	Awakening: MP Regen<Stage 3>
+40484	Awakening: MP Regen<Stage 4>
+40485	Awakening: MP Regen<Stage 5>
+40486	Awakening: MP Regen<Stage 6>
+40501	Awakening: HP, MP Regen<Stage 1>
+40502	Awakening: HP, MP Regen<Stage 2>
+40503	Awakening: HP, MP Regen<Stage 3>
+40504	Awakening: HP, MP Regen<Stage 4>
+40505	Awakening: HP, MP Regen<Stage 5>
+40506	Awakening: HP, MP Regen<Stage 6 >
+40512	Awakening: Critical Hit
+40521	Bless the Body<Stage 1>
+40522	Bless the Body<Stage 2>
+40523	Bless the Body<Stage 3>
+40524	Bless the Body<Stage 4>
+40525	Bless the Body<Stage 5>
+40526	Bless the Body<Stage 6 >
+40527	Unchained Body<Max HP+HP regen>
+40541	Bless the Soul<Stage 1>
+40542	Bless the Soul<Stage 2>
+40543	Bless the Soul<Stage 3>
+40544	Bless the Soul<Stage 4>
+40547	Bless the Soul<Stage 5>
+40548	Bless the Soul<Stage 6 >
+40549	Unchained Soul<Max MP+mana regen>
+40561	Card Ability: Strength<Stage 1>
+40562	Card Ability: Strength<Stage 2>
+40563	Card Ability: Strength<Stage 3>
+40564	Card Ability: Strength<Stage 4>
+40565	Card Ability: Strength<Stage 5>
+40566	Card stat: Strength<Stage 6><ep7>
+40581	Card Ability: Vitality<Stage 1>
+40582	Card Ability: Vitality<Stage 2>
+40583	Card Ability: Vitality<Stage 3>
+40584	Card Ability: Vitality<Stage 4>
+40585	Card Ability: Vitality<Stage 5>
+40586	Card Ability: Vitality<Stage 6>
+40601	Card Ability: Agility<Stage 1>
+40602	Card Ability: Agility<Stage 2>
+40603	Card Ability: Agility<Stage 3>
+40604	Card Ability: Agility<Stage 4>
+40621	Card Ability: Dexterity<Stage 1>
+40622	Card Ability: Dexterity<Stage 2>
+40623	Card Ability: Dexterity<Stage 3>
+40624	Card Ability: Dexterity<Stage 4>
+40626	Card Ability: Dexterity, Wisdom<Stage 2>
+40641	Card Ability: Intelligence<Stage 1>
+40642	Card Ability: Intelligence<Stage 2>
+40643	Card Ability: Intelligence<Stage 3>
+40644	Card Ability: Intelligence<Stage 4>
+40645	Card Ability: Intelligence <Stage 5>
+40646	Card Ability: Intelligence<Stage 6>
+40661	Card Ability: Strength, Intelligence<Stage 1>
+40662	Card Ability: Strength, Intelligence<Stage 2>
+40663	Card Ability: Strength, Intelligence<Stage 3>
+40664	Card Ability: Strength, Intelligence<Stage 4>
+40665	Card Ability: Strength, Intelligence<Stage 5>
+40666	Card Ability: Strength, Intelligence<Stage 6>
+40681	Card Ability: Vitality, Intelligence<Stage 1>
+40682	Card Ability: Vitality, Intelligence<Stage 2>
+40683	Card Ability: Vitality, Intelligence<Stage 3>
+40684	Card Ability: Vitality, Intelligence<Stage 4>
+40685	Card Ability: Vitality, Intelligence<Stage 5>
+40686	Card Ability: Vitality, Intelligence<Stage 6 >
+40687	Card Ability: Strength, Dexterity<Stage 5>
+40688	Card Ability: Strength, Vitality<Stage 2>
+40689	Card Ability: Strength, Vitality<Stage 3>
+40690	Card Ability: Fortune<Stage 1>
+40691	Card Ability: Fortune<Stage 2>
+40692	Card Ability: Fortune<Stage 3>
+40693	Card Ability: Fortune<Stage 4>
+40694	Card Ability: Strength, Vitality<Stage 4>
+40695	Card Ability: Strength, Vitality<Stage 5>
+40696	Card Ability: Strength, Vitality<Stage 6>
+40697	Card Ability: Vitality, Wisdom<Stage 6>
+40701	Card Ability: P. Def.<Stage 1>
+40702	Card Ability: P. Def.<Stage 2>
+40703	Card Ability: P. Def.<Stage 3>
+40704	Card Ability: P. Def.<Stage 4>
+40705	Card Ability: Physical Defense<5Stage>
+40706	Card Ability: P.Def<Stage 6>
+40721	Card Ability: P. Atk<Stage 1>
+40722	Card Ability: P. Atk<Stage 2>
+40723	Card Ability: P. Atk<Stage 3>
+40724	Card Ability: P. Atk<Stage 4>
+40741	Card Ability: M Def.<Stage 1>
+40742	Card Ability: M Def.<Stage 2>
+40743	Card Ability: M Def.<Stage 3>
+40744	Card Ability: M Def.<Stage 4>
+40761	Card Ability: M  Atk<Stage 1>
+40762	Card Ability: M  Atk<Stage 2>
+40763	Card Ability: M  Atk<Stage 3>
+40764	Card Ability: M  Atk<Stage 4>
+40781	Card Ability: P. Atk & P. Def.<Stage 1>
+40782	Card Ability: P. Atk & P. Def.<Stage 2>
+40783	Card Ability: P. Atk & P. Def.<Stage 3>
+40784	Card Ability: P. Atk & P. Def.<Stage 4>
+40785	Card Ability: P.Atk, P.Def<Stage 5>
+40786	Card Ability: P.Atk, P.Def<Stage 6>
+40801	Card Ability: P. Atk & M  Atk<Stage 1>
+40802	Card Ability: P. Atk & M  Atk<Stage 2>
+40803	Card Ability: P. Atk & M  Atk<Stage 3>
+40804	Card Ability: P. Atk & M  Atk<Stage 4>
+40805	Card Ability: P.Atk, M.Atk<Stage 5>
+40806	Card Ability: P.Atk, M.Atk<Stage 6>
+40821	Card Ability: P. Def. & M  Atk<Stage 1>
+40822	Card Ability: P. Def. & M  Atk<Stage 2>
+40823	Card Ability: P. Def. & M  Atk<Stage 3>
+40824	Card Ability: P. Def. & M  Atk<Stage 4>
+40825	Card Ability: P. Def. & M  Atk<Stage 5>
+40826	Card Ability: P. Def. & M  Atk<Stage 6 >
+40831	Card Ability: P. Atk & P. Acc<Stage 5>
+40841	Card Ability: P. Acc<Stage 1>
+40842	Card Ability: P. Acc<Stage 2>
+40843	Card Ability: P. Acc<Stage 3>
+40844	Card Ability: P. Acc<Stage 4>
+40861	Card Ability: M. Acc<Stage 1>
+40862	Card Ability: M. Acc<Stage 2>
+40863	Card Ability: M. Acc<Stage 3>
+40864	Card Ability: M. Acc<Stage 4>
+40871	Card Ability: P. & M. Acc<Stage 2>
+40881	Card Ability: P. Atk Spd<Stage 1>
+40882	Card Ability: P. Atk Spd<Stage 2>
+40883	Card Ability: P. Atk Spd<Stage 3>
+40884	Card Ability: P. Atk Spd<Stage 4>
+40885	Card Ability: Critical Rate<Stage 1>
+40886	Card Ability: Critical Rate<Stage 2>
+40887	Card Ability: Critical Rate<Stage 3>
+40888	Card Ability: Critical Rate<Stage 4>
+40889	Card Ability: Evasion<Stage 1>
+40890	Card Ability: Evasion<Stage 2>
+40891	Card Ability: Evasion<Stage 3>
+40892	Card Ability: Evasion<Stage 4>
+40893	Card Ability: Block Rate<Stage 4>
+40894	Card Ability: HP Recov<Stage 5>
+40895	Card Ability: MP Regen<Stage 5>
+40896	Card Ability: M. Atk, Evasion<Stage 3><ep7>
+40897	Card Ability: P. Atk, Atk Spd<Stage 6><ep7>
+40898	Card Ability: P.Def, M.Def<Stage 6>
+40901	Eden's Blessing
+40902	Blessing of Strength (Basic)
+40903	Blessing of Intelligence (Basic)
+40904	Blessing of Agility (Basic)
+40905	Blessing of Vitality (Basic)
+40906	Blessing of Dexterity (Basic)
+40907	Blessing of Wisdom (Basic)
+40908	Blessing of Strength (Intermediate)
+40909	Blessing of Intelligence (Intermediate)
+40910	Blessing of Agility (Intermediate)
+40911	Blessing of Vitality (Intermediate)
+40912	Blessing of Dexterity (Intermediate)
+40913	Blessing of Wisdom (Intermediate)
+41001	Strength of order<only for angel, spirit and Mortal><ep7>
+41002	Strength of Nature<Only for Dragons, Beast and Ain><ep7>
+41003	Strength of Chaos<Only for undead, Devil and Mecca><ep7>
+41004	Resistance from chaos<only for angel, spirit and Mortal><ep7>
+41005	Resistance from Nature<Only for undead, Devil and Mecca><ep7>
+41006	Resistance from Nature<Only for undead, Devil and Mecca><ep7>
+41007	Dark Mantle
+41101	Steel Presence<Berserker(version:7.3)>
+41102	Earth Shatter<Berserker(version:7.3)>
+41103	Short Temper<Berserker(version:7.3)>
+41107	Zephyr Strike<Berserker(version:7.3)>
+41108	Final Defense<Berserker(version:7.3)>
+41109	Shield Barrier<Berserker(version:7.3)>
+41110	Berserker Rage<Berserker(version:7.3)>
+41111	Hysteria<Berserker(version:7.3)>
+41112	Blind Fury<Berserker(version:7.3)>
+41119	Fatal Charge<Berserker, Marksman(version:7.3)>
+41120	Spiracle Rush<Berserker, Marksman(version:7.3)>
+41121	Blood Rush<Berserker, Marksman(version:7.3)>
+41124	Behemoth Force<Berserker(version:7.3)>
+41201	Prey Upon the Weak<Marksman(version:7.3)>
+41202	Endless Energy<Marksman(version:7.3)>
+41203	Tireless<Marksman(version:7.3)>
+41207	Effortless Skill<Marksman(version:7.3)>
+41208	Strategic Agility<Marksman(version:7.3)>
+41209	Frozen Armor<Marksman(version:7.3)>
+41210	Victory Cheer<Marksman(version:7.3)>
+41211	Rally<Marksman(version:7.3)>
+41212	Natural Leader<Marksman(version:7.3)>
+41217	Archer Training<Marksman(version:7.3)>
+41218	Rebound<Marksman(version:7.3)>
+41224	Spiracle of Dexterity<Marksman(version:7.3)>
+41225	Spiracle of Agility<Marksman(version:7.3)>
+41301	Spiritual Attunement<Magus(version:7.3)>
+41302	Healing Gust<Magus(version:7.3)>
+41303	Elemental Devotion<Magus(version:7.3)>
+41306	Angelic Mist<Magus(version:7.3)>
+41308	Ponder<Magus(version:7.3)>
+41309	Ancestral Vessel<Magus(version:7.3)>
+41310	Flamemonger<Magus(version:7.3)>
+41311	Tectonic Spike<Magus(version:7.3)>
+41312	Earth and Fire<Magus(version:7.3)>
+41315	Bleak Squall<Magus(version:7.3)>
+41316	Mental Link<Magus(version:7.3)>
+41317	Versatility<Magus(version:7.3)>
+41318	Earthly Presence<Magus(version:7.3)>
+41319	Tidal Trance<Magus, War Kahuna(version:7.3)>
+41320	Angel's Force<Magus(version:7.3)>
+41321	Heavenly Power<Magus(version:7.3)>
+41329	Arcane Swell<Magus, War Kahuna(version:7.3)>
+41330	Focused Gust<Magus, War Kahuna(version:7.3)>
+41331	Mirrored Swiftness<Magus(version:7.3)>
+41332	Breath of Life<Magus, War Kahuna(version:7.3)>
+41333	Cyclone Lord's Blessing<Magus(version:7.3)>
+41401	Blessing of Purified Water<Great Kahuna(version:7.3)>
+41402	Enchanted Slash<War Kahuna(version:7.3)>
+41403	Swift Enchanter<War Kahuna(version:7.3)>
+41406	Lucid Dream<War Kahuna(version:7.3)>
+41407	Symbiosis<War Kahuna(version:7.3)>
+41408	Endless Luck<War Kahuna(version:7.3)>
+41409	Exhilaration<War Kahuna(version:7.3)>
+41410	Beast's Wrath<War Kahuna(version:7.3)>
+41411	Impaling Power<War Kahuna(version:7.3)>
+41412	Expert Combatant<War Kahuna(version:7.3)>
+41413	Leviathan's Torrent<War Kahuna(version:7.3)>
+41415	Merciless<War Kahuna(version:7.3)>
+41416	Nature's Rage<War Kahuna(version:7.3)>
+41417	Thicket Armor<War Kahuna(version:7.3)>
+41419	Protector's Force<War Kahuna(version:7.3)>
+41420	War Palisade<War Kahuna(version:7.3)>
+41430	Prismatic Soul<War Kahuna(version:7.3)>
+41502	Soul Harmony<Beast Master(version:7.3)>
+41503	Deep Connection<Beast Master(version:7.3)>
+41506	Frightful Howl<Beast Master(version:7.3)>
+41507	Domestication<Beast Master(version:7.3)>
+41510	Rend and Tear<Beast Master(version:7.3)>
+41511	Bloody Aftermath<Beast Master(version:7.3)>
+41512	Determination<Beast Master(version:7.3)>
+41513	Savage Frenzy<Beast Master(version:7.3)>
+41517	Sanguine Bond<Beast Master(version:7.3)>
+41520	Overrun<Beast Master(version:7.3)>
+41521	Howl at the Moon<Beast Master(version:7.3)>
+41522	Pack Runner<Beast Master(version:7.3)>
+41523	Field of Clovers<Beast Master(version:7.3)>
+41526	Aspect of the Beast<Beast Master(version:7.3)>
+41527	Feral Regeneration<Beast Master(version:7.3)>
+41528	Spirit Link<Beast Master(version:7.3)>
+41529	Girl Bears Four Leaf Clover<Spell Singer(version:8.3)>
+42001	Card Ability: Casting Spd<Stage 1>
+42002	Card Ability: Casting Spd<Stage 2>
+42003	Card Ability: Casting Spd<Stage 3>
+42004	Card Ability: Casting Spd<Stage 4>
+42005	Card Ability: Casting Spd<Stage 5>
+42006	Card Ability: Casting Spd<Stage 6>
+44001	Creature Item Expert<Stage 1>
+44002	Creature Item Expert<Stage 2>
+44003	Creature Item Expert<Stage 3>
+44004	Creature Item Expert<Stage 4>
+44005	Creature Item Expert<Stage 5>
+44006	Creature Item Expert<Stage 6 >
+44007	Creature Item Expert<Stage 7>
+44008	Creature Item Expert<Stage 8>
+44009	Creature Item XP<9 stages>
+45001	Threatening Essence<Stage 1>
+45002	Threatening Essence<Stage 2>
+45003	Threatening Essence<Stage 3>
+45004	Threatening Essence<Stage 4>
+45005	Threatening Essence<Stage 5>
+45006	Threatening Essence<Stage 6 >
+45011	Shadow Illusion<Stage 1>
+45012	Shadow Illusion<Stage 2>
+45013	Shadow Illusion
+45014	Shadow Illusion
+45015	Hide Tracks
+45016	Shadow Illusion<Stage 6>
+45021	Sneaky Raid<Stage 1>
+45022	Sneaky Raid<Stage 2>
+45023	Sneaky Raid<Stage 3>
+45024	Sneaky Raid<Stage 4>
+45025	Sneaky Raid<Stage 5>
+45026	Sneaky Raid<Stage 6>
+45032	War Cry<Stage 2>
+45033	War Cry<Stage 3>
+45034	Roar<Stage 3>
+45035	War Cry<Stage 4>
+45036	War Cry
+45037	Roar
+45038	War Cry<Stage 5>
+45039	War Cry<Stage 6>
+45041	Roaring<Stage 6 >
+45101	Scratch
+45102	Peck
+45103	Turtle's Teeth
+45104	Double Slash
+45105	Imprinting of Threat
+45106	Skeleton Fury
+45107	Twin Sphere
+45108	Prayer
+45109	Painful Noise
+45110	Flame Slayer
+45111	Double Slash
+45112	Continuous Attack
+45113	Gracious Light
+45114	Bite
+45115	Cold Beam
+45116	Full Swing
+45117	Twin Shot
+45118	Piercing Fangs
+45119	Whirling Strike
+45120	Whirlwind Kick
+45121	Sonic Wave
+45122	Wind Strike
+45123	Vorpal Wind-Blade
+45124	Healing Light
+45125	Piercing Charge
+45126	Decaying Flesh<ep7>
+45127	Ice Needle
+45128	Horrifying Visage
+45129	Sacrifice of Innocence
+45130	Curse of Impurity
+45131	One Winged Embrace
+45132	Blood Fury
+45133	Buster Beam
+45134	Mangle
+45135	Concentrated Fire
+45201	Bloody Crush
+45202	Poultry Crow
+45203	Angry Shell
+45204	Focus Slash
+45205	Focused Blow
+45206	Chaos Crash
+45207	Pixie Fireball
+45208	Celestial Prayer
+45209	Lyrics of Frustration
+45210	Flame Blow
+45211	Power Slash
+45212	Kentauros Strike
+45213	Light of Punishment
+45214	Outrageous Blow
+45215	Ice Arrow
+45216	Dice Shock
+45217	Crippling Arrow
+45218	Gouging Bite
+45219	Reflecting Shield
+45220	Bloodthirst
+45221	Falling Stone
+45222	Whirlwind Blast
+45223	Soothing Zephyr
+45224	Blinding Flash
+45225	Shocking Charge
+45226	Revenant Strike<ep7>
+45227	Freezing Blast
+45228	Tissue Recovery
+45229	Pounce
+45301	Bite
+45302	Poultry Kick
+45303	Tortus Combo
+45304	Body Slam<Stage 2>
+45305	Skeleton's Shudder
+45306	Pixie Shock
+45307	Shuddering Cantata
+45308	Flame Shock
+45309	Body Slam<Stage 3>
+45310	Kentauros's Shuddering
+45311	Soul Shock
+45312	Cerberus's Shuddering
+45313	Wisdom Shock
+45314	Giant Swing
+45315	Paralyzing Arrow
+45316	Lunging Bite
+45317	Stunning Strike
+45318	Blood Curse
+45319	Standing Stone
+45320	Icy Whirlwind <Jinni>
+45321	Wind Blossom <Jinni>
+45322	Windy Confinement
+45323	Wind Blossom <Mystic Jinni>
+45324	Wind Aura
+45325	Exposure Awareness
+45326	Majestic Horn
+45327	Sura Sword<ep7>
+45328	Glacier Smash
+45329	Gear 1 : Buster Beam Enhancement
+45330	Gear 2 : Tissue Recovery Enhancement
+45331	Lion Roar
+45401	Pantera Blast
+45402	Poultry Blast
+45403	Tortus Blast
+45404	Cross of Valhalla
+45405	Yeti Slam
+45406	Corrupt Strike
+45407	Blazing Flame
+45408	Seraph's Call
+45409	Painful Aria
+45410	Salamander Blast
+45411	Hawkman Blast
+45412	Kentauros Blast
+45413	Angel Blast
+45414	Cerberus Blast
+45415	Ice Blast
+45416	Triple Shot
+45417	Shredding Fangs
+45418	Rapid Strikes
+45419	Soul Impact
+45420	Sonic Sight
+45421	Sleeping Stone
+45422	Wind Pummel
+45423	Lightning Barrage
+45424	Resurrection Light
+45425	Vital Blessing
+45426	Dark Energy Burst
+45427	Absolute Dignity<ep7>
+45428	Monarch's Rage<ep7>
+45429	Frost Spiral
+45430	Tissue Activation
+45431	Weakness Analysis
+45432	Weakness Analysis
+45433	Sharpened Claws
+45501	Fatal Storm
+45502	Curse of Garuda
+45503	Tortus Special
+45504	Overrunning Slash
+45505	Soul Blast
+45506	Chaos Knight Blade
+45507	Fire Bird
+45508	Spirit of Undine
+45509	Opera of Ruin
+45510	Flame Storm
+45511	Storm of Ruin
+45512	Storm of Light
+45513	Hawkman Special
+45514	Dark Storm
+45515	Ice Breath
+45516	Megaton Swing
+45517	Blood Rain
+45518	Rampage
+45519	Surging Storm
+45520	Field of Corruption
+45521	Rising Stone
+45522	Gale Force
+45523	Mystic Effect
+45524	Master Devotion
+45525	Infernal Magma
+45526	Monarch's Body Awakening<ep7>
+45527	Monarch's Spiritual Awakening<ep7>
+45528	Frost Queen's Vengeance
+45529	Immersed in Battle
+45530	Feline Fortitude
+45601	Unity: Pantera
+45602	Unity: Poultry
+45603	Unity: Tortus
+45604	Unity: Orc
+45605	Unity: Yeti
+45606	Unity: Skeleton
+45607	Unity: Red Pixie
+45608	Unity: Blue Pixie
+45609	Unity: Siren
+45610	Unity: Salamander
+45611	Unity: Hawkman
+45612	Unity: Angel
+45613	Unity: Kentauros
+45614	Unity: Cerberus
+45615	Unity: White Dragon
+45616	Unity: Mystic Koala
+45617	Unity: Harpy
+45618	Unity: Wolf
+45619	Unity: Gnoll
+45620	Unity: Octopus
+45621	Unity: Naga
+45622	Unity: Genie
+45623	Unity: Ifrit
+45624	Unity: Unicorn
+45625	Unity: Nightmare
+45626	Unity: Death Tyrant<ep7>
+45627	Unity: Ice Maiden
+45628	Unity: Cube
+45629	Unity: Lydian
+45650	Unity: Tortus Relic<HP+p.def>
+45651	Unity: Cube Relic<strength+M.def up>
+45652	Unity: Gnoll Relic<p.def+M.def up>
+45653	Unity: Yeti Relic<HP+regen>
+45654	Unity: Dark Soul Relic<atk up+HP>
+45655	Unity: Orc Relic<atk up+p.def>
+45656	Unity: Wolf Relic<atk up+dodge>
+45657	Unity: Kentauros Relic<strength>
+45658	Unity: Pantera Relic<physical power>
+45659	Unity: Death Tyrant's Relic<Physical Attack+Attack Speed>
+45660	Unity: Wind Song Relic<attacking speed>
+45661	Unity: Pick Relic<evasion>
+45662	Unity: Seirene Relic<M.atk up+magic accuracy>
+45663	Unity: Frost Queen Relic<M.atk up+casting speed>
+45664	Unity: Ifrit Relic<M.atk up+M.def up>
+45665	Unity: Unicorn Relic<Magic Attack+Vitality>
+45666	Unity: Tafari Relic<M.atk up>
+45667	Unity: Blue Pixie Relic<p.def+M.regen>
+45668	Unity: Baphomet's Relic<M. Res+M.regen>
+45669	Unity: Undine's Relic<Wisdom+casting speed>
+45700	Encouragement: Strength, Vitality<Stage 6>
+45701	Encouragement: Strength<Stage 1>
+45702	Encouragement: Strength<Stage 2>
+45703	Encouragement: Strength<Stage 3>
+45704	Encouragement: Strength<Stage 4>
+45705	Encouragement: Agility<Stage 1>
+45706	Encouragement: Agility<Stage 2>
+45707	Encouragement: Agility<Stage 3>
+45708	Encouragement: Agility<Stage 4>
+45709	Encouragement: Vitality<Stage 1>
+45710	Encouragement: Vitality<Stage 2>
+45711	Encouragement: Vitality<Stage 3>
+45712	Encouragement: Vitality<Stage 4>
+45713	Encouragement: Intelligence<Stage 1>
+45714	Encouragement: Intelligence<Stage 2>
+45715	Encouragement: Intelligence<Stage 3>
+45716	Encouragement: Intelligence<Stage 4>
+45717	Encouragement: Dexterity<Stage 1>
+45718	Encouragement: Dexterity<Stage 2>
+45719	Encouragement: Dexterity<Stage 3>
+45720	Encouragement: Dexterity<Stage 4>
+45721	Encouragement: Strength, Intelligence<Stage 1>
+45722	Encouragement: Strength, Intelligence<Stage 2>
+45723	Encouragement: Strength, Intelligence<Stage 3>
+45724	Encouragement: Strength, Intelligence<Stage 4>
+45725	Encouragement: Vitality, Intelligence<Stage 1>
+45726	Encouragement: Vitality, Intelligence<Stage 2>
+45727	Encouragement: Vitality, Intelligence<Stage 3>
+45728	Encouragement: Vitality, Intelligence<Stage 4>
+45729	Encouragement: Strength, Vitality<Stage 1>
+45730	Encouragement: Strength, Vitality<Stage 2>
+45731	Encouragement: Strength, Vitality<Stage 3>
+45732	Encouragement: Strength, Vitality<Stage 4>
+45733	Encouragement: Intelligence, Wisdom<Stage 1>
+45734	Encouragement: Intelligence, Wisdom<Stage 2>
+45735	Encouragement: Intelligence, Wisdom<Stage 3>
+45736	Encouragement: Intelligence, Wisdom<Stage 4>
+45737	Encouragement: Strength<Stage 5>
+45738	Encouragement: Vitality, Intelligence<Stage 5>
+45739	Encouragement: Vitality, Intelligence<Stage 6 >
+45740	Encouragement: Dexterity, Wisdom<Stage 2>
+45741	Fortune Clover
+45742	Encouragement: Strength, Agility<Stage 2>
+45743	Encouragement: Strength, Agility<Stage 3>
+45744	Encouragement: Strength, Agility<Stage 4>
+45745	Encouragement: Vitality<Stage 5>
+45746	Encouragement: Vitality<Stage 6>
+45751	Fighting Spirit Inspiration: Physical Defense
+45752	Encouragement: Evasion
+45753	Fighting Spirit Inspiration: Physical Attack
+45754	Fighting Spirit Inspiration: Critical Chance
+45755	Fighting Spirit Inspiration: Attack Speed
+45756	Fighting Spirit Inspiration: Magical Resistance
+45757	Fighting Spirit Inspiration: Casting Speed
+45758	Encouragement: Wisdom
+45759	Fighting Spirit Inspiration: Magic Attack
+45760	fighting spirit inspiration: MP Regen..
+45801	Creation: Pantera's Fang
+45802	Creation: Poultry's Tail Feather
+45803	Creation: Tortus's Shell
+45804	Creation: Orc Molar
+45805	Creation: Yeti's Fur
+45806	Creation: Skeleton's Bone
+45807	Creation: Fairy's Heat
+45808	Creation: Fairy's Purified Water
+45809	Creation: Siren's Hair
+45810	Creation: Salamander's Tail
+45811	Creation: Hawkman's Blood
+45812	Creation: Kentauros's Tail
+45813	Creation: Angel's Wing Feather
+45814	Creation: Cerberus's Claw
+45815	Creation:  Dragon Scale
+45816	Mystic Koala's feather
+45817	Creation: Harpy's Feather
+45818	Creation: Wolf's Claw
+45819	Creation: Gnoll's Mane
+45820	Creation: Octopus Tentacle
+45821	Creation: Naga's Scale
+45822	Creation: Breath of Genie
+45823	Creation: Breath of Genie
+45824	Creation: Mane of the Unicorn
+45825	Creation: Nightmare Mane
+45826	Creation: Decision of the Revenant <ep7>
+45827	Creation: Maiden's Tear
+45828	Creativity: Magic Cube Crystal
+45829	Creation: Lydian's Claw
+45901	Creation: Pantera Potion
+45902	Creation: Poultry Potion
+45903	Creation: Tortus Potion
+45904	Creation: Orc Potion
+45905	Creation: Yeti Potion
+45906	Creation: Skeleton Potion
+45907	Creation: Red Pixie Potion
+45908	Creation: Blue Pixie Potion
+45909	Creation: Siren Potion
+45910	Creation: Salamander Potion
+45911	Creation: Hawkman Potion
+45912	Creation: Kentauros Potion
+45913	Creation: Angel Potion
+45914	Creation: Cerberus Potion
+45915	Creation: White Dragon Potion
+45916	Creation: Mystic Koala's potion
+45917	Creation: Harpy Potion
+45918	Creation: Wolf Potion
+45919	Creation: Gnoll Potion
+45920	Creation: Octopus Potion
+45921	Creation: Naga Potion
+45922	Creation: Genie Potion
+45923	Creation: Ifrit Potion
+45924	Creation: Unicorn Potion
+45925	Creation: Nightmare Potion
+45926	Creation: Death Tyrant Potion<ep7>
+45927	Creation: Ice Maiden Potion
+45928	Creativity: Cube
+45929	Creation: Lydian Potion
+45930	Unity: Mother Bear Blessing<P.Def>
+45931	Unity: Likirus¢§? Spirit<M.Def>
+45932	Unity: Soul Seeker¢§?s Spirit<Wisdom>
+45933	Unity: Black Widow¢§?s Spirit<Casting speed>
+45934	Unity: Poultry's Spirit<Accuracy>
+45935	Unity: Koala's Spirit<Cri. Ratio>
+45936	Unity: Harpy's Spirit<Attack speed>
+45937	Unity: White Unicorn's Spirit<MAX MP Increase>
+45938	Unity: Dark Soul's Spirit<MAX HP Increase>
+45939	Unity: Pantera's Spirit<Atk up>
+45940	Unity: Pick's Spirit<Evasion>
+45941	Unity: Naga's Spirit<M.Atk>
+45942	Unity: Salamander's relic<P.Atk+M.Atk>
+45943	Unity: Angel's relic<P.Def+M.Atk>
+45944	Unity: Cerberus's relic<P.Atk+P.Acc>
+45945	Unity: Octopus's relic<P.Atk+MP regen>
+45946	Blessing of Strength (Unique Basic)
+45947	Blessing of Intelligence (Unique Basic)
+45948	Blessing of Agility (Unique Basic)
+45949	Blessing of Vitality (Unique Basic)
+45950	Blessing of Dexterity (Unique Basic)
+45951	Blessing of Wisdom (Unique Basic)
+45952	Blessing of Strength (Unique Advanced)
+45953	Blessing of Intelligence (Unique Advanced)
+45954	Blessing of Agility (Unique Advanced)
+45955	Blessing of Vitality (Unique Advanced)
+45956	Blessing of Dexterity (Unique Advanced)
+45957	Blessing of Wisdom (Unique Advanced)
+45958	Unity: Tortus Relic<Vitality+p.def>
+45959	Unity: Cube Relic<strength+M.def up>
+45960	Unity: Gnoll Relic<p.def+M.def up>
+45961	Unique Unity: Wolf Relic<atk up+dodge>
+45962	Unique Unity: Death Tyrant's Relic<Physical Attack+Attack Speed>
+45963	Unique Unity: Wind Song Relic<P.Atk+P.Atk spd>
+45964	Unique Unity: Siren Relic<M.atk up+magic accuracy>
+45965	Unique Unity: Frost Queen Relic<M.atk up+casting speed>
+45966	Unique Unity: Ifrit Relic<M.atk up+M.def up>
+45967	Unique Unity: Unicorn Relic<Magic Attack+Vitality>
+45968	Unique Unity: Blue Pixie Relic<p.def+M.regen>
+45969	Unique Unity: Baphomet's Relic<M. Res+M.regen>
+45970	Unique Unity: Undine's Relic<Wisdom+casting speed>
+45971	Unique Spiritual Blessing: Soul Creature<1st>
+45972	Unique Spiritual Blessing: Soul Creature<2nd>
+45973	Unique Spiritual Blessing: Soul Creature<3rd>
+46001	Wound Lick<Pantera>
+46002	Wound Lick<Poultry>
+46003	Wound Lick<Tortus>
+46004	Hymn of Life<Orc>
+46005	Hymn of Life<Yeti>
+46006	Hymn of Life<Siren>
+46007	Vampiric Rage<Skeleton>
+46008	Fairy Queen's Blessing<Red Pixie>
+46009	Fairy Queen's Blessing<Blue Pixie>
+46010	Fairy Queen's Blessing<Salamander>
+46011	Hymn of Life<Hawk Man>
+46012	Hymn of Life<Kentauros>
+46013	Blessing of Light<Angel>
+46014	Wound Lick<Cerberus>
+46015	Blessing of Firmness<White Dragon>
+46016	Collect Items<Collect Pet Item-5m>
+46017	Collect Items<Collect Pet Item-10m>
+46018	Collect Items<Collect Pet Item-15m>
+46019	Hymn of Life<Mystic Koala>
+46020	Hymn of Life<Harpy>
+46021	Wound Lick<Wolf>
+46022	Hymn of Life<Gnoll>
+46023	Wound Lick<Octopus>
+46024	Fairy Queen's Blessing
+46025	Fairy Queen's Blessing<Jinni>
+46026	Astral Blessing<Mystic Jinni>
+46027	Wound Lick <White Unicorn>
+46028	Wound Lick<Nightmare>
+46029	Bloody Vengeance<Death Tyrant><ep7>
+46030	Fairy Queen's Blessing<Ice Maiden>
+46031	Mana Reorganazation<Cube>
+46032	Wound Lick<Lydian>
+47001	Solid Body<Pantera><ep7>
+47002	Selfless Defense<Tortus><ep7>
+47003	Apport<Poultry><ep7>
+47004	Strong Spirit<Orc><ep7>
+47005	Abominable Howl<Yeti><ep7>
+47006	Corpse Absorption<Skeleton><ep7>
+47007	Molten Skin<Red Pixie><ep7>
+47008	Favoritism<Blue Pixie><ep7>
+47009	Kiss of the Goddess<Siren><ep7>
+47010	Eruption of the Wild<Wolf>
+47011	Demonic Insects<Octopus>
+47012	Drunken Mastery<hawkman><ep7>
+47013	Incarnation of Flame<Salamander><ep7>
+47014	Nimble Fingers<harpy><ep7>
+47015	Soothing Globe<unicorn><ep7>
+47016	Demonic Onslaught<nightmare><ep7>
+47017	Angel's Song<angel><ep7>
+47018	Timing Attack<Kentauros><ep7>
+47019	Murderous Intent<Gnoll><ep7>
+47020	Mana Blast<Tafari><ep7>
+47021	Hell Breath<Cerberus><ep7>
+47022	Wind Lash<Genie><ep7>
+47023	Tornado<Mystique Genie><ep7>
+47024	Mana Shield<White Dragon><ep7>
+47025	Devil's Dice<Koala><ep7>
+47026	Requiem<Death Tyrant><ep7>
+47027	Clown's Sociability<joker><ep7>
+47028	Aura of Ice
+47029	Energy Charge<Cube>
+47030	Sense of the Wild
+48001	Infusion of Life<baphomet>
+48002	Pulse Strike<baphomet>
+48003	Burst of Life<baphomet>
+48004	Unity: Baphomet<Baphomet>
+48005	Creation: Spirit Totem<baphomet>
+48006	Spiritual Innervation<baphomet>
+48007	Tome Mastery<baphomet>
+48008	Refreshing Tide<baphomet>
+48009	Flowing Form<baphomet>
+48010	Spirit Form<baphomet>
+48012	Creation: Baphomet Potion<Baphomet>
+48013	Hymn of Tranquility<baphomet>
+48031	Nightmarish Plague<blight ogre>
+48032	Touch of Death<blight ogre>
+48033	Ogre's Fury<blight ogre>
+48034	Unity: Blight Ogre<blight ogre>
+48035	Creation: Seething Corruption<blight ogre>
+48036	Feed on Corruption<blight ogre>
+48037	Reckless Frenzy<Blight ogre>
+48038	Rune of Decay<Blight Ogre>
+48039	Diseased Strike<Blight Ogre>
+48040	Creation: Blight Ogre Potion<blight ogre>
+48041	Crippling Blow<blight ogre>
+48061	Lightning Flurry<undine>
+48062	Mocking Blow<Undine>
+48063	Crushing Blow<Undine>
+48064	Unity: Undine<undine>
+48065	Creation: Crystal Ball<undine>
+48066	Desperation<undine>
+48067	Heaven's Assault<undine>
+48068	Fist Slam<undine>
+48069	Creation: Undine Potion<undine>
+48070	Last Defense<undine>
+48091	Bull Strike<minotaurus>
+48092	Soul Harvest<Minotaurus>
+48093	Pillar Crush<minotaurus>
+48094	Unity: Minotaurus<Minotaurus>
+48095	Creation: Soul Fragment<Minotaurus>
+48096	Soul Feast<Minotaurus>
+48097	Ancestral Force<Minotaurus>
+48098	Seismic Wave<Minotaurus>
+48099	Creation: Minotaurus Potion<Minotaurus>
+48100	Soul Harvest Upgrade<Minotaurus>
+48121	Pickaxe Swing<drillbot>
+48122	Alpha Mode<drillbot>
+48123	Alpha Stab<drillbot>
+48124	Alpha Doublestrike<drillbot>
+48125	Beta Mode<drillbot>
+48126	Beta Cyclone<drillbot>
+48127	Beta Burn<drillbot>
+48128	Gamma Mode<drillbot>
+48129	Gamma Exposure<drillbot>
+48130	Gamma Wave<drillbot>
+48131	Overcharge<drillbot>
+48132	Unity: Drillbot<drillbot>
+48133	Creation: Kerosine Vial<drillbot>
+48134	Refill<drillbot>
+48135	Creation: Drillbot Potion<drillbot>
+48136	Unity: Iron Knight<Iron Knight>
+48137	Knightly Belief : Blessed Body<Iron Knight>
+48138	Knightly Belief : Blessed Soul<Iron Knight>
+48139	Knightly Absolution : Sanctified Body<Iron Knight>
+48140	Knightly Absolution : Sanctified Soul<Iron Knight>
+48141	Iron Fencing: Strike<Iron Knight><Iron Knight>
+48142	Iron Fencing: Steel Strike<Iron Knight><Iron Knight>
+48143	Iron Fencing: One-Handed Sword<Iron Knight><Iron Knight>
+48144	Iron Fencing: Iron Giant<Iron Knight><Iron Knight>
+48145	Iron Fencing: Flashing Blade<Iron Knight><Iron Knight>
+48146	Iron Fencing: RIP<Iron Knight><Iron Knight>
+48151	Red Rose<Mephisto>
+48152	Demonic Transfusion<Mephisto>
+48153	Flaming Destiny<Mephisto>
+48154	Unity: Mephisto<Mephisto>
+48155	Creation: Demonic Essence<Mephisto>
+48156	Immortal Blessing<Mephisto>
+48157	Unity of Coagulated Blood<Mephisto>
+48158	Demon Space<Mephisto>
+48159	Invincible Blood<Mephisto>
+48160	Creation: Mephisto Potion<Mephisto>
+48161	Focused Declaration<Mephisto>
+48162	Immortal Proclamation<Mephisto>
+48163	Flames of Revenge<Mephisto>
+48171	Magic Thorns<Kiscia>
+48172	Tremor of Pain<Kiscia>
+48173	Charming Flame<Kiscia>
+48174	Unity: Kiscia<Kiscia>
+48175	Creation: Seeds of Rage<Kiscia>
+48176	Blazing Spirit<Kiscia>
+48177	Fantastic Energy<Kiscia>
+48178	Mental Collapse<Kiscia>
+48179	Creation: Kiscia Potion<Kiscia>
+48180	Transcendence<Kiscia>
+48181	Demonologist<Kiscia>
+48200	Provocation<Tanker Passive>
+48201	Solid Body<Tanker Passive>
+48202	Explosive Roar<Tanker Act>
+48203	Survival Instinct<TankerAct>
+48204	Penetrating Eye<Gundil Passive>
+48205	Feral Instinct<proximity striking power Act>
+48206	Mana Injection<Gundil Act>
+48207	Weapons Research<Wondil Passive>
+48208	Rapid Fire<Wondil Act>
+48209	Snipe<Wondil Act>
+48210	Tome Analysis<Madill Passive>
+48211	Flame Thrower<Madill Act>
+48212	Ice Pitch<Magic dealer Act>
+48213	Hurricane Blast<Madill Act>
+48214	Landslide<Madill Act>
+48215	Devotee<Healer Passive>
+48216	Heel<Healer's Passive>
+48217	Plea of the Pious<Healer Act>
+48218	Equivalent Exchange<Healer Act>
+48220	Survival Ability<mutant class of ain passive>
+48221	Exit Strategy<mutant class of ain Act>
+48222	Sheltering Storm< bird class of ain passive>
+48223	Wind Speed<bird class of ainAct>
+48224	Aquatic Shield<fish class of ain passive>
+48225	Refreshing Waters<fish class of ain Act>
+48226	Earth Spirit<earth class of ain passive>
+48227	Earth Tremor<Einjin Race Act>
+48228	Demonic Awakening<passive skill of all half-monster races>
+48229	Demonstration of Power<different world class of ain Act>
+48230	Wingstrike<wild bird passive>
+48231	Flying Feathers<beast birdAct>
+48232	Solid Skin<beast reptile passive>
+48233	Ecdysis<Reptile Beast's Act>
+48234	Adapting to Land<beast fish passive>
+48235	Oblivion<Pisces Beast Act>
+48236	Animal Instinct<beast mammal passive>
+48237	Starvation<beast mammalAct>
+48238	Filled with Darkness<beast demonic passive>
+48239	The Black Hand<beast demonicAct>
+48240	Conviction<wild heavens type passive>
+48241	Angel's Kiss<wild animal heavens type Act>
+48242	Will to Survive<beast mutation passive>
+48243	Bioimplant<beast mutation Act>
+48244	Protection of God<Angel's Passive>
+48245	God's Judgement<Angel's Act>
+48246	Soul Depletion<Demon Passive>
+48247	Trickster's Will<Demon Act>
+48248	Reanimator<undead passive>
+48249	Dark Field<undead group act>
+48250	Lubricated<Mecaru Passive>
+48251	Spare Parts<Mecaru Act>
+48252	Information Exchange<Human Kind Passive>
+48253	Emergency Aid<Human's Act>
+48254	Empowering Stones<Spirit passive>
+48255	Spirit Voices<Spirit Act>
+48256	Hibernation<Dragon's Passive>
+48257	Dragon's Roar<dragon Act>
+48258	Frozen Arrow<Act of long distance dealer>
+48259	Bolt of Destruction<Act of long distance dealer>
+48260	Breakthrough: Magic Training<Act of magic dealer>
+48300	Passive Tank Skill: Attack Power<tanker random skill><Passive>
+48301	Passive Tank Skill: Defence Power<tanker random skill><act>
+48302	Passive Tank Skill: Item XP<tanker random skill><Passive>
+48303	Passive Tank Skill: Vitality<tanker random skill><Passive>
+48304	Passive Tank Skill: mana<tanker random skill><Passive>
+48305	Active Tank Skill: Basic Attack<tanker random skill><act>
+48306	Active Tank Skill: Enchantment Attack<tanker random skill><act>
+48307	Passive Tank Skill: Wearing Armor<tanker random skill><Passive>
+48308	Passive Tank Skill: Card Stats<tanker random skill><Passive>
+48309	Active Tank Skill: Threat Level<tanker random skill><act>
+48310	Active Tank Skill: Unity<tanker random skill><act>
+48311	Active Tank Skill: Form Skill<tanker random skill><act>
+48312	Passive Tank Skill: Wearing Weapon<tanker random skill><Passive>
+48313	Active Tank Skill: Encouragement<tanker random skill><act>
+48314	Active Tank Skill: Special<tanker random skill><act>
+48315	Active Tank Skill: Secret Skill:<tanker random skill><act>
+48316	Passive Tank Skill: Form Skill<tanker random skill><Passive>
+48317	Active Tank Skill: Enchantment Skill<tanker random skill><act>
+48320	Passive Melee Skill: Attack Power<random skill of short distance><Passive>
+48321	Passive Melee Skill: Defence Power<random skill of short distance><act>
+48322	Passive Melee Skill: Item XP<random skill of short distance><Passive>
+48323	Passive Melee Skill: Vitality<random skill of short distance><Passive>
+48324	Passive Melee Skill: mana<random skill of short distance><Passive>
+48325	Active Melee Skill: Basic Attack<random skill of short distance><act>
+48326	Active Melee Skill: Enchantment Attack<random skill of short distance><act>
+48327	Passive Melee Skill: Wearing Armor<random skill of short distance><Passive>
+48328	Passive Melee Skill: Card Stats<random skill of short distance><Passive>
+48329	Active Melee Skill: Threat Level<random skill of short distance><act>
+48330	Active Melee Skill: Unity<random skill of short distance><act>
+48331	Active Melee Skill: Form Skill<random skill of short distance><act>
+48332	Active Melee Skill: Wearing Weapon<random skill of short distance><Passive>
+48333	Active Melee Skill: Encouragement<random skill of short distance><act>
+48334	Active Melee Skill: Special<random skill of short distance><act>
+48335	Active Melee Skill: Secret Skill:<random skill of short distance><act>
+48336	Passive Melee Skill: Form Skill<random skill of short distance><Passive>
+48337	Passive Melee Skill: Enchantment Skill<random skill of short distance><act>
+48340	Passive Ranged Skill: Attack Power<random skill for dealer of long distance><Passive>
+48341	Passive Ranged Skill: Defence Power<random skill for dealer of long distance><act>
+48342	Passive Ranged Skill: Item XP<random skill for dealer of long distance><Passive>
+48343	Passive Ranged Skill: Vitality<random skill for dealer of long distance><Passive>
+48344	Passive Ranged Skill: mana<random skill for dealer of long distance><Passive>
+48345	Active Ranged Skill: Basic Attack<random skill for dealer of long distance><act>
+48346	Active Ranged Skill: Enchantment Attack<random skill for dealer of long distance><act>
+48347	Passive Ranged Skill: Wearing Armor<random skill for dealer of long distance><Passive>
+48348	Passive Ranged Skill: Card Stats<random skill for dealer of long distance><Passive>
+48349	Active Ranged Skill: Threat Level<random skill for dealer of long distance><act>
+48350	Active Ranged Skill: Unity<random skill for dealer of long distance><act>
+48351	Active Ranged Skill: Form Skill<random skill for dealer of long distance><act>
+48352	Passive Ranged Skill: Wearing Weapon<random skill for dealer of long distance><Passive>
+48353	Active Ranged Skill: Encouragement<random skill for dealer of long distance><act>
+48354	Active Ranged Skill: : Special Skill<random skill for dealer of long distance><act>
+48355	Active Ranged Skill: : Secret Skill<random skill for dealer of long distance><act>
+48356	Passive Ranged Skill : Form Skill<random skill for dealer of long distance><Passive>
+48357	Active Ranged Skill: Enchantment Skill<random skill for dealer of long distance><act>
+48360	Passive Magical Skill: Attack Power<Random skill for magic dealer><Passive>
+48361	Passive Magical Skill: Defence Power<Random skill for magic dealer><act>
+48362	Passive Magical Skill: Item XP<Random skill for magic dealer><Passive>
+48363	Passive Magical Skill: Vitality<Random skill for magic dealer><Passive>
+48364	Passive Magical Skill: mana<Random skill for magic dealer><Passive>
+48365	Active Magical Skill: Basic Attack<Random skill for magic dealer><act>
+48366	Active Magical Skill: Enchantment Attack<Random skill for magic dealer><act>
+48367	Passive Magical Skill: Wearing Armor<Random skill for magic dealer><Passive>
+48368	Passive Magical Skill: Card Stats<Random skill for magic dealer><Passive>
+48369	Active Magical Skill: Threat Level<Random skill for magic dealer><act>
+48370	Active Magical Skill: Unity<Random skill for magic dealer><act>
+48371	Active Magical Skill: Form Skill<Random skill for magic dealer><act>
+48372	Passive Magical Skill: Wearing Weapon<Random skill for magic dealer><Passive>
+48373	Active Magical Skill: Encouragement<Random skill for magic dealer><act>
+48374	Active Magical Skill : Special Skill<Random skill for magic dealer><act>
+48375	Active Magical Skill : Secret Skill<Random skill for magic dealer><act>
+48376	Passive skill of Magical Skill : Form Skill<Random skill for magic dealer><Passive>
+48377	Active Magical Skill: Enchantment Skill<Random skill for magic dealer><act>
+48380	Passive Recovery Skill: Attack Power<healer random skill><Passive>
+48381	Passive Recovery Skill: Defence Power<healer random skill><act>
+48382	Passive Recovery Skill: Item XP<healer random skill><Passive>
+48383	Passive Recovery Skill: Vitality<healer random skill><Passive>
+48384	Passive Recovery Skill: Mana<healer random skill><Passive>
+48385	Active Recovery Skill: Basic Attack<healer random skill><act>
+48386	Active Recovery Skill: Enchantment Attack<healer random skill><act>
+48387	Passive Recovery Skill: Wearing Armor<healer random skill><Passive>
+48388	Passive Recovery Skill: Card Stats<healer random skill><Passive>
+48389	Active Recovery Skill: Threat Level<healer random skill><act>
+48390	Active Recovery Skill: Unity<healer random skill><act>
+48391	Active Recovery Skill: Form Skill<healer random skill><act>
+48392	Passive Recovery Skill: Wearing Weapon<healer random skill><Passive>
+48393	Active Recovery Skill: Encouragement<healer random skill><act>
+48394	Active Recovery Skill: Special Skill<healer random skill><act>
+48395	Active Recovery Skill: Secret Skill<healer random skill><act>
+48396	Passive Recovery Skill: Form Skill<healer random skill><Passive>
+48397	Active Recovery Skill: Enchantment Skill<healer random skill><act>
+48401	Melee Passive Skill: Attack Power<Short distance random skill><Passive>
+48402	Melee Passive Skill: Defense Power<Short distance random skill>
+48403	Melee Passive Skill: Item XP<Short distance random skill><Passive>
+48404	Melee Passive Skill: Vitality<Short distance random skill><Passive>
+48405	Melee Passive Skill: Mana<Short distance random skill><Passive>
+48406	Melee Active Skill: Basic Attack<Short distance random skill>
+48407	Melee Active Skill: Enhanced Attack<Short distance random skill>
+48408	Melee Passive Skill: Armor<Short distance random skill><Passive>
+48409	Melee Passive Skill: Card stats<Short distance random skill><Passive>
+48410	Melee Active Skill: Increase Threat Level<Short distance random skill>
+48411	Melee Active Skill: Decrease Threat Level<Short distance random skill>
+48412	Melee Active Skill: Unity<Short distance random skill>
+48413	Melee Active Skill: Breed Skill<Short distance random skill>
+48414	Melee Passive Skill: Weapon<Short distance random skill><Passive>
+48415	Melee Active Skill: Inspiration<Short distance random skill>
+48416	Melee Active Skill: Special<Short distance random skill>
+48417	Melee Active Skill: Secret<Short distance random skill>
+48418	Melee Passive Skill: Breed Skill<Short distance random skill><Passive>
+48419	Melee Active Skill: Enhancement Skill<Short distance random skill>
+48420	Melee Passive Skill: Stat Increase<Short distance random skill><Passive>
+48421	Melee Passive Skill: All Stats<Short distance random skill><Passive>
+48422	Unique Creature Passive Skill: All Stats<Random skill><Passive>
+48431	Ranged Passive Skill: Attack Power<Random skill of long distance><Passive>
+48432	Ranged Passive Skill: Defense Power<Random skill of long distance>
+48433	Ranged Passive Skill: Item XP<Random skill of long distance><Passive>
+48434	Ranged Passive Skill: Vitality<Random skill of long distance><Passive>
+48435	Ranged Passive Skill: Mana<Random skill of long distance><Passive>
+48436	Ranged Active Skill: Basic Attack<Random skill of long distance>
+48437	Ranged Active Skill: Enhanced Attack<Random skill of long distance>
+48438	Ranged Passive Skill: Armor<Random skill of long distance><Passive>
+48439	Ranged Passive Skill: Card stats<Random skill of long distance><Passive>
+48440	Ranged Active Skill: Increase Threat Level<Random skill of long distance>
+48441	Ranged Active Skill: Decrease Threat Level<Random skill of long distance>
+48442	Ranged Active Skill: Unity<Random skill of long distance>
+48443	Ranged Active Skill: Breed Skill<Random skill of long distance>
+48444	Ranged Passive Skill: Weapon<Random skill of long distance><Passive>
+48445	Ranged Active Skill: Inspiration<Random skill of long distance>
+48446	Ranged Active Skill: Special<Random skill of long distance>
+48447	Ranged Active Skill: Secret<Random skill of long distance>
+48448	Ranged Passive Skill: Breed Skill<Random skill of long distance><Passive>
+48449	Ranged Active Skill: Enhancement Skill<Random skill of long distance>
+48450	Ranged Passive Skill: Stat Increase<Random skill of long distance><Passive>
+48451	Ranged Passive Skill: All Stats<Random skill of long distance><Passive>
+48461	Magic Passive Skill: Attack Power<Magic random skill><Passive>
+48462	Magic Passive Skill: Defense Power<Magic random skill>
+48463	Magic Passive Skill: Item XP<Magic random skill><Passive>
+48464	Magic Passive Skill: Viltality<Magic random skill><Passive>
+48465	Magic Passive Skill: Mana<Magic random skill><Passive>
+48466	Magic Active Skill: Basic Attack<Magic random skill>
+48467	Magic Active Skill: Enhanced Attack<Magic random skill>
+48468	Magic Passive Skill: Armor<Magic random skill><Passive>
+48469	Magic Passive Skill: Card stats<Magic random skill><Passive>
+48470	Magic Active Skill: Increase Threat Level<Magic random skill>
+48471	Magic Active Skill: Decrease Threat Level<Magic random skill>
+48472	Magic Active Skill: Unity<Magic random skill>
+48473	Magic Active Skill: Breed Skill<Magic random skill>
+48474	Magic Passive Skill: Weapon<Magic random skill><Passive>
+48475	Magic Active Skill: Inspiration<Magic random skill>
+48476	Magic Active Skill: Special<Magic random skill>
+48477	Magic Active Skill: Secret<Magic random skill>
+48478	Magic Passive Skill: Breed Skill<Magic random skill><Passive>
+48479	Magic Active Skill: Enhancement Skill<Magic random skill>
+48480	Magic Passive Skill: Stat Increase<Magic random skill><Passive>
+48481	Magic Passive Skill: All Stats<Magic random skill><Passive>
+48491	Special Class Skill: Decrease Damage Received<Decreasing of resistance damage><Passive>
+48492	Special Class Skill: Increase Damage Output<Increasing of strength damage><Passive>
+48493	Special: Special Active Skill<Other class special skills><active>
+48494	Special: Special Passive Skill<Other class special skills><Passive>
+48501	Spiritual Blessing: Soul Creature<1st>
+48502	Spiritual Blessing: Soul Creature<2nd>
+48503	Spiritual Blessing: Soul Creature<3rd>
+48504	Blessing of Strength: Soul Creature<1st>
+48505	Blessing of Strength: Soul Creature<2nd>
+48506	Blessing of Strength: Soul Creature<3rd>
+48507	Blessing of Intelligence: Soul Creature<1st>
+48508	Blessing of Intelligence: Soul Creature<2nd>
+48509	Blessing of Intelligence: Soul Creature<3rd>
+48510	Blessing of Agility: Soul Creature<1st>
+48511	Blessing of Agility: Soul Creature<2nd>
+48512	Blessing of Agility: Soul Creature<3rd>
+48513	Blessing of Vitality: Soul Creature<1st>
+48514	Blessing of Vitality: Soul Creature<2nd>
+48515	Blessing of Vitality: Soul Creature<3rd>
+48516	Blessing of Dexterity: Soul Creature<1st>
+48517	Blessing of Dexterity: Soul Creature<2nd>
+48518	Blessing of Dexterity: Soul Creature<3rd>
+48519	Blessing of Wisdom: Soul Creature<1st>
+48520	Blessing of Wisdom: Soul Creature<2nd>
+48521	Blessing of Wisdom: Soul Creature<3rd>
+48522	Unique Tanker type Active Skill: Duel Unity<Tanker Random Skill><Act>
+48523	Unique Short distance type Active Skill: Duel Unity<Short distance Random Skill><Act>
+48524	Unique Healer type Active Skill: Duel Unity<Healer Random Skill><Act>
+48525	Unique Long distance type Active Skill: Duel Unity<Long distance Random Skill><Act>
+48526	Unique M.Atk type Active Skill: Duel Unity<M.Atk Random Skill><Act>
+48527	Unique Tanker type Active Skill: Unity<Tanker Random Skill><Act>
+48528	Unique Short distance type Active Skill: Unity<Short distance Random Skill><Act>
+48529	Unique Healer type Active Skill: Unity<Healer Random Skill><Act>
+48530	Unique Long distance type Active Skill: Unity<Long distance Random Skill><Act>
+48531	Unique M.Atk type Active Skill: Unity<M.Atk Random Skill><Act>
+48532	Unit Passive Skill: Fighter<Unique Creature Random Skill>
+48533	Unit Passive Skill: Wizardry<Unique Creature Random Skill>
+50101	Heavenly Restoration<Deva_race-specific(version:7.3)>
+50102	Divine Purpose<Deva_race-specific(version:7.3)>
+50201	Asuran Haste
+50202	Evasive Resilience
+50301	Gaian Strength<Gaia_race-specific(version:7.3)>
+50302	Gaian Resilience<Gaia_race-specific(version:7.3)>
+50303	Wheel of Destiny<Gaia_race-specific(version:7.3)>
+50401	Grace<Common Skill(version:7.3)>
+51012	Fighter's Combat Skill<For storage><version:7.3>
+51014	Archery Practice<For storage><version:7.3>
+51018	Natural Sorcery<For storage><version:7.3>
+51019	React<For storage><version:7.3>
+51082	Energy Mastery<For storage><version:7.3>
+51411	Speedy Spell<For storage><version:7.3>
+51811	Creature Mastery<For storage><version:7.3>
+51821	Creature Breeding<For storage><version:7.3>
+52003	Restrain<For storage><version:7.3>
+52005	Wild Stream<For storage><version:7.3>
+52007	Divine Crash<For storage><version:7.3>
+52008	Mighty Crash<For storage><version:7.3>
+52009	Wave Cut<For storage><version:7.3>
+52010	Thunderbolt Wind Cut<For storage><version:7.3>
+52012	Beast Shockwave <For storage><version:7.3>
+52019	Shield Charge<For storage><version:7.3>
+52020	Offense Breaker<For storage><version:7.3>
+52021	Defense Breaker<For storage><version:7.3>
+52022	Mental Breaker<For storage><version:7.3>
+52032	Dark Strike<For storage><version:7.3>
+52041	Spinning Blow<For storage><version:7.3>
+52043	Storming Serial Cut<For storage><version:7.3>
+52044	Log Split<For storage><version:7.3>
+52046	Blasting Rock Cut<For storage><version:7.3>
+52052	Earth Shaker<For storage><version:7.3>
+52053	Whirlwind Assault<For storage><version:7.3>
+52055	Spiracle Cannon<For storage><version:7.3>
+52056	Energy Bomb<For storage><version:7.3>
+52063	Physical Breaker<For storage><version:7.3>
+52074	Shadow Stab<For storage><version:7.3>
+52075	Shadow Crash<For storage><version:7.3>
+52076	Shadow Wound<For storage><version:7.3>
+52077	Fatal Wave<For storage><version:7.3>
+52303	Piercing Arrow<For storage><version:7.3>
+52304	Critical Shot<For storage><version:7.3>
+52305	Steel Cage<For storage><version:7.3>
+52312	Heat Shot<For storage><version:7.3>
+52313	Spiracle Shock Shot<For storage><version:7.3>
+52315	Freezing Arrow<For storage><version:7.3>
+52321	Resonance Shockwave<For storage><version:7.3>
+52326	Double Shot<For storage><version:7.3>
+52331	Poison Shot<For storage><version:7.3>
+52334	Blinding Shot<For storage><version:7.3>
+52501	Barbarian Rage<For storage><version:7.3>
+52502	Assassin Impact<For storage><version:7.3>
+52611	Active Guard<For storage><version:7.3>
+52626	Drain Arrow<For storage><version:7.3>
+52635	Provocation <For storage><version:7.3>
+52638	Shadow Rush<For storage><version:7.3>
+52641	Energy Charge<For storage><version:7.3>
+52642	Spiracle of Vitality<For storage><version:7.3>
+52649	Blinding Dust<For storage><version:7.3>
+52656	Essence of Thunder<For storage><version:7.3>
+52661	Essence of Invulnerability<For storage><version:7.3>
+52668	Mysterious Energy<For storage><version:7.3>
+52671	Burning Style<For storage><version:7.3>
+52672	Agile Style<For storage><version:7.3>
+52673	Dusk Style<For storage><version:7.3>
+52676	Subtle Enmity<For storage><version:7.3>
+52678	Spiral Arrow<For storage><version:7.3>
+52679	Thunderbolt Arrow<For storage><version:7.3>
+52681	Essence of Steel <For storage><version:7.3>
+53002	Frost Spear<For storage><version:7.3>
+53003	Shining Cross<For storage><version:7.3>
+53004	Shining Buster<For storage><version:7.3>
+53005	Acid Spray<For storage><version:7.3>
+53009	Divine Flash<For storage><version:7.3>
+53010	Judgment Buster<For storage><version:7.3>
+53012	Fireball<For storage><version:7.3>
+53014	Snow Slide<For storage><version:7.3>
+53015	Darkness Arrow<For storage><version:7.3>
+53017	Meteor Shower<For storage><version:7.3>
+53021	Scorching Flame<For storage><version:7.3>
+53040	Divine Nova<For storage><version:7.3>
+53151	Explosion of Petrifaction<For storage><version:7.3>
+53203	Corpse HP Drain<For storage><version:7.3>
+53204	Mass Healing<For storage><version:7.3>
+53205	Touch of the Goddess<For storage><version:7.3>
+53210	Restoration<For storage><version:7.3>
+53212	Corpse MP Drain<For storage><version:7.3>
+53222	Restoring Purified Water<For storage><version:7.3>
+53401	Blessing<For storage><version:7.3>
+53404	Blessing of Vitality<For storage><version:7.3>
+53405	Blessing of Intelligence<For storage><version:7.3>
+53406	Blessing of Wisdom<For storage><version:7.3>
+53407	Blessing of Strength<For storage><version:7.3>
+53409	Divine Shield<For storage><version:7.3>
+53412	Dark Might<For storage><version:7.3>
+53419	Recklessness of Fire<For storage><version:7.3>
+53420	Recklessness of Thunder<For storage><version:7.3>
+53421	Recklessness of Earth<For storage><version:7.3>
+53422	Recklessness of Water<For storage><version:7.3>
+53423	Speed of the Wind<For storage><version:7.3>
+53424	Rock Energy<For storage><version:7.3>
+53425	Force of Sacred Fire<For storage><version:7.3>
+53426	Enchant Weapon: Fire<For storage><version:7.3>
+53427	Anger of the Wild<For storage><version:7.3>
+53428	Spirit of Fire<For storage><version:7.3>
+53429	Wind Weapon<For storage><version:7.3>
+53432	Light Speed<For storage><version:7.3>
+53433	Shining Armor<For storage><version:7.3>
+53435	Neutralize Magic<For storage><version:7.3>
+53436	Mass Bless Armor<For storage><version:7.3>
+53437	Mass Bless Weapon<For storage><version:7.3>
+53438	Mass Bless Magic Armor<For storage><version:7.3>
+53439	Mass Bless Magic Power<For storage><version:7.3>
+53443	Paragon of Anger<For storage><version:7.3>
+53444	Strength of Darkness<For storage><version:7.3>
+53445	Shield of Nightmare<For storage><version:7.3>
+53454	Shining Weapon<For storage><version:7.3>
+53458	Magic Skin<For storage><version:7.3>
+53460	Heed of the Conjuror<For storage><version:7.3>
+53461	Haste of Conjuror<For storage><version:7.3>
+53492	Holy Aura<For storage><version:7.3>
+53601	Nightmare<For storage><version:7.3>
+53605	Corruption<For storage><version:7.3>
+53608	Mind Crisis<For storage><version:7.3>
+53614	Wide Windy Shackles<For storage><version:7.3>
+53752	Gravity Amplification<For storage><version:7.3>
+53803	Corpse Mine<For storage><version:7.3>
+53806	Spell Breaker<For storage><version:7.3>
+53810	Fear Trap<For storage><version:7.3>
+53815	Hate Aura<For storage><version:7.3>
+53901	Spirit of Restoration<For storage><version:7.3>
+54002	Beast Disguise<For storage><version:7.3>
+54012	Pass Damage<For storage><version:7.3>
+54204	Creature Restoration<For storage><version:7.3>
+54614	Lion's Claw<For storage><version:7.3>
+54802	Bloody Arrow<For storage><version:7.3>
+54805	Might of the Underworld<For storage><version:7.3>
+57002	Flash<For storage><version:7.3>
+57003	Frozen Snare<For storage><version:7.3>
+57012	Stun Mace<For storage><version:7.3>
+57203	Rapid Healing<For storage><version:7.3>
+57501	Double Impact<For storage><version:7.3>
+58014	Life Leech<For storage><version:7.3>
+58427	Enchant Weapon: Water<For storage><version:7.3>
+58428	Enchant Weapon: Lightning<For storage><version:7.3>
+58429	Enchant Weapon: Earth<For storage><version:7.3>
+61001	Offense Training
+61002	Fighter Weapon Mastery
+61003	Cleric Weapon Mastery
+61004	Assassin Weapon Mastery
+61005	Breeder Weapon Mastery
+61006	Magician Weapon Mastery
+61007	Summoner Weapon Mastery
+61008	Knight Weapon Mastery
+61009	Magical Training Mastery
+61010	Dual Blade Expert
+61011	Mind Defense
+61012	Fighter's Combat Skill
+61013	Kahuna's Combat Skill
+61014	Archery practice
+61015	Dual axe training
+61016	Two-Handed Axe Training
+61017	Archery Training
+61018	Natural Sorcery
+61019	React
+62001	Shield Blow
+62002	Shield Strike
+62003	Restrain
+62004	Holy Cross
+62005	Wild Stream
+62006	Laser Blade
+62007	Divine Crash
+62008	Mighty Crash
+62009	Wave Cut
+62010	Thunderbolt Wind Cut
+62011	Sonic Cross
+62012	Beast Shockwave
+62301	Dual Shot
+62302	Thrust Arrow
+62303	Piercing Arrow
+62304	Cursed Arrow
+62305	Steel Cage
+62306	Lightning Fury
+62307	Rapid Fire
+62501	Barbarian Rage
+63001	Earth Spear
+63002	Frost Spear
+63003	Shining Cross
+63004	Heaven's Spear
+63005	Lightning Field
+63006	Fire Storm
+63007	Fire Arrow
+63008	Lightning Bolt
+63009	Divine Flash
+63010	Judgment Buster
+63011	Judgment of the Goddess
+63012	Rock Pin
+63013	Earthquake
+63014	Snowslide
+63015	Spear of Flame
+63016	Huge Volcanic Eruption
+63017	Meteor Shower
+63201	Eternal Lifeguard
+63202	Celestial Offering
+63203	Corpse HP Drain
+63204	Mass Healing
+63205	Touch of the Goddess
+63206	Miracle
+63401	Blessing
+63402	Deflecting Shield
+63403	Shield of Revenge
+63404	Blessing of Vitality
+63405	Blessing of Intelligence
+63406	Blessing of Wisdom
+63407	Blessing of Strength
+63408	Minor Shining Armor
+63409	Divine Shield
+63410	Strength Support
+63411	Vitality Support
+63412	Intelligence Support
+63413	Organic Resistance
+63414	Inorganic Resistance
+63415	Spirit Resistance
+63416	Elemental Resistance
+63417	Divine Claw
+63418	Poison Arrow
+63419	Recklessness of Fire
+63420	Recklessness of Thunder
+63421	Recklessness of Earth
+63422	Recklessness of Water
+63423	Unity of Force
+63424	Unity of Vitality
+63425	Unity of Mentality
+63426	Unity of Intelligence
+63427	Anger of the Wild
+63428	Spirit of Fire
+63429	Wind Weapon
+63430	Spirit Support
+63431	Magic Support
+63432	Light Speed
+63433	Shining Armor
+63434	Mass HP Regeneration
+63435	Mass MP Regeneration
+63436	Mass Bless Armor
+63437	Mass Bless Weapon
+63438	Mass Bless Magic Armor
+63439	Mass Bless Magic Power
+63441	Reflection of the Soul
+63442	Gale of Reflection
+63443	Paragon of Anger
+63444	Strength of Darkness
+63445	Shield of Nightmare
+63601	Acid Swamp
+63602	Dark Water Seal
+63603	Threat of the Wild
+63604	Threat of Spirit
+63605	Corruption
+63801	Explosion Trap
+63802	Lightning Trap
+64001	Harmony of Life
+64002	Beast Disguise
+64201	Creature Life Transfer
+64202	Soothe Creature
+64203	Creature Purification
+64204	Creature Restoration
+64401	Strength Boost
+64402	Vitality Boost
+64403	Intelligence Boost
+64404	Wisdom Boost
+64405	Blood Aura
+64406	Spirit Aura
+64407	Aura of Halisha
+64801	Anger of Spirit
+64802	Creature HP Extract
+64803	Scream of the Underworld
+64804	Blood of the Underworld
+64805	Might of the Underworld
+64806	?¢¬???C ©©??¡ì<Ao?OCu>
+64807	?¢¬???C ©©??¡ì<¢¥U?©¬Cu>
+64808	?¢´?a?I ?¢¥<¢©?©©a ?????¢ç>
+64809	?¨©?i¡¤I¥ì? ????<?¡Æ¢¬¢ç ¡Æ?¡ÆY¡¤A ¡¾a?Y>
+64810	?¨©?i¡¤I¥ì? ¢¬¢Ò?y ????<¢¬¢Ò?y ¡Æ?¡ÆY¡¤A ¡¾a?Y>
+64811	??¡¾? A¢§¡¤a
+64812	?¢¨A¢Ò: ¡Æ¡©?¢Ò?C ¡¤¨©¢¥y ?U¢©?
+64813	©©???¢¬¨© ?? A©¬¥ì¢Ò<??¡¤¢¥ ?????¢ç>
+64814	©©???¢¬¨© ¢­¢çAu ?aC¡À<??¡¤¢¥ ?????¢ç>
+64815	Healing Stone<Death Match Exclusive>
+64816	Enter Death Match Normal Channel<Death Match Exclusive Return Skill>
+64817	Enter Death Match Free Channel  <Death Match Exclusive Return Skill>
+64818	Enter Ursa Caverns Lobby<Death Match Exclusive>
+64819	Petrification <Additional Skill for Lv. 40-50 Mob>
+64820	Intoxication <Additional Skill for Lv. 40-50 Mob>
+64821	Fear <Additional Skill for Lv. 40-50 Mob>
+64822	Sleep <Additional Skill for Lv. 40-50 Mob>
+64823	Decrease P. Def <Additional Skill for Lv. 40-50 Mob>
+64824	Decrease P. Atk <Additional Skill for Lv. 40-50 Mob>
+64825	Decrease Atk Spd <Additional Skill for Lv. 40-50 Mob>
+64826	Suspend MP Regeneration <Additional Skill for Lv. 40-50 Mob>
+64827	Return <Instance Game Exclusive Return Skill>
+64828	Petrification <Additional Skill for Lv. 51-60 Mob>
+64829	Intoxication <Additional Skill for Lv. 51-60 Mob>
+64830	Fear <Additional Skill for Lv. 51-60 Mob>
+64831	Sleep <Additional Skill for Lv. 51-60 Mob>
+64832	Decrease P. Def <Additional Skill for Lv. 51-60 Mob>
+64833	Decrease P. Atk <Additional Skill for Lv. 51-60 Mob>
+64834	Decrease Atk Spd <Additional Skill for Lv. 51-60 Mob>
+64835	Suspend MP Regeneration <Additional Skill for Lv. 51-60 Mob>
+64836	?¢ç?¡©<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64837	A©¬¥ì¢Ò<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64838	¡Æ??¡À<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64839	?¢§¢©?¥ì? ¢©??uCA<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64840	???i¡¤A ¡Æ¡§??<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64841	¡Æ?¡ÆY¡¤A ¡Æ¡§??<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64842	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64843	MP¢¬¢çA¡§ A¢´Ao<61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64844	?¢ç?¡©<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64845	A©¬¥ì¢Ò<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64846	¡Æ??¡À<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64847	?¢§¢©?¥ì? ¢©??uCA<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64848	???i¡¤A ¡Æ¡§??<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64849	¡Æ?¡ÆY¡¤A ¡Æ¡§??<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64850	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64851	MP¢¬¢çA¡§ A¢´Ao<71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64852	?¢ç?¡©<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64853	A©¬¥ì¢Ò<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64854	¡Æ??¡À<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64855	?¢§¢©?¥ì? ¢©??uCA<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64856	???i¡¤A ¡Æ¡§??<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64857	¡Æ?¡ÆY¡¤A ¡Æ¡§??<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64858	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64859	MP¢¬¢çA¡§ A¢´Ao<81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64860	?¢ç?¡©<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64861	A©¬¥ì¢Ò<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64862	¡Æ??¡À<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64863	?¢§¢©?¥ì? ¢©??uCA<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64864	???i¡¤A ¡Æ¡§??<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64865	¡Æ?¡ÆY¡¤A ¡Æ¡§??<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64866	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64867	MP¢¬¢çA¡§ A¢´Ao<91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64868	?¢ç?¡©<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64869	A©¬¥ì¢Ò<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64870	¡Æ??¡À<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64871	?¢§¢©?¥ì? ¢©??uCA<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64872	???i¡¤A ¡Æ¡§??<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64873	¡Æ?¡ÆY¡¤A ¡Æ¡§??<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64874	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64875	MP¢¬¢çA¡§ A¢´Ao<101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64876	?¢ç?¡©<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64877	A©¬¥ì¢Ò<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64878	¡Æ??¡À<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64879	?¢§¢©?¥ì? ¢©??uCA<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64880	???i¡¤A ¡Æ¡§??<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64881	¡Æ?¡ÆY¡¤A ¡Æ¡§??<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64882	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64883	MP¢¬¢çA¡§ A¢´Ao<111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64884	?¢ç?¡©<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64885	A©¬¥ì¢Ò<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64886	¡Æ??¡À<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64887	?¢§¢©?¥ì? ¢©??uCA<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64888	???i¡¤A ¡Æ¡§??<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64889	¡Æ?¡ÆY¡¤A ¡Æ¡§??<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64890	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64891	MP¢¬¢çA¡§ A¢´Ao<121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64892	?¢ç?¡©<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64893	A©¬¥ì¢Ò<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64894	¡Æ??¡À<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64895	?¢§¢©?¥ì? ¢©??uCA<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64896	???i¡¤A ¡Æ¡§??<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64897	¡Æ?¡ÆY¡¤A ¡Æ¡§??<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64898	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64899	MP¢¬¢çA¡§ A¢´Ao<131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64900	?¢ç?¡©<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64901	A©¬¥ì¢Ò<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64902	¡Æ??¡À<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64903	?¢§¢©?¥ì? ¢©??uCA<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64904	???i¡¤A ¡Æ¡§??<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64905	¡Æ?¡ÆY¡¤A ¡Æ¡§??<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64906	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64907	MP¢¬¢çA¡§ A¢´Ao<141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64908	?¢ç?¡©<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64909	A©¬¥ì¢Ò<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64910	¡Æ??¡À<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64911	?¢§¢©?¥ì? ¢©??uCA<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64912	???i¡¤A ¡Æ¡§??<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64913	¡Æ?¡ÆY¡¤A ¡Æ¡§??<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64914	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64915	MP¢¬¢çA¡§ A¢´Ao<151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64916	?¢ç?¡©<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64917	A©¬¥ì¢Ò<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64918	¡Æ??¡À<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64919	?¢§¢©?¥ì? ¢©??uCA<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64920	???i¡¤A ¡Æ¡§??<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64921	¡Æ?¡ÆY¡¤A ¡Æ¡§??<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64922	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64923	MP¢¬¢çA¡§ A¢´Ao<161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64924	?¢ç?¡©<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64925	A©¬¥ì¢Ò<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64926	¡Æ??¡À<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64927	?¢§¢©?¥ì? ¢©??uCA<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64928	???i¡¤A ¡Æ¡§??<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64929	¡Æ?¡ÆY¡¤A ¡Æ¡§??<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64930	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64931	MP¢¬¢çA¡§ A¢´Ao<171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64932	?¢ç?¡©<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64933	A©¬¥ì¢Ò<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64934	¡Æ??¡À<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64935	?¢§¢©?¥ì? ¢©??uCA<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64936	???i¡¤A ¡Æ¡§??<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64937	¡Æ?¡ÆY¡¤A ¡Æ¡§??<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64938	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64939	MP¢¬¢çA¡§ A¢´Ao<181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64940	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64941	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64942	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64943	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64944	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64945	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64946	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64947	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><40-50¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64948	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64949	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64950	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64951	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64952	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64953	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64954	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64955	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><51-60¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64956	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64957	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64958	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64959	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64960	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64961	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64962	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64963	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><61-70¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64964	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64965	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64966	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64967	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64968	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64969	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64970	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64971	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><71-80¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64972	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64973	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64974	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64975	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64976	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64977	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64978	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64979	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><81-90¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64980	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64981	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64982	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64983	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64984	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64985	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64986	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64987	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><91-100¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64988	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64989	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64990	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64991	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64992	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64993	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64994	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64995	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><101-110¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64996	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64997	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64998	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+64999	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65000	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65001	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65002	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65003	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><111-120¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65004	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65005	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65006	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65007	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65008	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65009	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65010	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65011	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><121-130¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65012	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65013	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65014	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65015	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65016	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65017	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65018	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65019	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><131-140¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65020	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65021	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65022	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65023	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65024	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65025	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65026	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65027	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><141-150¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65028	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65029	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65030	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65031	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65032	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65033	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65034	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65035	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><151-160¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65036	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65037	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65038	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65039	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65040	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65041	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65042	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65043	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><161-170¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65044	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65045	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65046	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65047	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65048	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65049	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65050	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65051	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><171-180¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65052	?¢ç?¡©<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65053	A©¬¥ì¢Ò<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65054	¡Æ??¡À<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65055	?¢§¢©?¥ì? ¢©??uCA<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65056	???i¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65057	¡Æ?¡ÆY¡¤A ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65058	¡Æ?¡ÆY?O¥ì¥ì ¡Æ¡§??<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65059	MP¢¬¢çA¡§ A¢´Ao<??¡Æ?¢¬¢ç¢©??©©><181-190¡¤??¡×¢¬o¢©??I¢©??©©?©¬¡Æ¢§?e>
+65060	¢¬o¢©??I ????<¡¤¨©¢¥y>
+65061	¢¬o¢©??I ????<???? AO?¢ç?¡©>
+65062	¢¬o¢©??I ????<???? AO?¢ç?¡©>
+65063	¢¬o¢©??I ????1<A?¢©??¢ç>
+65064	¢¬o¢©??I ????2<A?¢©??¢ç>
+65065	Summon monsters<Vulcanus>
+65066	Summon Monsters<Live_Quest>
+65067	Fireball(Monster Skill)
+65068	Summon Monsters:Vulcanus 40-50
+65069	Summon Monsters:Vulcanus 50-60
+65070	Summon Monsters:Vulcanus 60-70
+65071	Summon Monsters:Vulcanus 70-80
+65072	Summon Monsters:Vulcanus 80-90
+65073	Summon Monsters:Vulcanus 90-100
+65074	Summon Monsters:Vulcanus 110-110
+65075	Summon Monsters:Vulcanus 110-120
+65076	Summon Monsters:Vulcanus 120-130
+65077	Summon Monsters:Vulcanus 130-140
+65078	Summon Monsters:Vulcanus 140-150
+65079	Summon Monsters:Vulcanus 150-160
+65080	Summon Monsters:Vulcanus 160-300
+65081	Thunder heavy rain<Butkadah><Stun>
+65082	Thunder hurricane<Butkadah><Stun>
+65083	Mass spark slash<Akasha><Bleeding>
+65084	Mass thunder boomerang<Akasha><Bleeding>
+65085	Mass spark slash<Akasha><Bined>
+65086	Mass thunder boomerang<Akasha><Frenzy>
+65087	Thunder heavy rain<Butkadah><Judgement>
+65088	Creation space<Butkadah><DOT damage, increase att.pow>
+65089	Summon Monster<summon scroll>
+65090	Summon Monster<summon scroll>
+65091	Summon Monster<summon scroll>
+65092	Summon Monster<summon scroll>
+65093	Summon Monster<summon scroll>
+65094	Monster Summon<Summon Scroll>
+65100	Wise Potion HP Restoration
+65101	Wise Potion MP Restoration
+65102	Wise Potion HP/MP Restoration
+65103	Vital Regeneration Scroll
+65104	Vital Mana Scroll
+65105	Vital Healing Scroll
+65106	Summon Witch Followers<for grade2>
+65107	Summon Premutated Monster<for blue witch followers><for grade2>
+65108	Summon Premutated Monster<for gold witch followers><for grade2>
+65109	Summon Premutated Monster<for red witch followers><for grade2>
+65110	Blood Brother< blood sliming>
+65111	Boiling Blood<Medusa>
+65112	Mana Burn<?¢§????C?¡¤IAE??¡¤c¢©?>
+65113	Poison Orb<Basilisk>
+65114	Iced Up<witch followers>
+65115	Sliced Up<witch followers>
+65116	Rock Solid<witch followers>
+65117	Meteor Storm<witch worshiper ?u?e>
+65118	Freezing<witch followers><No unusual condition>
+65119	Burning<witch followers><No unusual condition>
+65120	Glowing<witch followers><No unusual condition>
+65121	Summon Witch Followers<3 stage>
+65122	Summon Witch Followers<4 stage>
+65123	Summon Mutated Monster<Skill of blue witch followers><3 stage>
+65124	Summon Mutated Monster<Skill of golden witch followers><3 stage>
+65125	Summon Mutated Monster<Skill of red witch followers><3 stage>
+65126	Summon Mutated Monster<Skill of blue witch followers><4 stage>
+65127	Summon Mutated Monster<Skill of golden witch followers><4 stage>
+65128	Summon Mutated Monster<Skill of red witch followers><4 stage>
+65129	Pierrot Summon<For stage 1>
+65130	Pierrot Summon<For stage 2>
+65131	Pierrot Summon<For stage 3>
+65132	Pierrot Summon<For stage 4>

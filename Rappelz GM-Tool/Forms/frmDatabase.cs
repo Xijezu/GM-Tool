@@ -115,8 +115,10 @@ namespace GM_Tool_V5 {
                         return "SELECT distinct i.id AS id, s.value AS value FROM ItemResource i LEFT JOIN StringResource s ON i.name_id = s.code LEFT JOIN SummonResource sr ON i.id = sr.card_id WHERE i.name_id = s.code and i.id = sr.card_id ORDER BY i.id;";
                     }
                     else {
-                        return "SELECT s.id, str.value FROM SummonResource s LEFT JOIN StringResource str ON s.name_id = str.code WHERE form = 1 ORDER BY s.id";
+                        return "SELECT s.id AS id, str.value AS value FROM SummonResource s LEFT JOIN StringResource str ON s.name_id = str.code WHERE form = 1 ORDER BY s.id";
                     }
+                case "Skilllist":
+                    return "SELECT s.id AS id, REPLACE(str.value, '<size:9>', '') AS value FROM SkillFullResource_92 s LEFT JOIN StringResource str ON s.text_id = str.code ORDER BY s.id";
                 default:
                     return String.Empty;
             }
@@ -159,6 +161,11 @@ namespace GM_Tool_V5 {
                             wndGlobalUI.pListPets = pNewList;
                             SFM.SafeFile( pNewList, "pets.txt" );
                             SFM.UpdateDataGridView( wndGlobalUI.dgvPets, pNewList );
+                            break;
+                        case "Skilllist":
+                            wndGlobalUI.pListSkills = pNewList;
+                            SFM.SafeFile( pNewList, "skills.txt" );
+                            SFM.UpdateDataGridView( wndGlobalUI.dgvSkills, pNewList );
                             break;
                         default:
                             break;
