@@ -35,7 +35,7 @@
     <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\Xijezu.ico</ApplicationIcon>
+    <ApplicationIcon>Xijezu.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SFM.cs" />
     <Compile Include="Forms\frmDatabase.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,7 +79,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="SFM.cs" />
     <Compile Include="Styles\Toolstrip.cs" />
     <Compile Include="Styles\XButton.cs">
       <SubType>Component</SubType>
@@ -179,6 +179,12 @@
     <EmbeddedResource Include="Resources\warplist.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_fitting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Xijezu.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
