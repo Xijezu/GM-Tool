@@ -51,7 +51,7 @@ namespace GM_Tool_V5 {
         }
 
         private void MutePlayer(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run block_chat(\"{0}\", {1})", tbMuteCharacter.Text, tbMuteTime.Text);
+            SFM.CopyToClipboard("/block_chat {0} {1}", tbMuteCharacter.Text, tbMuteTime.Text);
         }
 
         private void KickPlayer(object sender, EventArgs e) {
