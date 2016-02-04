@@ -30,14 +30,14 @@
             this.btn_Window_Minimize = new System.Windows.Forms.Button();
             this.btn_Window_Resize = new System.Windows.Forms.Button();
             this.btn_Window_Close = new System.Windows.Forms.Button();
-            this.tbDbAddress = new GM_Tool_V5.XTextBox();
+            this.btnGenerateList = new GM_Tool_V5.XButton();
+            this.cbSelectedList = new GM_Tool_V5.XComboBox();
             this.xPanel1 = new GM_Tool_V5.XPanel();
             this.tbDbUsername = new GM_Tool_V5.XTextBox();
             this.cbSavePassword = new System.Windows.Forms.CheckBox();
             this.tbDbPassword = new GM_Tool_V5.XTextBox();
             this.tbDbDatabase = new GM_Tool_V5.XTextBox();
-            this.cbSelectedList = new GM_Tool_V5.XComboBox();
-            this.btnGenerateList = new GM_Tool_V5.XButton();
+            this.tbDbAddress = new GM_Tool_V5.XTextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.xPanel1.SuspendLayout();
@@ -74,7 +74,7 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.label1.Location = new System.Drawing.Point(37, 6);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 15);
+            this.label1.Size = new System.Drawing.Size(121, 15);
             this.label1.TabIndex = 4;
             this.label1.Text = "Xijezu\'s GM-Tool V5.2";
             // 
@@ -133,83 +133,23 @@
             this.btn_Window_Close.UseVisualStyleBackColor = false;
             this.btn_Window_Close.Click += new System.EventHandler(this.btn_Window_Close_Click);
             // 
-            // tbDbAddress
+            // btnGenerateList
             // 
-            this.tbDbAddress.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbAddress.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
-            this.tbDbAddress.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbDbAddress.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbDbAddress.Location = new System.Drawing.Point(66, 27);
-            this.tbDbAddress.Name = "tbDbAddress";
-            this.tbDbAddress.NumericTextBox = false;
-            this.tbDbAddress.Size = new System.Drawing.Size(122, 20);
-            this.tbDbAddress.TabIndex = 0;
-            this.tbDbAddress.Text = "localhost";
-            // 
-            // xPanel1
-            // 
-            this.xPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.xPanel1.Controls.Add(this.tbDbUsername);
-            this.xPanel1.Controls.Add(this.cbSavePassword);
-            this.xPanel1.Controls.Add(this.tbDbPassword);
-            this.xPanel1.Controls.Add(this.tbDbDatabase);
-            this.xPanel1.Controls.Add(this.tbDbAddress);
-            this.xPanel1.Location = new System.Drawing.Point(12, 33);
-            this.xPanel1.Name = "xPanel1";
-            this.xPanel1.Size = new System.Drawing.Size(254, 165);
-            this.xPanel1.TabIndex = 4;
-            // 
-            // tbDbUsername
-            // 
-            this.tbDbUsername.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
-            this.tbDbUsername.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbDbUsername.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbDbUsername.Location = new System.Drawing.Point(66, 79);
-            this.tbDbUsername.Name = "tbDbUsername";
-            this.tbDbUsername.NumericTextBox = false;
-            this.tbDbUsername.Size = new System.Drawing.Size(122, 20);
-            this.tbDbUsername.TabIndex = 2;
-            this.tbDbUsername.Text = "sa";
-            // 
-            // cbSavePassword
-            // 
-            this.cbSavePassword.AutoSize = true;
-            this.cbSavePassword.Location = new System.Drawing.Point(66, 131);
-            this.cbSavePassword.Name = "cbSavePassword";
-            this.cbSavePassword.Size = new System.Drawing.Size(99, 17);
-            this.cbSavePassword.TabIndex = 4;
-            this.cbSavePassword.Text = "Save (plaintext)";
-            this.cbSavePassword.UseVisualStyleBackColor = true;
-            // 
-            // tbDbPassword
-            // 
-            this.tbDbPassword.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
-            this.tbDbPassword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbDbPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbDbPassword.Location = new System.Drawing.Point(66, 105);
-            this.tbDbPassword.Name = "tbDbPassword";
-            this.tbDbPassword.NumericTextBox = false;
-            this.tbDbPassword.Size = new System.Drawing.Size(122, 20);
-            this.tbDbPassword.TabIndex = 3;
-            this.tbDbPassword.Text = "password";
-            this.tbDbPassword.UseSystemPasswordChar = true;
-            // 
-            // tbDbDatabase
-            // 
-            this.tbDbDatabase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbDatabase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
-            this.tbDbDatabase.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbDbDatabase.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbDbDatabase.Location = new System.Drawing.Point(66, 53);
-            this.tbDbDatabase.Name = "tbDbDatabase";
-            this.tbDbDatabase.NumericTextBox = false;
-            this.tbDbDatabase.Size = new System.Drawing.Size(122, 20);
-            this.tbDbDatabase.TabIndex = 1;
-            this.tbDbDatabase.Text = "Arcadia";
+            this.btnGenerateList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnGenerateList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnGenerateList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnGenerateList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnGenerateList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnGenerateList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGenerateList.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.btnGenerateList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnGenerateList.Location = new System.Drawing.Point(142, 204);
+            this.btnGenerateList.Name = "btnGenerateList";
+            this.btnGenerateList.Size = new System.Drawing.Size(124, 23);
+            this.btnGenerateList.TabIndex = 6;
+            this.btnGenerateList.Text = "Generate and save list";
+            this.btnGenerateList.UseVisualStyleBackColor = false;
+            this.btnGenerateList.Click += new System.EventHandler(this.btnGenerateList_Click);
             // 
             // cbSelectedList
             // 
@@ -219,6 +159,7 @@
             this.cbSelectedList.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
             this.cbSelectedList.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.cbSelectedList.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbSelectedList.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbSelectedList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbSelectedList.FormattingEnabled = true;
             this.cbSelectedList.Items.AddRange(new object[] {
@@ -231,22 +172,88 @@
             this.cbSelectedList.Size = new System.Drawing.Size(124, 21);
             this.cbSelectedList.TabIndex = 5;
             // 
-            // btnGenerateList
+            // xPanel1
             // 
-            this.btnGenerateList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnGenerateList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnGenerateList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnGenerateList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnGenerateList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
-            this.btnGenerateList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnGenerateList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnGenerateList.Location = new System.Drawing.Point(142, 204);
-            this.btnGenerateList.Name = "btnGenerateList";
-            this.btnGenerateList.Size = new System.Drawing.Size(124, 23);
-            this.btnGenerateList.TabIndex = 6;
-            this.btnGenerateList.Text = "Generate and save list";
-            this.btnGenerateList.UseVisualStyleBackColor = false;
-            this.btnGenerateList.Click += new System.EventHandler(this.btnGenerateList_Click);
+            this.xPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel1.Controls.Add(this.tbDbUsername);
+            this.xPanel1.Controls.Add(this.cbSavePassword);
+            this.xPanel1.Controls.Add(this.tbDbPassword);
+            this.xPanel1.Controls.Add(this.tbDbDatabase);
+            this.xPanel1.Controls.Add(this.tbDbAddress);
+            this.xPanel1.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.xPanel1.Location = new System.Drawing.Point(12, 33);
+            this.xPanel1.Name = "xPanel1";
+            this.xPanel1.Size = new System.Drawing.Size(254, 165);
+            this.xPanel1.TabIndex = 4;
+            // 
+            // tbDbUsername
+            // 
+            this.tbDbUsername.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbDbUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbUsername.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbUsername.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.tbDbUsername.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbDbUsername.Location = new System.Drawing.Point(66, 79);
+            this.tbDbUsername.Name = "tbDbUsername";
+            this.tbDbUsername.NumericTextBox = false;
+            this.tbDbUsername.Size = new System.Drawing.Size(122, 22);
+            this.tbDbUsername.TabIndex = 2;
+            this.tbDbUsername.Text = "sa";
+            // 
+            // cbSavePassword
+            // 
+            this.cbSavePassword.AutoSize = true;
+            this.cbSavePassword.Location = new System.Drawing.Point(66, 131);
+            this.cbSavePassword.Name = "cbSavePassword";
+            this.cbSavePassword.Size = new System.Drawing.Size(103, 17);
+            this.cbSavePassword.TabIndex = 4;
+            this.cbSavePassword.Text = "Save (plaintext)";
+            this.cbSavePassword.UseVisualStyleBackColor = true;
+            // 
+            // tbDbPassword
+            // 
+            this.tbDbPassword.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbDbPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbPassword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbPassword.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.tbDbPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbDbPassword.Location = new System.Drawing.Point(66, 105);
+            this.tbDbPassword.Name = "tbDbPassword";
+            this.tbDbPassword.NumericTextBox = false;
+            this.tbDbPassword.Size = new System.Drawing.Size(122, 22);
+            this.tbDbPassword.TabIndex = 3;
+            this.tbDbPassword.Text = "password";
+            this.tbDbPassword.UseSystemPasswordChar = true;
+            // 
+            // tbDbDatabase
+            // 
+            this.tbDbDatabase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbDbDatabase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbDatabase.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbDatabase.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.tbDbDatabase.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbDbDatabase.Location = new System.Drawing.Point(66, 53);
+            this.tbDbDatabase.Name = "tbDbDatabase";
+            this.tbDbDatabase.NumericTextBox = false;
+            this.tbDbDatabase.Size = new System.Drawing.Size(122, 22);
+            this.tbDbDatabase.TabIndex = 1;
+            this.tbDbDatabase.Text = "Arcadia";
+            // 
+            // tbDbAddress
+            // 
+            this.tbDbAddress.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbDbAddress.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbAddress.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbAddress.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.tbDbAddress.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbDbAddress.Location = new System.Drawing.Point(66, 27);
+            this.tbDbAddress.Name = "tbDbAddress";
+            this.tbDbAddress.NumericTextBox = false;
+            this.tbDbAddress.Size = new System.Drawing.Size(122, 22);
+            this.tbDbAddress.TabIndex = 0;
+            this.tbDbAddress.Text = "localhost";
             // 
             // frmDatabase
             // 
