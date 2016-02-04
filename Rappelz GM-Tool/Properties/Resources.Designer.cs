@@ -132,6 +132,16 @@ namespace GM_Tool_V5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap logo_fitting {
+            get {
+                object obj = ResourceManager.GetObject("logo_fitting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_white {
             get {
                 object obj = ResourceManager.GetObject("logo_white", resourceCulture);
