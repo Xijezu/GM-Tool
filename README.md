@@ -2,7 +2,7 @@
 Xijezu's Rappelz GM-Tool is the most used GM-Tool for Rappelz private servers.
 His GM-Tool was the first client sided GM-Tool for Rappelz.
 
-![Screenshot of Version 5](https://i.xijezu.io/HZoH4.png)
+![Screenshot of Version 5](https://i.xijezu.com/vAek7.png)
 
 # Changelog
 - REWROTE FROM SCRATCH!
