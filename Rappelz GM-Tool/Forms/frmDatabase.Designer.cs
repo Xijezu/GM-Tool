@@ -137,13 +137,14 @@
             // 
             this.btnGenerateList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnGenerateList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnGenerateList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnGenerateList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnGenerateList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnGenerateList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnGenerateList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGenerateList.Font = new System.Drawing.Font("Segoe UI", 8F);
             this.btnGenerateList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnGenerateList.Location = new System.Drawing.Point(142, 204);
+            this.btnGenerateList.Location = new System.Drawing.Point(142, 206);
             this.btnGenerateList.Name = "btnGenerateList";
             this.btnGenerateList.Size = new System.Drawing.Size(124, 23);
             this.btnGenerateList.TabIndex = 6;
@@ -155,9 +156,8 @@
             // 
             this.cbSelectedList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbSelectedList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbSelectedList.BorderColor = System.Drawing.Color.Black;
-            this.cbSelectedList.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbSelectedList.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.cbSelectedList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbSelectedList.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbSelectedList.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbSelectedList.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbSelectedList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
@@ -170,7 +170,7 @@
             "Skilllist"});
             this.cbSelectedList.Location = new System.Drawing.Point(12, 206);
             this.cbSelectedList.Name = "cbSelectedList";
-            this.cbSelectedList.Size = new System.Drawing.Size(124, 21);
+            this.cbSelectedList.Size = new System.Drawing.Size(124, 23);
             this.cbSelectedList.TabIndex = 5;
             // 
             // xPanel1
@@ -178,6 +178,7 @@
             this.xPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel1.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel1.Controls.Add(this.tbDbUsername);
             this.xPanel1.Controls.Add(this.cbSavePassword);
             this.xPanel1.Controls.Add(this.tbDbPassword);
@@ -192,8 +193,9 @@
             // tbDbUsername
             // 
             this.tbDbUsername.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbDbUsername.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbUsername.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbDbUsername.Font = new System.Drawing.Font("Segoe UI", 8F);
             this.tbDbUsername.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbDbUsername.Location = new System.Drawing.Point(66, 79);
@@ -216,8 +218,9 @@
             // tbDbPassword
             // 
             this.tbDbPassword.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbDbPassword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbPassword.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbDbPassword.Font = new System.Drawing.Font("Segoe UI", 8F);
             this.tbDbPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbDbPassword.Location = new System.Drawing.Point(66, 105);
@@ -231,8 +234,9 @@
             // tbDbDatabase
             // 
             this.tbDbDatabase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbDatabase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbDatabase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbDbDatabase.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbDatabase.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbDbDatabase.Font = new System.Drawing.Font("Segoe UI", 8F);
             this.tbDbDatabase.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbDbDatabase.Location = new System.Drawing.Point(66, 53);
@@ -245,8 +249,9 @@
             // tbDbAddress
             // 
             this.tbDbAddress.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbDbAddress.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbDbAddress.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbDbAddress.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbDbAddress.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbDbAddress.Font = new System.Drawing.Font("Segoe UI", 8F);
             this.tbDbAddress.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbDbAddress.Location = new System.Drawing.Point(66, 27);

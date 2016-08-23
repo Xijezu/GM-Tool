@@ -1,5 +1,6 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
+using System.ComponentModel;
 
 namespace GM_Tool_V5 {
     class XTabControl : TabControl
@@ -12,6 +13,8 @@ namespace GM_Tool_V5 {
         public Color BackgroundColor { get; set; }
         public Font TabFont { get; set; }
         public Color TabForeColor { get; set; }
+        private XColorStyle _colorStyle = XColorStyle.Blue;
+        private XColors _colors = new XBlue();
         /// <summary>
         /// Constructor
         /// </summary>
@@ -24,10 +27,6 @@ namespace GM_Tool_V5 {
                 | ControlStyles.ResizeRedraw, true);
             this.ItemSize = new Size(100, 28);
             this.SizeMode = TabSizeMode.Normal;
-            this.TabBackgroundColor = Color.FromArgb(45, 45, 48);
-            this.SelectedTabBackroundColor = Color.FromArgb(0, 122, 204);
-            this.BackgroundColor = Color.FromArgb(45, 45, 48);
-            this.TabForeColor = Color.FromArgb(241, 241, 241);
             this.TabFont = new Font("Segoe UI", 9.0f, FontStyle.Regular, GraphicsUnit.Point);
         }
         /// <summary>
@@ -47,6 +46,32 @@ namespace GM_Tool_V5 {
             // Draw selected tab
             this.PaintSelectedTab(e.Graphics);
         }
+
+        private void setStyle()
+        {
+            if (_colorStyle == XColorStyle.Blue)
+                _colors = new XBlue();
+            else if (_colorStyle == XColorStyle.Red)
+                _colors = new XRed();
+            this.TabBackgroundColor = _colors.getBackgroundColor();
+            this.SelectedTabBackroundColor = _colors.getTabBGColor();
+            this.BackgroundColor = _colors.getBackgroundColor();
+            this.TabForeColor = _colors.getForeColor();
+        }
+
+        [Category("Appearance")]
+        public XColorStyle ColorStyle
+        {
+            get { return _colorStyle; }
+            set
+            {
+                _colorStyle = value;
+                setStyle();
+                Invalidate(); // causes control to be redrawn
+            }
+        }
+
+
         /// <summary>
         /// Paint tab
         /// </summary>
@@ -57,7 +82,7 @@ namespace GM_Tool_V5 {
             // Tab rectangle
             Rectangle TabRect = base.GetTabRect(Index);
             // Darker line color
-            Color TabLineColor = Color.FromArgb(0, 122, 204);
+            Color TabLineColor = _colors.getTabBGColor();
             // Tab bitmap & graphics object
             Bitmap TabBmp = new Bitmap(TabRect.Width, TabRect.Height);
             Graphics g = Graphics.FromImage(TabBmp);
@@ -85,7 +110,7 @@ namespace GM_Tool_V5 {
             // Tab rectangle
             Rectangle TabRect = base.GetTabRect(this.SelectedIndex);
             // Darker line color
-            Color TabLineColor = Color.FromArgb(0, 122, 204);
+            Color TabLineColor = _colors.getTabBGColor();
             // Tab bitmap & graphics object
             Bitmap TabBmp = new Bitmap(TabRect.Width, TabRect.Height);
             Graphics g = Graphics.FromImage(TabBmp);

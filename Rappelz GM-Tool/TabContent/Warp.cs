@@ -4,7 +4,7 @@ using System.Linq;
 namespace GM_Tool_V5 {
     partial class frmGlobalUI {
         private void Warp(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run warp({0}, {1}, \"{2}\")", tbWarpX.Text, tbWarpY.Text, GetSelectedCharacter());
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run warp({0}, {1})", tbWarpX.Text, tbWarpY.Text);
         }
 
         private void WarpToYou(object sender, EventArgs e) {

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
@@ -10,6 +11,7 @@ namespace GM_Tool_V5 {
         private frmGlobalUI wndGlobalUI = null;
         public frmDatabase(frmGlobalUI wndGlobal) {
             InitializeComponent();
+            ChangeStyle();
             tbDbAddress.Text = Properties.Settings.Default.dbAddress;
             tbDbDatabase.Text = Properties.Settings.Default.dbDatabase;
             tbDbUsername.Text = Properties.Settings.Default.dbUsername;
@@ -18,12 +20,26 @@ namespace GM_Tool_V5 {
         }
 
         #region Form functions
+        public IEnumerable<Control> GetSelfAndChildrenRecursive(Control parent)
+        {
+            List<Control> controls = new List<Control>();
+
+            foreach (Control child in parent.Controls)
+            {
+                controls.AddRange(GetSelfAndChildrenRecursive(child));
+            }
+
+            controls.Add(parent);
+
+            return controls;
+        }
+
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
 
-        [DllImportAttribute( "user32.dll" )]
+        [DllImportAttribute("user32.dll")]
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
-        [DllImportAttribute( "user32.dll" )]
+        [DllImportAttribute("user32.dll")]
         public static extern bool ReleaseCapture();
 
         /*
@@ -54,10 +70,10 @@ namespace GM_Tool_V5 {
 
             const int RESIZE_HANDLE_SIZE = 10;
             bool handled = false;
-            if ( m.Msg == WM_NCHITTEST || m.Msg == WM_MOUSEMOVE ) {
+            if (m.Msg == WM_NCHITTEST || m.Msg == WM_MOUSEMOVE) {
                 Size formSize = this.Size;
-                Point screenPoint = new Point( m.LParam.ToInt32() );
-                Point clientPoint = this.PointToClient( screenPoint );
+                Point screenPoint = new Point(m.LParam.ToInt32());
+                Point clientPoint = this.PointToClient(screenPoint);
 
                 Dictionary<UInt32, Rectangle> boxes = new Dictionary<UInt32, Rectangle>() {
             {HTBOTTOMLEFT, new Rectangle(0, formSize.Height - RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE)},
@@ -70,8 +86,8 @@ namespace GM_Tool_V5 {
             {HTLEFT, new Rectangle(0, RESIZE_HANDLE_SIZE, RESIZE_HANDLE_SIZE, formSize.Height - 2*RESIZE_HANDLE_SIZE) }
         };
 
-                foreach ( KeyValuePair<UInt32, Rectangle> hitBox in boxes ) {
-                    if ( hitBox.Value.Contains( clientPoint ) ) {
+                foreach (KeyValuePair<UInt32, Rectangle> hitBox in boxes) {
+                    if (hitBox.Value.Contains(clientPoint)) {
                         m.Result = (IntPtr)hitBox.Key;
                         handled = true;
                         break;
@@ -79,8 +95,8 @@ namespace GM_Tool_V5 {
                 }
             }
 
-            if ( !handled )
-                base.WndProc( ref m );
+            if (!handled)
+                base.WndProc(ref m);
         }
 
         private void btn_Window_Close_Click(object sender, EventArgs e) {
@@ -94,12 +110,28 @@ namespace GM_Tool_V5 {
         #endregion
 
         private SqlConnection GenerateSqlConnection() {
-            SqlConnection sqlCon = new SqlConnection( string.Format( "Server={0};Database={1};User Id={2};Password={3};",
+            SqlConnection sqlCon = new SqlConnection(string.Format("Server={0};Database={1};User Id={2};Password={3};",
                                                                     tbDbAddress.Text,
                                                                     tbDbDatabase.Text,
                                                                     tbDbUsername.Text,
-                                                                    tbDbPassword.Text ) );
+                                                                    tbDbPassword.Text));
             return sqlCon;
+        }
+
+        private void ChangeStyle()
+        {
+            if (XColors.CURRENT_COLOR == XColorStyle.Blue)
+            {
+                GetSelfAndChildrenRecursive(this).OfType<XButton>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XPanel>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                pictureBox1.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolBlue;
+            }
+            else
+            {
+                GetSelfAndChildrenRecursive(this).OfType<XButton>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XPanel>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                pictureBox1.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolRed;
+            }
         }
 
         private string GetSqlQuery(string value) {

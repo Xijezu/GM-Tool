@@ -28,24 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle29 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle30 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle34 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle35 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle36 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGlobalUI));
             this.panel1 = new System.Windows.Forms.Panel();
             this.pbLogo = new System.Windows.Forms.PictureBox();
@@ -74,7 +74,6 @@
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.useOldPetListToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lbBenchmark = new System.Windows.Forms.Label();
-            this.lbCharacter = new System.Windows.Forms.ListBox();
             this.tbCharacter = new GM_Tool_V5.XTextBox();
             this.btnCharacterDelete = new GM_Tool_V5.XButton();
             this.btnCharacterAdd = new GM_Tool_V5.XButton();
@@ -123,7 +122,7 @@
             this.tbItemEnchant = new GM_Tool_V5.XTextBox();
             this.tbItemLevel = new GM_Tool_V5.XTextBox();
             this.xPanel3 = new GM_Tool_V5.XPanel();
-            this.dgvItems = new System.Windows.Forms.DataGridView();
+            this.dgvItems = new GM_Tool_V5.XDataGridView();
             this.tpBuffs = new System.Windows.Forms.TabPage();
             this.xPanel10 = new GM_Tool_V5.XPanel();
             this.btnBuffsResetList = new GM_Tool_V5.XButton();
@@ -141,7 +140,7 @@
             this.tbBuffsLevel = new GM_Tool_V5.XTextBox();
             this.tbBuffsTime = new GM_Tool_V5.XTextBox();
             this.xPanel4 = new GM_Tool_V5.XPanel();
-            this.dgvBuffs = new System.Windows.Forms.DataGridView();
+            this.dgvBuffs = new GM_Tool_V5.XDataGridView();
             this.tpSpawn = new System.Windows.Forms.TabPage();
             this.xPanel13 = new GM_Tool_V5.XPanel();
             this.btnMonsterResetList = new GM_Tool_V5.XButton();
@@ -155,7 +154,7 @@
             this.tbMonsterX = new GM_Tool_V5.XTextBox();
             this.tbMonsterAmount = new GM_Tool_V5.XTextBox();
             this.xPanel6 = new GM_Tool_V5.XPanel();
-            this.dgvMonster = new System.Windows.Forms.DataGridView();
+            this.dgvMonster = new GM_Tool_V5.XDataGridView();
             this.tpPets = new System.Windows.Forms.TabPage();
             this.xPanel15 = new GM_Tool_V5.XPanel();
             this.btnPetsResetList = new GM_Tool_V5.XButton();
@@ -172,15 +171,17 @@
             this.lbPets = new System.Windows.Forms.Label();
             this.btnPetsAdd = new GM_Tool_V5.XButton();
             this.xPanel5 = new GM_Tool_V5.XPanel();
-            this.dgvPets = new System.Windows.Forms.DataGridView();
+            this.dgvPets = new GM_Tool_V5.XDataGridView();
             this.tpSkills = new System.Windows.Forms.TabPage();
             this.xPanel21 = new GM_Tool_V5.XPanel();
-            this.dgvSkills = new System.Windows.Forms.DataGridView();
+            this.dgvSkills = new GM_Tool_V5.XDataGridView();
             this.xPanel19 = new GM_Tool_V5.XPanel();
             this.btnSkillsResetList = new GM_Tool_V5.XButton();
             this.btnSkillsSearch = new GM_Tool_V5.XButton();
             this.tbSkillsSearch = new GM_Tool_V5.XTextBox();
             this.xPanel20 = new GM_Tool_V5.XPanel();
+            this.btnResetSkill = new GM_Tool_V5.XButton();
+            this.btnLearnCreatureSkill = new GM_Tool_V5.XButton();
             this.label2 = new System.Windows.Forms.Label();
             this.btnLearnSkill = new GM_Tool_V5.XButton();
             this.tpWarp = new System.Windows.Forms.TabPage();
@@ -198,12 +199,12 @@
             this.tbWarpY = new GM_Tool_V5.XTextBox();
             this.tbWarpX = new GM_Tool_V5.XTextBox();
             this.xPanel16 = new GM_Tool_V5.XPanel();
-            this.dgvWarps = new System.Windows.Forms.DataGridView();
+            this.dgvWarps = new GM_Tool_V5.XDataGridView();
             this.tpAbout = new System.Windows.Forms.TabPage();
+            this.btnChangeColor = new GM_Tool_V5.XButton();
             this.lbAbout = new System.Windows.Forms.Label();
             this.pbMX = new System.Windows.Forms.PictureBox();
-            this.btnLearnCreatureSkill = new GM_Tool_V5.XButton();
-            this.btnResetSkill = new GM_Tool_V5.XButton();
+            this.lbCharacter = new GM_Tool_V5.XListBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).BeginInit();
             this.mainMenu.SuspendLayout();
@@ -263,12 +264,12 @@
             // pbLogo
             // 
             this.pbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pbLogo.Image = global::GM_Tool_V5.Properties.Resources.logo_fitting;
+            this.pbLogo.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolBlue;
             this.pbLogo.InitialImage = null;
             this.pbLogo.Location = new System.Drawing.Point(3, 2);
             this.pbLogo.Name = "pbLogo";
             this.pbLogo.Size = new System.Drawing.Size(26, 26);
-            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbLogo.TabIndex = 1;
             this.pbLogo.TabStop = false;
             // 
@@ -307,12 +308,12 @@
             // 
             this.btn_Window_Resize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Window_Resize.BackColor = System.Drawing.Color.Transparent;
-            this.btn_Window_Resize.BackgroundImage = global::GM_Tool_V5.Properties.Resources.Resize3;
             this.btn_Window_Resize.Enabled = false;
             this.btn_Window_Resize.FlatAppearance.BorderSize = 0;
             this.btn_Window_Resize.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btn_Window_Resize.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btn_Window_Resize.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_Window_Resize.Image = global::GM_Tool_V5.Properties.Resources.Resize3;
             this.btn_Window_Resize.Location = new System.Drawing.Point(917, 0);
             this.btn_Window_Resize.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Window_Resize.Name = "btn_Window_Resize";
@@ -539,25 +540,12 @@
             this.lbBenchmark.Text = "(c) Xijezu 2015 - ";
             this.lbBenchmark.Click += new System.EventHandler(this.CopyrightClicked);
             // 
-            // lbCharacter
-            // 
-            this.lbCharacter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lbCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
-            this.lbCharacter.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.lbCharacter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.lbCharacter.FormattingEnabled = true;
-            this.lbCharacter.ItemHeight = 14;
-            this.lbCharacter.Location = new System.Drawing.Point(796, 88);
-            this.lbCharacter.Name = "lbCharacter";
-            this.lbCharacter.Size = new System.Drawing.Size(161, 266);
-            this.lbCharacter.TabIndex = 3;
-            // 
             // tbCharacter
             // 
             this.tbCharacter.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbCharacter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbCharacter.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbCharacter.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbCharacter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbCharacter.Location = new System.Drawing.Point(796, 358);
@@ -570,6 +558,7 @@
             // 
             this.btnCharacterDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCharacterDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnCharacterDelete.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnCharacterDelete.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterDelete.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterDelete.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -588,6 +577,7 @@
             // 
             this.btnCharacterAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCharacterAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnCharacterAdd.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnCharacterAdd.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterAdd.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterAdd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -608,6 +598,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tpGeneral.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tpGeneral.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tpGeneral.Controls.Add(this.tpCharacter);
             this.tpGeneral.Controls.Add(this.tpItems);
             this.tpGeneral.Controls.Add(this.tpBuffs);
@@ -646,6 +637,7 @@
             // 
             this.xPanel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
+            this.xPanel2.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel2.Controls.Add(this.btnCharacterKillTarget);
             this.xPanel2.Controls.Add(this.tbMuteCharacter);
             this.xPanel2.Controls.Add(this.tbKickCharacter);
@@ -670,6 +662,7 @@
             // 
             this.btnCharacterKillTarget.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCharacterKillTarget.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnCharacterKillTarget.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnCharacterKillTarget.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterKillTarget.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnCharacterKillTarget.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -687,8 +680,9 @@
             // tbMuteCharacter
             // 
             this.tbMuteCharacter.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMuteCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMuteCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMuteCharacter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMuteCharacter.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMuteCharacter.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbMuteCharacter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbMuteCharacter.Location = new System.Drawing.Point(12, 166);
@@ -701,8 +695,9 @@
             // tbKickCharacter
             // 
             this.tbKickCharacter.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbKickCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbKickCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbKickCharacter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbKickCharacter.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbKickCharacter.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbKickCharacter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbKickCharacter.Location = new System.Drawing.Point(133, 205);
@@ -716,6 +711,7 @@
             // 
             this.btnKickPlayer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnKickPlayer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnKickPlayer.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnKickPlayer.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnKickPlayer.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnKickPlayer.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -734,6 +730,7 @@
             // 
             this.btnMutePlayer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMutePlayer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnMutePlayer.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnMutePlayer.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMutePlayer.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMutePlayer.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -751,8 +748,9 @@
             // tbMuteTime
             // 
             this.tbMuteTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMuteTime.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMuteTime.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMuteTime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMuteTime.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMuteTime.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbMuteTime.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbMuteTime.Location = new System.Drawing.Point(133, 166);
@@ -766,6 +764,7 @@
             // 
             this.btnSendNotice4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSendNotice4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSendNotice4.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSendNotice4.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -784,6 +783,7 @@
             // 
             this.btnSendNotice3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSendNotice3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSendNotice3.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSendNotice3.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -802,6 +802,7 @@
             // 
             this.btnSendNotice2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSendNotice2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSendNotice2.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSendNotice2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -820,6 +821,7 @@
             // 
             this.btnSendNotice1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSendNotice1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSendNotice1.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSendNotice1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSendNotice1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -837,8 +839,9 @@
             // tbSendNotice4
             // 
             this.tbSendNotice4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSendNotice4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSendNotice4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSendNotice4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSendNotice4.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSendNotice4.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSendNotice4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbSendNotice4.Location = new System.Drawing.Point(12, 129);
@@ -851,8 +854,9 @@
             // tbSendNotice3
             // 
             this.tbSendNotice3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSendNotice3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSendNotice3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSendNotice3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSendNotice3.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSendNotice3.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSendNotice3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbSendNotice3.Location = new System.Drawing.Point(12, 91);
@@ -865,8 +869,9 @@
             // tbSendNotice2
             // 
             this.tbSendNotice2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSendNotice2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSendNotice2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSendNotice2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSendNotice2.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSendNotice2.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSendNotice2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbSendNotice2.Location = new System.Drawing.Point(12, 53);
@@ -879,8 +884,9 @@
             // tbSendNotice1
             // 
             this.tbSendNotice1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSendNotice1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSendNotice1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSendNotice1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSendNotice1.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSendNotice1.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSendNotice1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.tbSendNotice1.Location = new System.Drawing.Point(12, 15);
@@ -894,6 +900,7 @@
             // 
             this.xPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
+            this.xPanel1.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel1.Controls.Add(this.btnAddHuntaholicPoints);
             this.xPanel1.Controls.Add(this.tbHuntaholicPoints);
             this.xPanel1.Controls.Add(this.btnLearnCreatureAllSkill);
@@ -919,6 +926,7 @@
             // 
             this.btnAddHuntaholicPoints.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAddHuntaholicPoints.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnAddHuntaholicPoints.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnAddHuntaholicPoints.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnAddHuntaholicPoints.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnAddHuntaholicPoints.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -937,8 +945,9 @@
             // 
             this.tbHuntaholicPoints.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbHuntaholicPoints.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbHuntaholicPoints.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbHuntaholicPoints.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbHuntaholicPoints.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbHuntaholicPoints.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbHuntaholicPoints.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbHuntaholicPoints.Location = new System.Drawing.Point(18, 53);
@@ -953,6 +962,7 @@
             // 
             this.btnLearnCreatureAllSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnLearnCreatureAllSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnLearnCreatureAllSkill.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnLearnCreatureAllSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnCreatureAllSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnCreatureAllSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -971,6 +981,7 @@
             // 
             this.btnLearnAllSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnLearnAllSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnLearnAllSkill.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnLearnAllSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnAllSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnAllSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -990,6 +1001,7 @@
             this.btnSetCreatureValue.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSetCreatureValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSetCreatureValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSetCreatureValue.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSetCreatureValue.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSetCreatureValue.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1007,8 +1019,9 @@
             // tbCreatureSlot
             // 
             this.tbCreatureSlot.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbCreatureSlot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbCreatureSlot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbCreatureSlot.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbCreatureSlot.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbCreatureSlot.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbCreatureSlot.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbCreatureSlot.Location = new System.Drawing.Point(207, 129);
@@ -1022,8 +1035,9 @@
             // tbSetCreatureValue
             // 
             this.tbSetCreatureValue.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSetCreatureValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSetCreatureValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSetCreatureValue.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSetCreatureValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSetCreatureValue.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSetCreatureValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbSetCreatureValue.Location = new System.Drawing.Point(148, 129);
@@ -1037,9 +1051,8 @@
             // 
             this.cbSetCreatureValue.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbSetCreatureValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbSetCreatureValue.BorderColor = System.Drawing.Color.Black;
-            this.cbSetCreatureValue.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbSetCreatureValue.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbSetCreatureValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbSetCreatureValue.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbSetCreatureValue.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbSetCreatureValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbSetCreatureValue.FormattingEnabled = true;
@@ -1050,7 +1063,7 @@
             "jp"});
             this.cbSetCreatureValue.Location = new System.Drawing.Point(18, 128);
             this.cbSetCreatureValue.Name = "cbSetCreatureValue";
-            this.cbSetCreatureValue.Size = new System.Drawing.Size(124, 21);
+            this.cbSetCreatureValue.Size = new System.Drawing.Size(124, 23);
             this.cbSetCreatureValue.TabIndex = 7;
             this.cbSetCreatureValue.Text = "lv";
             // 
@@ -1059,6 +1072,7 @@
             this.btnChangeJob.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnChangeJob.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnChangeJob.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnChangeJob.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnChangeJob.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnChangeJob.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1077,9 +1091,8 @@
             // 
             this.cbChangeJob.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbChangeJob.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbChangeJob.BorderColor = System.Drawing.Color.Black;
-            this.cbChangeJob.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbChangeJob.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbChangeJob.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbChangeJob.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbChangeJob.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbChangeJob.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbChangeJob.FormattingEnabled = true;
@@ -1128,7 +1141,7 @@
             "Overlord"});
             this.cbChangeJob.Location = new System.Drawing.Point(18, 165);
             this.cbChangeJob.Name = "cbChangeJob";
-            this.cbChangeJob.Size = new System.Drawing.Size(124, 21);
+            this.cbChangeJob.Size = new System.Drawing.Size(124, 23);
             this.cbChangeJob.TabIndex = 11;
             this.cbChangeJob.Text = "Rogue";
             // 
@@ -1137,6 +1150,7 @@
             this.btnSetValue.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSetValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSetValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSetValue.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSetValue.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSetValue.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1155,9 +1169,8 @@
             // 
             this.cbSetValue.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbSetValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbSetValue.BorderColor = System.Drawing.Color.Black;
-            this.cbSetValue.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbSetValue.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbSetValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbSetValue.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbSetValue.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbSetValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbSetValue.FormattingEnabled = true;
@@ -1174,15 +1187,16 @@
             "permission"});
             this.cbSetValue.Location = new System.Drawing.Point(18, 90);
             this.cbSetValue.Name = "cbSetValue";
-            this.cbSetValue.Size = new System.Drawing.Size(124, 21);
+            this.cbSetValue.Size = new System.Drawing.Size(124, 23);
             this.cbSetValue.TabIndex = 4;
             this.cbSetValue.Text = "lv";
             // 
             // tbSVValue
             // 
             this.tbSVValue.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSVValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSVValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSVValue.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSVValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSVValue.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbSVValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbSVValue.Location = new System.Drawing.Point(148, 91);
@@ -1196,6 +1210,7 @@
             // 
             this.btnAddGold.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAddGold.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnAddGold.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnAddGold.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnAddGold.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnAddGold.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1214,8 +1229,9 @@
             // 
             this.tbCharacterGold.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbCharacterGold.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbCharacterGold.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbCharacterGold.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbCharacterGold.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbCharacterGold.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.tbCharacterGold.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbCharacterGold.Location = new System.Drawing.Point(18, 15);
@@ -1242,6 +1258,7 @@
             // xPanel8
             // 
             this.xPanel8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel8.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel8.Controls.Add(this.btnItemsResetList);
             this.xPanel8.Controls.Add(this.btnSearchItems);
             this.xPanel8.Controls.Add(this.tbItemsSearch);
@@ -1255,13 +1272,14 @@
             // 
             this.btnItemsResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnItemsResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnItemsResetList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnItemsResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnItemsResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnItemsResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnItemsResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnItemsResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnItemsResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnItemsResetList.Location = new System.Drawing.Point(217, 96);
+            this.btnItemsResetList.Location = new System.Drawing.Point(216, 99);
             this.btnItemsResetList.Name = "btnItemsResetList";
             this.btnItemsResetList.Size = new System.Drawing.Size(75, 23);
             this.btnItemsResetList.TabIndex = 2;
@@ -1273,13 +1291,14 @@
             // 
             this.btnSearchItems.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSearchItems.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSearchItems.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSearchItems.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSearchItems.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSearchItems.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnSearchItems.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSearchItems.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnSearchItems.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnSearchItems.Location = new System.Drawing.Point(136, 96);
+            this.btnSearchItems.Location = new System.Drawing.Point(135, 99);
             this.btnSearchItems.Name = "btnSearchItems";
             this.btnSearchItems.Size = new System.Drawing.Size(75, 23);
             this.btnSearchItems.TabIndex = 1;
@@ -1290,11 +1309,12 @@
             // tbItemsSearch
             // 
             this.tbItemsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbItemsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbItemsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbItemsSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbItemsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbItemsSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbItemsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbItemsSearch.Location = new System.Drawing.Point(12, 98);
+            this.tbItemsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbItemsSearch.Location = new System.Drawing.Point(11, 100);
             this.tbItemsSearch.Name = "tbItemsSearch";
             this.tbItemsSearch.NumericTextBox = false;
             this.tbItemsSearch.Size = new System.Drawing.Size(118, 22);
@@ -1304,6 +1324,7 @@
             // 
             this.xPanel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel7.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel7.Controls.Add(this.lbItems);
             this.xPanel7.Controls.Add(this.tbItemValue);
             this.xPanel7.Controls.Add(this.btnInsertItem);
@@ -1330,10 +1351,11 @@
             // tbItemValue
             // 
             this.tbItemValue.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbItemValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbItemValue.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbItemValue.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbItemValue.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbItemValue.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbItemValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbItemValue.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbItemValue.Location = new System.Drawing.Point(12, 53);
             this.tbItemValue.Name = "tbItemValue";
             this.tbItemValue.NumericTextBox = true;
@@ -1346,6 +1368,7 @@
             // 
             this.btnInsertItem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnInsertItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnInsertItem.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnInsertItem.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnInsertItem.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnInsertItem.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1363,10 +1386,11 @@
             // tbItemEnchant
             // 
             this.tbItemEnchant.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbItemEnchant.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbItemEnchant.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbItemEnchant.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbItemEnchant.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbItemEnchant.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbItemEnchant.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbItemEnchant.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbItemEnchant.Location = new System.Drawing.Point(12, 79);
             this.tbItemEnchant.Name = "tbItemEnchant";
             this.tbItemEnchant.NumericTextBox = true;
@@ -1378,10 +1402,11 @@
             // tbItemLevel
             // 
             this.tbItemLevel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbItemLevel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbItemLevel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbItemLevel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbItemLevel.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbItemLevel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbItemLevel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbItemLevel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbItemLevel.Location = new System.Drawing.Point(12, 105);
             this.tbItemLevel.Name = "tbItemLevel";
             this.tbItemLevel.NumericTextBox = true;
@@ -1395,6 +1420,7 @@
             this.xPanel3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel3.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel3.Controls.Add(this.dgvItems);
             this.xPanel3.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel3.Location = new System.Drawing.Point(6, 6);
@@ -1408,38 +1434,38 @@
             this.dgvItems.AllowUserToDeleteRows = false;
             this.dgvItems.AllowUserToResizeColumns = false;
             this.dgvItems.AllowUserToResizeRows = false;
-            dataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle19.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle19.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle19.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle19.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvItems.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle19;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvItems.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvItems.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvItems.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvItems.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvItems.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvItems.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle20.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle20.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle20.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle20.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle20.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvItems.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle20;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle2.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvItems.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvItems.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvItems.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle21.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle21.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle21.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle21.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvItems.DefaultCellStyle = dataGridViewCellStyle21;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvItems.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvItems.EnableHeadersVisualStyles = false;
             this.dgvItems.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvItems.Location = new System.Drawing.Point(3, 3);
@@ -1468,6 +1494,7 @@
             // xPanel10
             // 
             this.xPanel10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel10.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel10.Controls.Add(this.btnBuffsResetList);
             this.xPanel10.Controls.Add(this.btnBuffsSearch);
             this.xPanel10.Controls.Add(this.tbBuffsSearch);
@@ -1481,13 +1508,14 @@
             // 
             this.btnBuffsResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffsResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffsResetList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffsResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnBuffsResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuffsResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnBuffsResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnBuffsResetList.Location = new System.Drawing.Point(217, 96);
+            this.btnBuffsResetList.Location = new System.Drawing.Point(216, 99);
             this.btnBuffsResetList.Name = "btnBuffsResetList";
             this.btnBuffsResetList.Size = new System.Drawing.Size(75, 23);
             this.btnBuffsResetList.TabIndex = 2;
@@ -1499,13 +1527,14 @@
             // 
             this.btnBuffsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffsSearch.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnBuffsSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuffsSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnBuffsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnBuffsSearch.Location = new System.Drawing.Point(136, 96);
+            this.btnBuffsSearch.Location = new System.Drawing.Point(135, 99);
             this.btnBuffsSearch.Name = "btnBuffsSearch";
             this.btnBuffsSearch.Size = new System.Drawing.Size(75, 23);
             this.btnBuffsSearch.TabIndex = 1;
@@ -1516,11 +1545,12 @@
             // tbBuffsSearch
             // 
             this.tbBuffsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbBuffsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbBuffsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbBuffsSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbBuffsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbBuffsSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbBuffsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbBuffsSearch.Location = new System.Drawing.Point(12, 98);
+            this.tbBuffsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbBuffsSearch.Location = new System.Drawing.Point(11, 100);
             this.tbBuffsSearch.Name = "tbBuffsSearch";
             this.tbBuffsSearch.NumericTextBox = false;
             this.tbBuffsSearch.Size = new System.Drawing.Size(118, 22);
@@ -1530,6 +1560,7 @@
             // 
             this.xPanel9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel9.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel9.Controls.Add(this.lbBuffs);
             this.xPanel9.Controls.Add(this.btnBuffAddCreatureBuff);
             this.xPanel9.Controls.Add(this.btnBuffRemoveBuff);
@@ -1562,6 +1593,7 @@
             // 
             this.btnBuffAddCreatureBuff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffAddCreatureBuff.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffAddCreatureBuff.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffAddCreatureBuff.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffAddCreatureBuff.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffAddCreatureBuff.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1580,6 +1612,7 @@
             // 
             this.btnBuffRemoveBuff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffRemoveBuff.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffRemoveBuff.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffRemoveBuff.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffRemoveBuff.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffRemoveBuff.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1598,6 +1631,7 @@
             // 
             this.btnBuffAddBuff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffAddBuff.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffAddBuff.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffAddBuff.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffAddBuff.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffAddBuff.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1615,6 +1649,7 @@
             // xPanel11
             // 
             this.xPanel11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel11.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel11.Controls.Add(this.lboxBuffTime);
             this.xPanel11.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel11.Location = new System.Drawing.Point(136, 53);
@@ -1644,6 +1679,7 @@
             // 
             this.btnBuffRemoveEventBuff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffRemoveEventBuff.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffRemoveEventBuff.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffRemoveEventBuff.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffRemoveEventBuff.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffRemoveEventBuff.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1662,6 +1698,7 @@
             // 
             this.btnBuffsAddEventBuff.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnBuffsAddEventBuff.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnBuffsAddEventBuff.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnBuffsAddEventBuff.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsAddEventBuff.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnBuffsAddEventBuff.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1679,10 +1716,11 @@
             // tbBuffsLevel
             // 
             this.tbBuffsLevel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbBuffsLevel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbBuffsLevel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbBuffsLevel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbBuffsLevel.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbBuffsLevel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbBuffsLevel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbBuffsLevel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbBuffsLevel.Location = new System.Drawing.Point(12, 79);
             this.tbBuffsLevel.Name = "tbBuffsLevel";
             this.tbBuffsLevel.NumericTextBox = true;
@@ -1694,10 +1732,11 @@
             // tbBuffsTime
             // 
             this.tbBuffsTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbBuffsTime.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbBuffsTime.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbBuffsTime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbBuffsTime.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbBuffsTime.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbBuffsTime.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbBuffsTime.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbBuffsTime.Location = new System.Drawing.Point(12, 53);
             this.tbBuffsTime.Name = "tbBuffsTime";
             this.tbBuffsTime.NumericTextBox = true;
@@ -1711,6 +1750,7 @@
             this.xPanel4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel4.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel4.Controls.Add(this.dgvBuffs);
             this.xPanel4.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel4.Location = new System.Drawing.Point(6, 6);
@@ -1724,38 +1764,38 @@
             this.dgvBuffs.AllowUserToDeleteRows = false;
             this.dgvBuffs.AllowUserToResizeColumns = false;
             this.dgvBuffs.AllowUserToResizeRows = false;
-            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle22.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle22.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle22.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle22.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvBuffs.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle22;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvBuffs.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvBuffs.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvBuffs.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvBuffs.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvBuffs.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvBuffs.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle23.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle23.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle23.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle23.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvBuffs.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle23;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle5.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvBuffs.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dgvBuffs.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvBuffs.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle24.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle24.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle24.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvBuffs.DefaultCellStyle = dataGridViewCellStyle24;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvBuffs.DefaultCellStyle = dataGridViewCellStyle6;
             this.dgvBuffs.EnableHeadersVisualStyles = false;
             this.dgvBuffs.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvBuffs.Location = new System.Drawing.Point(3, 3);
@@ -1763,6 +1803,7 @@
             this.dgvBuffs.Name = "dgvBuffs";
             this.dgvBuffs.ReadOnly = true;
             this.dgvBuffs.RowHeadersVisible = false;
+            this.dgvBuffs.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.dgvBuffs.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBuffs.Size = new System.Drawing.Size(379, 302);
             this.dgvBuffs.TabIndex = 1;
@@ -1783,6 +1824,7 @@
             // xPanel13
             // 
             this.xPanel13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel13.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel13.Controls.Add(this.btnMonsterResetList);
             this.xPanel13.Controls.Add(this.btnMonsterSearch);
             this.xPanel13.Controls.Add(this.tbMonsterSearch);
@@ -1796,13 +1838,14 @@
             // 
             this.btnMonsterResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMonsterResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnMonsterResetList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnMonsterResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnMonsterResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMonsterResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnMonsterResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnMonsterResetList.Location = new System.Drawing.Point(217, 96);
+            this.btnMonsterResetList.Location = new System.Drawing.Point(216, 99);
             this.btnMonsterResetList.Name = "btnMonsterResetList";
             this.btnMonsterResetList.Size = new System.Drawing.Size(75, 23);
             this.btnMonsterResetList.TabIndex = 2;
@@ -1814,13 +1857,14 @@
             // 
             this.btnMonsterSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMonsterSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnMonsterSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnMonsterSearch.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnMonsterSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMonsterSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnMonsterSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnMonsterSearch.Location = new System.Drawing.Point(136, 96);
+            this.btnMonsterSearch.Location = new System.Drawing.Point(135, 99);
             this.btnMonsterSearch.Name = "btnMonsterSearch";
             this.btnMonsterSearch.Size = new System.Drawing.Size(75, 23);
             this.btnMonsterSearch.TabIndex = 1;
@@ -1831,11 +1875,12 @@
             // tbMonsterSearch
             // 
             this.tbMonsterSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMonsterSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMonsterSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMonsterSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMonsterSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMonsterSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbMonsterSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbMonsterSearch.Location = new System.Drawing.Point(12, 98);
+            this.tbMonsterSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbMonsterSearch.Location = new System.Drawing.Point(11, 100);
             this.tbMonsterSearch.Name = "tbMonsterSearch";
             this.tbMonsterSearch.NumericTextBox = false;
             this.tbMonsterSearch.Size = new System.Drawing.Size(118, 22);
@@ -1845,6 +1890,7 @@
             // 
             this.xPanel12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel12.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel12.Controls.Add(this.cbCustomCoordinates);
             this.xPanel12.Controls.Add(this.lbMonster);
             this.xPanel12.Controls.Add(this.btnMonsterSpawn);
@@ -1875,16 +1921,17 @@
             this.lbMonster.AutoSize = true;
             this.lbMonster.Location = new System.Drawing.Point(12, 4);
             this.lbMonster.Name = "lbMonster";
-            this.lbMonster.Size = new System.Drawing.Size(364, 39);
+            this.lbMonster.Size = new System.Drawing.Size(353, 39);
             this.lbMonster.TabIndex = 4;
             this.lbMonster.Text = "Fill your world with some evil monsters!\r\nIf you leave out the X and Y coordinate" +
-    "s, the monster will spawn right\r\nnext to you. Don\'t spawn too many, the gameserv" +
-    "er might crash.";
+    "s, the monster will spawn on\r\ntop of you. Don\'t spawn too many, the gameserver m" +
+    "ight crash.";
             // 
             // btnMonsterSpawn
             // 
             this.btnMonsterSpawn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMonsterSpawn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnMonsterSpawn.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnMonsterSpawn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterSpawn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnMonsterSpawn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -1902,11 +1949,12 @@
             // tbMonsterY
             // 
             this.tbMonsterY.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMonsterY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMonsterY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMonsterY.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMonsterY.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMonsterY.Enabled = false;
             this.tbMonsterY.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbMonsterY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbMonsterY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbMonsterY.Location = new System.Drawing.Point(74, 79);
             this.tbMonsterY.Name = "tbMonsterY";
             this.tbMonsterY.NumericTextBox = true;
@@ -1918,11 +1966,12 @@
             // tbMonsterX
             // 
             this.tbMonsterX.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMonsterX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMonsterX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMonsterX.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMonsterX.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMonsterX.Enabled = false;
             this.tbMonsterX.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbMonsterX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbMonsterX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbMonsterX.Location = new System.Drawing.Point(12, 79);
             this.tbMonsterX.Name = "tbMonsterX";
             this.tbMonsterX.NumericTextBox = true;
@@ -1934,10 +1983,11 @@
             // tbMonsterAmount
             // 
             this.tbMonsterAmount.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMonsterAmount.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbMonsterAmount.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbMonsterAmount.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbMonsterAmount.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbMonsterAmount.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbMonsterAmount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbMonsterAmount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbMonsterAmount.Location = new System.Drawing.Point(12, 53);
             this.tbMonsterAmount.Name = "tbMonsterAmount";
             this.tbMonsterAmount.NumericTextBox = true;
@@ -1951,6 +2001,7 @@
             this.xPanel6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel6.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel6.Controls.Add(this.dgvMonster);
             this.xPanel6.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel6.Location = new System.Drawing.Point(6, 6);
@@ -1964,38 +2015,38 @@
             this.dgvMonster.AllowUserToDeleteRows = false;
             this.dgvMonster.AllowUserToResizeColumns = false;
             this.dgvMonster.AllowUserToResizeRows = false;
-            dataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle25.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle25.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle25.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle25.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvMonster.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle25;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvMonster.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle7;
             this.dgvMonster.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvMonster.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvMonster.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvMonster.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvMonster.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle26.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle26.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle26.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle26.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle26.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle26.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvMonster.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle26;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle8.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvMonster.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle8;
             this.dgvMonster.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvMonster.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle27.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle27.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle27.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle27.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle27.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvMonster.DefaultCellStyle = dataGridViewCellStyle27;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvMonster.DefaultCellStyle = dataGridViewCellStyle9;
             this.dgvMonster.EnableHeadersVisualStyles = false;
             this.dgvMonster.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvMonster.Location = new System.Drawing.Point(3, 3);
@@ -2003,6 +2054,7 @@
             this.dgvMonster.Name = "dgvMonster";
             this.dgvMonster.ReadOnly = true;
             this.dgvMonster.RowHeadersVisible = false;
+            this.dgvMonster.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.dgvMonster.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvMonster.Size = new System.Drawing.Size(379, 302);
             this.dgvMonster.TabIndex = 0;
@@ -2023,6 +2075,7 @@
             // xPanel15
             // 
             this.xPanel15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel15.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel15.Controls.Add(this.btnPetsResetList);
             this.xPanel15.Controls.Add(this.btnPetsSearch);
             this.xPanel15.Controls.Add(this.tbPetsSearch);
@@ -2039,13 +2092,14 @@
             // 
             this.btnPetsResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsResetList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnPetsResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsResetList.Location = new System.Drawing.Point(216, 98);
+            this.btnPetsResetList.Location = new System.Drawing.Point(216, 99);
             this.btnPetsResetList.Name = "btnPetsResetList";
             this.btnPetsResetList.Size = new System.Drawing.Size(75, 23);
             this.btnPetsResetList.TabIndex = 5;
@@ -2057,13 +2111,14 @@
             // 
             this.btnPetsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsSearch.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnPetsSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPetsSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnPetsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnPetsSearch.Location = new System.Drawing.Point(135, 98);
+            this.btnPetsSearch.Location = new System.Drawing.Point(135, 99);
             this.btnPetsSearch.Name = "btnPetsSearch";
             this.btnPetsSearch.Size = new System.Drawing.Size(75, 23);
             this.btnPetsSearch.TabIndex = 4;
@@ -2074,10 +2129,11 @@
             // tbPetsSearch
             // 
             this.tbPetsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbPetsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbPetsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbPetsSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbPetsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbPetsSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbPetsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbPetsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbPetsSearch.Location = new System.Drawing.Point(11, 100);
             this.tbPetsSearch.Name = "tbPetsSearch";
             this.tbPetsSearch.NumericTextBox = false;
@@ -2088,6 +2144,7 @@
             // 
             this.btnPetsShifter.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsShifter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsShifter.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsShifter.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsShifter.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsShifter.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2106,6 +2163,7 @@
             // 
             this.btnPetsFragment.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsFragment.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsFragment.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsFragment.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsFragment.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsFragment.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2124,6 +2182,7 @@
             // 
             this.btnPetsCataclyst.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsCataclyst.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsCataclyst.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsCataclyst.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsCataclyst.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsCataclyst.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2142,6 +2201,7 @@
             // 
             this.xPanel14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel14.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel14.Controls.Add(this.btnPetsEnhance);
             this.xPanel14.Controls.Add(this.cbPetsStage);
             this.xPanel14.Controls.Add(this.cbPetsTamed);
@@ -2158,6 +2218,7 @@
             // 
             this.btnPetsEnhance.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsEnhance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsEnhance.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsEnhance.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsEnhance.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsEnhance.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2176,9 +2237,8 @@
             // 
             this.cbPetsStage.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbPetsStage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbPetsStage.BorderColor = System.Drawing.Color.Black;
-            this.cbPetsStage.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbPetsStage.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbPetsStage.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbPetsStage.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbPetsStage.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbPetsStage.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbPetsStage.FormattingEnabled = true;
@@ -2191,7 +2251,7 @@
             "5"});
             this.cbPetsStage.Location = new System.Drawing.Point(74, 68);
             this.cbPetsStage.Name = "cbPetsStage";
-            this.cbPetsStage.Size = new System.Drawing.Size(56, 21);
+            this.cbPetsStage.Size = new System.Drawing.Size(56, 23);
             this.cbPetsStage.TabIndex = 5;
             this.cbPetsStage.Text = "Stage";
             // 
@@ -2213,9 +2273,8 @@
             // 
             this.cbPetsSlot.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cbPetsSlot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.cbPetsSlot.BorderColor = System.Drawing.Color.Black;
-            this.cbPetsSlot.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.cbPetsSlot.ButtonColor = System.Drawing.Color.Transparent;
+            this.cbPetsSlot.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.cbPetsSlot.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.cbPetsSlot.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.cbPetsSlot.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.cbPetsSlot.FormattingEnabled = true;
@@ -2228,7 +2287,7 @@
             "5"});
             this.cbPetsSlot.Location = new System.Drawing.Point(12, 68);
             this.cbPetsSlot.Name = "cbPetsSlot";
-            this.cbPetsSlot.Size = new System.Drawing.Size(56, 21);
+            this.cbPetsSlot.Size = new System.Drawing.Size(56, 23);
             this.cbPetsSlot.TabIndex = 0;
             this.cbPetsSlot.Text = "Slot";
             // 
@@ -2246,6 +2305,7 @@
             // 
             this.btnPetsAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPetsAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnPetsAdd.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnPetsAdd.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsAdd.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnPetsAdd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2265,6 +2325,7 @@
             this.xPanel5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel5.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel5.Controls.Add(this.dgvPets);
             this.xPanel5.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel5.Location = new System.Drawing.Point(6, 6);
@@ -2278,38 +2339,38 @@
             this.dgvPets.AllowUserToDeleteRows = false;
             this.dgvPets.AllowUserToResizeColumns = false;
             this.dgvPets.AllowUserToResizeRows = false;
-            dataGridViewCellStyle28.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle28.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle28.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle28.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle28.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvPets.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle28;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvPets.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
             this.dgvPets.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvPets.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvPets.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvPets.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvPets.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle29.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle29.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle29.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle29.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle29.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle29.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvPets.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle29;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle11.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvPets.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
             this.dgvPets.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPets.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle30.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle30.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle30.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle30.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle30.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvPets.DefaultCellStyle = dataGridViewCellStyle30;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle12.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle12.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvPets.DefaultCellStyle = dataGridViewCellStyle12;
             this.dgvPets.EnableHeadersVisualStyles = false;
             this.dgvPets.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvPets.Location = new System.Drawing.Point(3, 3);
@@ -2317,6 +2378,7 @@
             this.dgvPets.Name = "dgvPets";
             this.dgvPets.ReadOnly = true;
             this.dgvPets.RowHeadersVisible = false;
+            this.dgvPets.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.dgvPets.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPets.Size = new System.Drawing.Size(379, 302);
             this.dgvPets.TabIndex = 0;
@@ -2339,6 +2401,7 @@
             this.xPanel21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel21.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel21.Controls.Add(this.dgvSkills);
             this.xPanel21.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel21.Location = new System.Drawing.Point(6, 6);
@@ -2352,38 +2415,38 @@
             this.dgvSkills.AllowUserToDeleteRows = false;
             this.dgvSkills.AllowUserToResizeColumns = false;
             this.dgvSkills.AllowUserToResizeRows = false;
-            dataGridViewCellStyle31.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle31.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle31.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle31.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle31.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvSkills.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle31;
+            dataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle13.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle13.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle13.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle13.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvSkills.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
             this.dgvSkills.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvSkills.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvSkills.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvSkills.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvSkills.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle32.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle32.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle32.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle32.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle32.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle32.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle32.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvSkills.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle32;
+            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle14.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle14.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle14.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle14.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvSkills.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
             this.dgvSkills.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSkills.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle33.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle33.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle33.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle33.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle33.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle33.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvSkills.DefaultCellStyle = dataGridViewCellStyle33;
+            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle15.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle15.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle15.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvSkills.DefaultCellStyle = dataGridViewCellStyle15;
             this.dgvSkills.EnableHeadersVisualStyles = false;
             this.dgvSkills.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvSkills.Location = new System.Drawing.Point(3, 3);
@@ -2391,6 +2454,7 @@
             this.dgvSkills.Name = "dgvSkills";
             this.dgvSkills.ReadOnly = true;
             this.dgvSkills.RowHeadersVisible = false;
+            this.dgvSkills.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.dgvSkills.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvSkills.Size = new System.Drawing.Size(379, 302);
             this.dgvSkills.TabIndex = 0;
@@ -2398,6 +2462,7 @@
             // xPanel19
             // 
             this.xPanel19.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel19.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel19.Controls.Add(this.btnSkillsResetList);
             this.xPanel19.Controls.Add(this.btnSkillsSearch);
             this.xPanel19.Controls.Add(this.tbSkillsSearch);
@@ -2411,13 +2476,14 @@
             // 
             this.btnSkillsResetList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSkillsResetList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSkillsResetList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSkillsResetList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSkillsResetList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSkillsResetList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnSkillsResetList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSkillsResetList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnSkillsResetList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnSkillsResetList.Location = new System.Drawing.Point(217, 96);
+            this.btnSkillsResetList.Location = new System.Drawing.Point(216, 99);
             this.btnSkillsResetList.Name = "btnSkillsResetList";
             this.btnSkillsResetList.Size = new System.Drawing.Size(75, 23);
             this.btnSkillsResetList.TabIndex = 2;
@@ -2429,13 +2495,14 @@
             // 
             this.btnSkillsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSkillsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnSkillsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnSkillsSearch.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSkillsSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnSkillsSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.btnSkillsSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSkillsSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btnSkillsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnSkillsSearch.Location = new System.Drawing.Point(136, 96);
+            this.btnSkillsSearch.Location = new System.Drawing.Point(135, 99);
             this.btnSkillsSearch.Name = "btnSkillsSearch";
             this.btnSkillsSearch.Size = new System.Drawing.Size(75, 23);
             this.btnSkillsSearch.TabIndex = 1;
@@ -2446,11 +2513,12 @@
             // tbSkillsSearch
             // 
             this.tbSkillsSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSkillsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbSkillsSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbSkillsSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbSkillsSearch.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbSkillsSearch.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbSkillsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbSkillsSearch.Location = new System.Drawing.Point(12, 98);
+            this.tbSkillsSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbSkillsSearch.Location = new System.Drawing.Point(11, 100);
             this.tbSkillsSearch.Name = "tbSkillsSearch";
             this.tbSkillsSearch.NumericTextBox = false;
             this.tbSkillsSearch.Size = new System.Drawing.Size(118, 22);
@@ -2460,6 +2528,7 @@
             // 
             this.xPanel20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel20.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel20.Controls.Add(this.btnResetSkill);
             this.xPanel20.Controls.Add(this.btnLearnCreatureSkill);
             this.xPanel20.Controls.Add(this.label2);
@@ -2469,6 +2538,44 @@
             this.xPanel20.Name = "xPanel20";
             this.xPanel20.Size = new System.Drawing.Size(369, 169);
             this.xPanel20.TabIndex = 9;
+            // 
+            // btnResetSkill
+            // 
+            this.btnResetSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnResetSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnResetSkill.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.btnResetSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnResetSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnResetSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnResetSkill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnResetSkill.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnResetSkill.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnResetSkill.Location = new System.Drawing.Point(264, 131);
+            this.btnResetSkill.Name = "btnResetSkill";
+            this.btnResetSkill.Size = new System.Drawing.Size(93, 23);
+            this.btnResetSkill.TabIndex = 8;
+            this.btnResetSkill.Text = "Reset Skills";
+            this.btnResetSkill.UseVisualStyleBackColor = false;
+            this.btnResetSkill.Click += new System.EventHandler(this.ResetSkill);
+            // 
+            // btnLearnCreatureSkill
+            // 
+            this.btnLearnCreatureSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnLearnCreatureSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnLearnCreatureSkill.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.btnLearnCreatureSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnLearnCreatureSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnLearnCreatureSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnLearnCreatureSkill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLearnCreatureSkill.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnLearnCreatureSkill.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnLearnCreatureSkill.Location = new System.Drawing.Point(132, 131);
+            this.btnLearnCreatureSkill.Name = "btnLearnCreatureSkill";
+            this.btnLearnCreatureSkill.Size = new System.Drawing.Size(126, 23);
+            this.btnLearnCreatureSkill.TabIndex = 7;
+            this.btnLearnCreatureSkill.Text = "Learn Creature Skill";
+            this.btnLearnCreatureSkill.UseVisualStyleBackColor = false;
+            this.btnLearnCreatureSkill.Click += new System.EventHandler(this.LearnCreatureSkill);
             // 
             // label2
             // 
@@ -2486,6 +2593,7 @@
             // 
             this.btnLearnSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnLearnSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnLearnSkill.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.btnLearnSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.btnLearnSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2516,28 +2624,30 @@
             // xPanel18
             // 
             this.xPanel18.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel18.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel18.Controls.Add(this.tbWarpRemoveFromList);
             this.xPanel18.Controls.Add(this.tbWarpAddY);
             this.xPanel18.Controls.Add(this.tbWarpAddName);
             this.xPanel18.Controls.Add(this.tbWarpAddX);
             this.xPanel18.Controls.Add(this.tbWarpAddToList);
             this.xPanel18.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.xPanel18.Location = new System.Drawing.Point(397, 181);
+            this.xPanel18.Location = new System.Drawing.Point(398, 181);
             this.xPanel18.Name = "xPanel18";
-            this.xPanel18.Size = new System.Drawing.Size(370, 133);
+            this.xPanel18.Size = new System.Drawing.Size(369, 133);
             this.xPanel18.TabIndex = 5;
             // 
             // tbWarpRemoveFromList
             // 
             this.tbWarpRemoveFromList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpRemoveFromList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpRemoveFromList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpRemoveFromList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpRemoveFromList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpRemoveFromList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.tbWarpRemoveFromList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.tbWarpRemoveFromList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.tbWarpRemoveFromList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.tbWarpRemoveFromList.Location = new System.Drawing.Point(96, 64);
+            this.tbWarpRemoveFromList.Location = new System.Drawing.Point(95, 64);
             this.tbWarpRemoveFromList.Name = "tbWarpRemoveFromList";
             this.tbWarpRemoveFromList.Size = new System.Drawing.Size(34, 23);
             this.tbWarpRemoveFromList.TabIndex = 4;
@@ -2548,11 +2658,12 @@
             // tbWarpAddY
             // 
             this.tbWarpAddY.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbWarpAddY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbWarpAddY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbWarpAddY.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbWarpAddY.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpAddY.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbWarpAddY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbWarpAddY.Location = new System.Drawing.Point(74, 12);
+            this.tbWarpAddY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbWarpAddY.Location = new System.Drawing.Point(73, 12);
             this.tbWarpAddY.Name = "tbWarpAddY";
             this.tbWarpAddY.NumericTextBox = true;
             this.tbWarpAddY.Size = new System.Drawing.Size(56, 22);
@@ -2563,11 +2674,12 @@
             // tbWarpAddName
             // 
             this.tbWarpAddName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbWarpAddName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbWarpAddName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbWarpAddName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbWarpAddName.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpAddName.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbWarpAddName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbWarpAddName.Location = new System.Drawing.Point(12, 38);
+            this.tbWarpAddName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbWarpAddName.Location = new System.Drawing.Point(11, 38);
             this.tbWarpAddName.Name = "tbWarpAddName";
             this.tbWarpAddName.NumericTextBox = false;
             this.tbWarpAddName.Size = new System.Drawing.Size(118, 22);
@@ -2578,11 +2690,12 @@
             // tbWarpAddX
             // 
             this.tbWarpAddX.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbWarpAddX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbWarpAddX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbWarpAddX.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbWarpAddX.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpAddX.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbWarpAddX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.tbWarpAddX.Location = new System.Drawing.Point(12, 12);
+            this.tbWarpAddX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.tbWarpAddX.Location = new System.Drawing.Point(11, 12);
             this.tbWarpAddX.Name = "tbWarpAddX";
             this.tbWarpAddX.NumericTextBox = true;
             this.tbWarpAddX.Size = new System.Drawing.Size(56, 22);
@@ -2594,13 +2707,14 @@
             // 
             this.tbWarpAddToList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpAddToList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpAddToList.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpAddToList.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpAddToList.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpAddToList.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
             this.tbWarpAddToList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.tbWarpAddToList.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.tbWarpAddToList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.tbWarpAddToList.Location = new System.Drawing.Point(12, 64);
+            this.tbWarpAddToList.Location = new System.Drawing.Point(11, 64);
             this.tbWarpAddToList.Name = "tbWarpAddToList";
             this.tbWarpAddToList.Size = new System.Drawing.Size(78, 23);
             this.tbWarpAddToList.TabIndex = 3;
@@ -2612,6 +2726,7 @@
             // 
             this.xPanel17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel17.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel17.Controls.Add(this.tbWarpOpenMap);
             this.xPanel17.Controls.Add(this.tbWarpToSomeone);
             this.xPanel17.Controls.Add(this.tbWarpToYou);
@@ -2619,7 +2734,7 @@
             this.xPanel17.Controls.Add(this.tbWarpY);
             this.xPanel17.Controls.Add(this.tbWarpX);
             this.xPanel17.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.xPanel17.Location = new System.Drawing.Point(397, 6);
+            this.xPanel17.Location = new System.Drawing.Point(398, 6);
             this.xPanel17.Name = "xPanel17";
             this.xPanel17.Size = new System.Drawing.Size(369, 169);
             this.xPanel17.TabIndex = 4;
@@ -2628,6 +2743,7 @@
             // 
             this.tbWarpOpenMap.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpOpenMap.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpOpenMap.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpOpenMap.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpOpenMap.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpOpenMap.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2646,6 +2762,7 @@
             // 
             this.tbWarpToSomeone.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpToSomeone.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpToSomeone.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpToSomeone.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpToSomeone.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpToSomeone.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2664,6 +2781,7 @@
             // 
             this.tbWarpToYou.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpToYou.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpToYou.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpToYou.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpToYou.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpToYou.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2682,6 +2800,7 @@
             // 
             this.tbWarpWarp.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.tbWarpWarp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.tbWarpWarp.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpWarp.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpWarp.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.tbWarpWarp.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
@@ -2699,10 +2818,11 @@
             // tbWarpY
             // 
             this.tbWarpY.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbWarpY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbWarpY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbWarpY.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbWarpY.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpY.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbWarpY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbWarpY.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbWarpY.Location = new System.Drawing.Point(73, 53);
             this.tbWarpY.Name = "tbWarpY";
             this.tbWarpY.NumericTextBox = true;
@@ -2714,10 +2834,11 @@
             // tbWarpX
             // 
             this.tbWarpX.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbWarpX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tbWarpX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.tbWarpX.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbWarpX.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.tbWarpX.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.tbWarpX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.tbWarpX.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
             this.tbWarpX.Location = new System.Drawing.Point(12, 53);
             this.tbWarpX.Name = "tbWarpX";
             this.tbWarpX.NumericTextBox = true;
@@ -2731,6 +2852,7 @@
             this.xPanel16.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.xPanel16.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.xPanel16.Controls.Add(this.dgvWarps);
             this.xPanel16.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.xPanel16.Location = new System.Drawing.Point(6, 6);
@@ -2744,38 +2866,38 @@
             this.dgvWarps.AllowUserToDeleteRows = false;
             this.dgvWarps.AllowUserToResizeColumns = false;
             this.dgvWarps.AllowUserToResizeRows = false;
-            dataGridViewCellStyle34.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle34.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle34.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle34.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle34.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvWarps.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle34;
+            dataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle16.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle16.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle16.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle16.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvWarps.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
             this.dgvWarps.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvWarps.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
             this.dgvWarps.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvWarps.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
             this.dgvWarps.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle35.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
-            dataGridViewCellStyle35.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle35.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
-            dataGridViewCellStyle35.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle35.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle35.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle35.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvWarps.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle35;
+            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(44)))));
+            dataGridViewCellStyle17.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(119)))), ((int)(((byte)(121)))));
+            dataGridViewCellStyle17.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle17.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle17.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvWarps.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
             this.dgvWarps.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvWarps.Cursor = System.Windows.Forms.Cursors.Default;
-            dataGridViewCellStyle36.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle36.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            dataGridViewCellStyle36.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            dataGridViewCellStyle36.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle36.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle36.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvWarps.DefaultCellStyle = dataGridViewCellStyle36;
+            dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle18.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            dataGridViewCellStyle18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            dataGridViewCellStyle18.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle18.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle18.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvWarps.DefaultCellStyle = dataGridViewCellStyle18;
             this.dgvWarps.EnableHeadersVisualStyles = false;
             this.dgvWarps.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.dgvWarps.Location = new System.Drawing.Point(3, 3);
@@ -2783,6 +2905,7 @@
             this.dgvWarps.Name = "dgvWarps";
             this.dgvWarps.ReadOnly = true;
             this.dgvWarps.RowHeadersVisible = false;
+            this.dgvWarps.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.dgvWarps.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvWarps.Size = new System.Drawing.Size(379, 302);
             this.dgvWarps.TabIndex = 0;
@@ -2791,6 +2914,7 @@
             // tpAbout
             // 
             this.tpAbout.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.tpAbout.Controls.Add(this.btnChangeColor);
             this.tpAbout.Controls.Add(this.lbAbout);
             this.tpAbout.Controls.Add(this.pbMX);
             this.tpAbout.Location = new System.Drawing.Point(4, 32);
@@ -2800,19 +2924,38 @@
             this.tpAbout.TabIndex = 7;
             this.tpAbout.Text = "About";
             // 
+            // btnChangeColor
+            // 
+            this.btnChangeColor.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnChangeColor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnChangeColor.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.btnChangeColor.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnChangeColor.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btnChangeColor.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
+            this.btnChangeColor.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnChangeColor.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnChangeColor.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.btnChangeColor.Location = new System.Drawing.Point(21, 291);
+            this.btnChangeColor.Name = "btnChangeColor";
+            this.btnChangeColor.Size = new System.Drawing.Size(121, 23);
+            this.btnChangeColor.TabIndex = 6;
+            this.btnChangeColor.Text = "Change Color";
+            this.btnChangeColor.UseVisualStyleBackColor = false;
+            this.btnChangeColor.Click += new System.EventHandler(this.btnChangeColor_Click);
+            // 
             // lbAbout
             // 
             this.lbAbout.AutoSize = true;
             this.lbAbout.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.lbAbout.Location = new System.Drawing.Point(282, 25);
             this.lbAbout.Name = "lbAbout";
-            this.lbAbout.Size = new System.Drawing.Size(369, 210);
+            this.lbAbout.Size = new System.Drawing.Size(398, 255);
             this.lbAbout.TabIndex = 1;
             this.lbAbout.Text = resources.GetString("lbAbout.Text");
             // 
             // pbMX
             // 
-            this.pbMX.Image = global::GM_Tool_V5.Properties.Resources.logo_fitting;
+            this.pbMX.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolBlueAbout;
             this.pbMX.Location = new System.Drawing.Point(25, 25);
             this.pbMX.Name = "pbMX";
             this.pbMX.Size = new System.Drawing.Size(250, 250);
@@ -2820,41 +2963,21 @@
             this.pbMX.TabIndex = 0;
             this.pbMX.TabStop = false;
             // 
-            // btnLearnCreatureSkill
+            // lbCharacter
             // 
-            this.btnLearnCreatureSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnLearnCreatureSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnLearnCreatureSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnLearnCreatureSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnLearnCreatureSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
-            this.btnLearnCreatureSkill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLearnCreatureSkill.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnLearnCreatureSkill.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnLearnCreatureSkill.Location = new System.Drawing.Point(132, 131);
-            this.btnLearnCreatureSkill.Name = "btnLearnCreatureSkill";
-            this.btnLearnCreatureSkill.Size = new System.Drawing.Size(126, 23);
-            this.btnLearnCreatureSkill.TabIndex = 7;
-            this.btnLearnCreatureSkill.Text = "Learn Creature Skill";
-            this.btnLearnCreatureSkill.UseVisualStyleBackColor = false;
-            this.btnLearnCreatureSkill.Click += new System.EventHandler(this.LearnCreatureSkill);
-            // 
-            // btnResetSkill
-            // 
-            this.btnResetSkill.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnResetSkill.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnResetSkill.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnResetSkill.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btnResetSkill.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(63)))), ((int)(((byte)(65)))));
-            this.btnResetSkill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnResetSkill.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnResetSkill.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
-            this.btnResetSkill.Location = new System.Drawing.Point(264, 131);
-            this.btnResetSkill.Name = "btnResetSkill";
-            this.btnResetSkill.Size = new System.Drawing.Size(93, 23);
-            this.btnResetSkill.TabIndex = 8;
-            this.btnResetSkill.Text = "Reset Skills";
-            this.btnResetSkill.UseVisualStyleBackColor = false;
-            this.btnResetSkill.Click += new System.EventHandler(this.ResetSkill);
+            this.lbCharacter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lbCharacter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(38)))));
+            this.lbCharacter.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.lbCharacter.ColorStyle = GM_Tool_V5.XColorStyle.Blue;
+            this.lbCharacter.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.lbCharacter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.lbCharacter.FormattingEnabled = true;
+            this.lbCharacter.ItemHeight = 14;
+            this.lbCharacter.Location = new System.Drawing.Point(796, 88);
+            this.lbCharacter.Name = "lbCharacter";
+            this.lbCharacter.Size = new System.Drawing.Size(161, 266);
+            this.lbCharacter.TabIndex = 3;
             // 
             // frmGlobalUI
             // 
@@ -2963,7 +3086,7 @@
         private System.Windows.Forms.TabPage tpSpawn;
         private System.Windows.Forms.TabPage tpWarp;
         private System.Windows.Forms.TabPage tpAbout;
-        private System.Windows.Forms.ListBox lbCharacter;
+        private XListBox lbCharacter;
         private XTextBox tbCharacter;
         private XButton btnCharacterAdd;
         private XButton btnCharacterDelete;
@@ -3057,7 +3180,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiDatabase;
         private System.Windows.Forms.ToolStripSeparator tssOptions;
         private XPanel xPanel16;
-        private System.Windows.Forms.DataGridView dgvWarps;
+        private XDataGridView dgvWarps;
         private XPanel xPanel18;
         private XPanel xPanel17;
         private XButton tbWarpRemoveFromList;
@@ -3071,10 +3194,10 @@
         private XButton tbWarpWarp;
         private XTextBox tbWarpY;
         private XTextBox tbWarpX;
-        public System.Windows.Forms.DataGridView dgvItems;
-        public System.Windows.Forms.DataGridView dgvBuffs;
-        public System.Windows.Forms.DataGridView dgvPets;
-        public System.Windows.Forms.DataGridView dgvMonster;
+        public XDataGridView dgvItems;
+        public XDataGridView dgvBuffs;
+        public XDataGridView dgvPets;
+        public XDataGridView dgvMonster;
         private XButton btnCharacterKillTarget;
         private XButton btnAddHuntaholicPoints;
         private XTextBox tbHuntaholicPoints;
@@ -3090,7 +3213,7 @@
         private XComboBox cbPetsSlot;
         private System.Windows.Forms.TabPage tpSkills;
         private XPanel xPanel21;
-        public System.Windows.Forms.DataGridView dgvSkills;
+        public XDataGridView dgvSkills;
         private XPanel xPanel19;
         private XButton btnSkillsResetList;
         private XButton btnSkillsSearch;
@@ -3102,6 +3225,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiExportSkill;
         private XButton btnResetSkill;
         private XButton btnLearnCreatureSkill;
+        private XButton btnChangeColor;
     }
 }
 

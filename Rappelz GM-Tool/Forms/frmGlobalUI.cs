@@ -10,6 +10,30 @@ using System.Diagnostics;
 namespace GM_Tool_V5 {
     public partial class frmGlobalUI : Form {
         #region Form functions
+        public IEnumerable<Control> GetSelfAndChildrenRecursive(Control parent)
+        {
+            List<Control> controls = new List<Control>();
+
+            foreach (Control child in parent.Controls)
+            {
+                controls.AddRange(GetSelfAndChildrenRecursive(child));
+            }
+
+            controls.Add(parent);
+
+            return controls;
+        }
+
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle |= 0x02000000;  // Turn on WS_EX_COMPOSITED
+                return cp;
+            }
+        }
+
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
 
@@ -101,6 +125,8 @@ namespace GM_Tool_V5 {
         #region Initiations
         public frmGlobalUI() {
             InitializeComponent();
+            XColors.CURRENT_COLOR = (XColorStyle)Properties.Settings.Default.nStyle;
+            ChangeStyle();
             tbSendNotice1.Text = Properties.Settings.Default.NoticeOne;
             tbSendNotice2.Text = Properties.Settings.Default.NoticeTwo;
             tbSendNotice3.Text = Properties.Settings.Default.NoticeThree;
@@ -206,6 +232,8 @@ namespace GM_Tool_V5 {
         #endregion
 
         #region GUI-Events
+
+
         private void tsmiDatabase_Click(object sender, EventArgs e) {
             frmDatabase dbForm = new frmDatabase( this );
             dbForm.ShowDialog();
@@ -258,6 +286,38 @@ namespace GM_Tool_V5 {
             SFM.ImportList( openDialog.FileName, szFilename, dgv );
         }
 
+        private void ChangeStyle()
+        {
+            if (XColors.CURRENT_COLOR == XColorStyle.Blue)
+            {
+                GetSelfAndChildrenRecursive(this).OfType<XButton>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XPanel>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XTabControl>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XDataGridView>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XListBox>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                GetSelfAndChildrenRecursive(this).OfType<XComboBox>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Blue);
+                pbLogo.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolBlue;
+                pbMX.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolBlueAbout;
+            }
+            else
+            {
+                GetSelfAndChildrenRecursive(this).OfType<XButton>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XPanel>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XTabControl>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XDataGridView>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XListBox>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                GetSelfAndChildrenRecursive(this).OfType<XComboBox>().ToList().ForEach(b => b.ColorStyle = XColorStyle.Red);
+                pbLogo.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolRed;
+                pbMX.Image = global::GM_Tool_V5.Properties.Resources.GM_ToolRedAbout;
+            }
+        }
+
+        private void btnChangeColor_Click(object sender, EventArgs e)
+        {
+            XColors.CURRENT_COLOR = XColors.CURRENT_COLOR == XColorStyle.Blue ? XColorStyle.Red : XColorStyle.Blue;
+            ChangeStyle();
+        }
+
         private void tsmiExportListClicked(object sender, EventArgs e) {
             SaveFileDialog saveDialog = new SaveFileDialog();
             saveDialog.Filter = "Text Files (.txt)|*.txt";
@@ -298,6 +358,7 @@ namespace GM_Tool_V5 {
             Properties.Settings.Default.NoticeTwo = tbSendNotice2.Text;
             Properties.Settings.Default.NoticeThree = tbSendNotice3.Text;
             Properties.Settings.Default.NoticeFour = tbSendNotice4.Text;
+            Properties.Settings.Default.nStyle = (int)XColors.CURRENT_COLOR;
             Properties.Settings.Default.Save();
         }
 

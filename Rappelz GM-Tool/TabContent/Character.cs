@@ -13,16 +13,17 @@ namespace GM_Tool_V5 {
         }
 
         #region Character
-        private void InsertGold(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run insert_gold({0}, \"{1}\")", tbCharacterGold.Text, GetSelectedCharacter());
+        private void InsertGold(object sender, EventArgs e)
+        {
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run insert_gold({0})", tbCharacterGold.Text);
         }
 
         private void SetValue(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run sv(\"{0}\", \"{1}\", \"{2}\")", cbSetValue.Text, tbSVValue.Text, GetSelectedCharacter());
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run sv(\"{0}\", \"{1}\")", cbSetValue.Text, tbSVValue.Text);
         }
 
         private void SetCreatureValue(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run scv( get_creature_handle({0}), \"{1}\", \"{2}\", \"{3}\")", tbCreatureSlot.Text, cbSetCreatureValue.Text, tbSetCreatureValue.Text, GetSelectedCharacter());
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run scv( get_creature_handle({0}), \"{1}\", \"{2}\")", tbCreatureSlot.Text, cbSetCreatureValue.Text, tbSetCreatureValue.Text);
         }
 
         private void ChangeJob(object sender, EventArgs e) {
@@ -30,11 +31,11 @@ namespace GM_Tool_V5 {
         }
 
         private void LearnAllSkill(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run learn_all_skill(\"{0}\")", GetSelectedCharacter());
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run learn_all_skill()");
         }
 
         private void LearnCreatureAllSkill(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run learn_creature_all_skill(\"XijezuIsGod\", \"{0}\")", GetSelectedCharacter());
+            SFM.CopyToClipboard("/run learn_creature_all_skill()");
         }
 
         private void SendNotice(object sender, EventArgs e) {
@@ -63,7 +64,7 @@ namespace GM_Tool_V5 {
         }
 
         private void AddHuntaholicPoints(object sender, EventArgs e) {
-            SFM.CopyToClipboard("/run set_huntaholic_point(gv(\"huntaholic_point\") + {0}, \"{1}\")", tbHuntaholicPoints.Text, GetSelectedCharacter());
+            SFM.CopyToClipboardWC(GetSelectedCharacter(), "/run set_huntaholic_point(gv(\"huntaholic_point\") + {0})", tbHuntaholicPoints.Text);
         }
         #endregion
     }

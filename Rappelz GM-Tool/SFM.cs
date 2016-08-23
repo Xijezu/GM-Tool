@@ -160,6 +160,21 @@ namespace GM_Tool_V5
         #endregion
 
         #region Clipboard functions
+
+        static public void CopyToClipboardWC(string szName, string form, params object[] val)
+        {
+            if (szName.Contains("<"))
+            {
+                CopyToClipboard(form, val);
+                return;
+            }
+
+            form = form.Remove(form.Length - 1);
+            form += form.Contains("learn_all_skill") ? "\"" + szName + "\")" : ", \"" + szName + "\")";
+
+            CopyToClipboard(form, val);
+        }
+
         static public void CopyToClipboard(string form, params object[] val)
         {
             Clipboard.SetText(string.Format(form, val), TextDataFormat.UnicodeText);

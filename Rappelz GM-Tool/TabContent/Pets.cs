@@ -29,7 +29,7 @@ namespace GM_Tool_V5 {
             } else {
                 iItem = 710003;
             }
-            SFM.CopyToClipboard("/run insert_item({0}, 1)", iItem, GetSelectedCharacter());
+            SFM.CopyToClipboard("/run insert_item({0}, 1)", iItem);
         }
         #endregion
     }

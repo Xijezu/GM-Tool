@@ -7,6 +7,9 @@ using System.ComponentModel;
 namespace GM_Tool_V5 {
     class XTextBox : TextBox
     {
+        private XColorStyle _colorStyle = XColorStyle.Blue;
+        private XColors _colors;
+
         private string _baseText = "";
 
         private bool _firstEnter = false;
@@ -15,8 +18,7 @@ namespace GM_Tool_V5 {
 
         public XTextBox()
         {
-            this.ForeColor = Color.FromArgb(255, 255, 255);
-            this.BackColor = Color.FromArgb(37, 37, 38);
+            setColors();
             this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             this.Font = new System.Drawing.Font("Segoe UI", 8.0F);
@@ -63,6 +65,29 @@ namespace GM_Tool_V5 {
             set {
                 _isNumeric = value;
                 Invalidate();
+            }
+        }
+
+        private void setColors()
+        {
+            if (_colorStyle == XColorStyle.Blue)
+                _colors = new XBlue();
+            else if (_colorStyle == XColorStyle.Red)
+                _colors = new XRed();
+
+            this.BackColor = _colors.getBackgroundColor();
+            this.ForeColor = _colors.getForeColor();
+        }
+
+        [Category("Appearance")]
+        public XColorStyle ColorStyle
+        {
+            get { return _colorStyle; }
+            set
+            {
+                _colorStyle = value;
+                setColors();
+                Invalidate(); // causes control to be redrawn
             }
         }
     }
